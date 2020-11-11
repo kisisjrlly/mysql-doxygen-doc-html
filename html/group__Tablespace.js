@@ -1,0 +1,47 @@
+var group__Tablespace =
+[
+    [ "xdes_mem_t", "structxdes__mem__t.html", [
+      [ "xdes_mem_t", "structxdes__mem__t.html#ac7a849e9206b277a1ffa498960ad9f1d", null ],
+      [ "is_valid", "structxdes__mem__t.html#aab20e8bcd7b958c9b950d6e449a404f6", null ],
+      [ "print", "structxdes__mem__t.html#adf78c471ca8048103326cb1d37c31616", null ],
+      [ "state_name", "structxdes__mem__t.html#aab9d89d578e09d40427ad5a2adc38d52", null ],
+      [ "m_xdes", "structxdes__mem__t.html#aa6cbb5c21360dccf6b81c6e6357c4664", null ]
+    ] ],
+    [ "fsp_header_mem_t", "structfsp__header__mem__t.html", [
+      [ "fsp_header_mem_t", "structfsp__header__mem__t.html#add69494ef6af156edba79e84be699e8c", null ],
+      [ "print", "structfsp__header__mem__t.html#ab84299dcc594934e8cbfd28a1bba5182", null ],
+      [ "m_flags", "structfsp__header__mem__t.html#a6ae18459f5cc1b3cc43d1981c66d253f", null ],
+      [ "m_free_frag", "structfsp__header__mem__t.html#a13cf74b4339c2d60a0c207a8cf03ba76", null ],
+      [ "m_free_limit", "structfsp__header__mem__t.html#a31b4df220bf88150767b8e8f185f5b84", null ],
+      [ "m_fsp_frag_n_used", "structfsp__header__mem__t.html#a58c81087c7405182deac8d4680fb4100", null ],
+      [ "m_fsp_free", "structfsp__header__mem__t.html#aa954c37cbff93f392b2ad7a1a2ad8d4a", null ],
+      [ "m_fsp_size", "structfsp__header__mem__t.html#aa848d5ad827300b772bf35b040f0c47f", null ],
+      [ "m_full_frag", "structfsp__header__mem__t.html#ab64b32644f3d70dc7f95ecf822c6f70c", null ],
+      [ "m_inodes_free", "structfsp__header__mem__t.html#a1ca2a8f1261cf24cc0b3b4445b0837fd", null ],
+      [ "m_inodes_full", "structfsp__header__mem__t.html#aec49525afde9a378bd3285d58dc7e1e2", null ],
+      [ "m_notused", "structfsp__header__mem__t.html#a26c1203fa3c1458711511d6dc023581e", null ],
+      [ "m_segid", "structfsp__header__mem__t.html#a6ea459e35c2581df6a6e9bc2ad61a5d6", null ],
+      [ "m_space_id", "structfsp__header__mem__t.html#a06030aae5fc130f5b58983653765f64a", null ]
+    ] ],
+    [ "FSP_FRAG_N_USED", "group__Tablespace.html#gab0862933c12b63e1b73573296083d06d", null ],
+    [ "FSP_FREE", "group__Tablespace.html#gaf9fe46d9f9b1503de4fd874b0fe953e9", null ],
+    [ "FSP_FREE_ADD", "group__Tablespace.html#ga0b70a63e0bc07ad02dc684bf0d174887", null ],
+    [ "FSP_FREE_FRAG", "group__Tablespace.html#gae0527695806990e077a5c2f8024d03fc", null ],
+    [ "FSP_FREE_LIMIT", "group__Tablespace.html#ga65e386fcbb4e5115ec8e2aa41e5ec25d", null ],
+    [ "FSP_FULL_FRAG", "group__Tablespace.html#ga33ae74b26d1adc654208fe3e06b80e7f", null ],
+    [ "FSP_HEADER_OFFSET", "group__Tablespace.html#gac07d76ccd967dec4a5ecb06f7fd865f8", null ],
+    [ "FSP_HEADER_SIZE", "group__Tablespace.html#ga97832ddc3eaee4274f3ed32b82016683", null ],
+    [ "FSP_NOT_USED", "group__Tablespace.html#gaf263e806ae08a77e98e992c359cb5c1c", null ],
+    [ "FSP_SDI_HEADER_LEN", "group__Tablespace.html#ga8672f126e7fda57f5d96895f31e46d6c", null ],
+    [ "FSP_SEG_ID", "group__Tablespace.html#ga32c69236359c36b527f40a7fa5993a3a", null ],
+    [ "FSP_SEG_INODES_FREE", "group__Tablespace.html#ga007181a412947f18e450fcfadb45914f", null ],
+    [ "FSP_SEG_INODES_FULL", "group__Tablespace.html#ga195686aea97a92ba7a7cff92b07ef0db", null ],
+    [ "FSP_SIZE", "group__Tablespace.html#ga1aa9fb9eb19f9e514af9d00a1ffc5758", null ],
+    [ "FSP_SPACE_FLAGS", "group__Tablespace.html#ga48bdfe6e48b32c0d9b95e274605b13da", null ],
+    [ "FSP_SPACE_ID", "group__Tablespace.html#gaeb3726959a7cd542cf27fd33290dd861", null ],
+    [ "fsp_header_t", "group__Tablespace.html#gae2bc6de6e57db2e5ad2f84fd6534e4e5", null ],
+    [ "xdes_t", "group__Tablespace.html#ga0f3e9606b8b1eae94fce4fc9792d9b54", null ],
+    [ "operator<<", "group__Tablespace.html#ga93e228ebbcaf9e75efb9529dce26cdc7", null ],
+    [ "operator<<", "group__Tablespace.html#ga36a4acbe688b43136ca025adb2c7a909", null ],
+    [ "xdes_state_is_valid", "group__Tablespace.html#gabd4af21d10029bf358787f8a6b425ae6", null ]
+];

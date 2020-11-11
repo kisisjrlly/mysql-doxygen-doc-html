@@ -1,0 +1,27 @@
+var sql__optimizer_8h =
+[
+    [ "SARGABLE_PARAM", "structSARGABLE__PARAM.html", "structSARGABLE__PARAM" ],
+    [ "ORDER_with_src", "classORDER__with__src.html", "classORDER__with__src" ],
+    [ "JOIN", "classJOIN.html", "classJOIN" ],
+    [ "Switch_ref_item_slice", "classSwitch__ref__item__slice.html", "classSwitch__ref__item__slice" ],
+    [ "Deps_of_remaining_lateral_derived_tables", "classDeps__of__remaining__lateral__derived__tables.html", "classDeps__of__remaining__lateral__derived__tables" ],
+    [ "ASSERT_BEST_REF_IN_JOIN_ORDER", "sql__optimizer_8h.html#aea11eafc0c380c02d00fd3c409fb8648", null ],
+    [ "Key_use_array", "sql__optimizer_8h.html#a1c9b0661f4bc37c76c806ebd03728330", null ],
+    [ "build_bitmap_for_nested_joins", "group__Query__Optimizer.html#gafe571c98d87a5062d82a0e8e66a128ba", null ],
+    [ "build_equal_items", "group__Query__Optimizer.html#ga348b33d99b2bb2271c80442c0378852b", null ],
+    [ "calculate_subquery_executions", "group__Query__Optimizer.html#ga68dccbbb65e6bd21dc9ed043f2e974d4", null ],
+    [ "create_keyuse_for_table", "group__Query__Optimizer.html#ga5d32cd303d430b9aea224023f81366ae", null ],
+    [ "create_order_from_distinct", "group__Query__Optimizer.html#gab9b6ab09ca6fe0b8e9b32afeedc792a3", null ],
+    [ "evaluate_during_optimization", "sql__optimizer_8h.html#aca01dc4575fbd2a51e4061fba00cd7cb", null ],
+    [ "field_time_cmp_date", "sql__optimizer_8h.html#ab128905034b2e3f0c9d13bad19fd4c66", null ],
+    [ "find_item_equal", "group__Query__Optimizer.html#ga874abd8fac03d08de3598b7ea65f4dd0", null ],
+    [ "get_best_field", "group__Query__Optimizer.html#ga67d1175177356bf1c9b05e9104d28c5b", null ],
+    [ "is_indexed_agg_distinct", "group__Query__Optimizer.html#ga2e622501615212f22ca3d4ab13d0fbb0", null ],
+    [ "make_cond_for_table", "group__Query__Optimizer.html#ga9cb279aada05a574f0745fe7dc700389", null ],
+    [ "optimize_cond", "group__Query__Optimizer.html#gab2e311ce93e412ea78a25b7016f91574", null ],
+    [ "remove_eq_conds", "group__Query__Optimizer.html#gaf8c7623dfe6301253414f9155999c43b", null ],
+    [ "substitute_for_best_equal_field", "group__Query__Optimizer.html#ga969165446a2bd1152d11e32c5a2e8d68", null ],
+    [ "substitute_gc", "group__Query__Optimizer.html#gaa95a062cdd785687a638e01d7ad85d11", null ],
+    [ "uses_index_fields_only", "group__Query__Optimizer.html#ga652bf7109dfbe0fdd7deb75c05c0a7a3", null ],
+    [ "antijoin_null_cond", "group__Query__Optimizer.html#gad3716313e877e16afe545f6d944558c0", null ]
+];

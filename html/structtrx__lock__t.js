@@ -1,0 +1,25 @@
+var structtrx__lock__t =
+[
+    [ "autoinc_locks", "structtrx__lock__t.html#adb0a194559352f5ee17e901cb23545e2", null ],
+    [ "blocking_trx", "structtrx__lock__t.html#a30ee2ac214b98e29698601177dbf3cd6", null ],
+    [ "in_rollback", "structtrx__lock__t.html#a5cdbd90ac21c4ea933e01e835dfe27a2", null ],
+    [ "inherit_all", "structtrx__lock__t.html#a2045b09acdd16afe124784b7505ee6fd", null ],
+    [ "lock_heap", "structtrx__lock__t.html#a2b3a26f3c5dc889837e30b8bccd2f572", null ],
+    [ "n_active_thrs", "structtrx__lock__t.html#a8b7f840c1deb4b3322a24bff1a9d11b8", null ],
+    [ "n_rec_locks", "structtrx__lock__t.html#a282d12e7244c934015d3e515f6cdb0e5", null ],
+    [ "que_state", "structtrx__lock__t.html#a5b5a11c3bcbef8f9f71497710587ba90", null ],
+    [ "rec_cached", "structtrx__lock__t.html#a7ecafab6cff6b97a66367feb5fa0b998", null ],
+    [ "rec_pool", "structtrx__lock__t.html#ae2ab8b4add0aaff028acf918f8334a9e", null ],
+    [ "schedule_weight", "structtrx__lock__t.html#a8ef0c5b015cbdab070f3ecd71f4a2ad3", null ],
+    [ "start_stmt", "structtrx__lock__t.html#a2e6d8a21a1999c8c7547dfd353a60483", null ],
+    [ "table_cached", "structtrx__lock__t.html#afc47115095f89b26d9b3ed0a024d04d9", null ],
+    [ "table_locks", "structtrx__lock__t.html#aba8e3a71adc427f9e6b6d48feb999975", null ],
+    [ "table_pool", "structtrx__lock__t.html#a78ad4c453b000f28a03f561e5d531b14", null ],
+    [ "trx_locks", "structtrx__lock__t.html#a3a4d09bc7b1ab30c068be9c870789a1d", null ],
+    [ "trx_locks_version", "structtrx__lock__t.html#a59226dd4afa12903c6be80f6588cd9ef", null ],
+    [ "wait_lock", "structtrx__lock__t.html#a44bc50f6732e67f6bbd1a1c19f03af6c", null ],
+    [ "wait_lock_type", "structtrx__lock__t.html#adfe2615dace4086b723bd4646004402c", null ],
+    [ "wait_started", "structtrx__lock__t.html#a4ab2bc88e411af161ff3c1e447c30ae4", null ],
+    [ "wait_thr", "structtrx__lock__t.html#affae4ec9c18be6c1f774472fae0bfbc9", null ],
+    [ "was_chosen_as_deadlock_victim", "structtrx__lock__t.html#abe07936c64ae62254ce3e9ac845d0a02", null ]
+];

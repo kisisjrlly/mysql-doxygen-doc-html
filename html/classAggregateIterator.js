@@ -1,0 +1,28 @@
+var classAggregateIterator =
+[
+    [ "READING_FIRST_ROW", "classAggregateIterator.html#a71d58e1dd49bc9c7bc03235cdc68669ca379c0edcb72247caab3c457390de6dd6", null ],
+    [ "LAST_ROW_STARTED_NEW_GROUP", "classAggregateIterator.html#a71d58e1dd49bc9c7bc03235cdc68669ca02e9388e37f45d6f104b1b9f631c8875", null ],
+    [ "READING_ROWS", "classAggregateIterator.html#a71d58e1dd49bc9c7bc03235cdc68669cab2f9d83ead3d5a06a645039631b45479", null ],
+    [ "OUTPUTTING_ROLLUP_ROWS", "classAggregateIterator.html#a71d58e1dd49bc9c7bc03235cdc68669ca8de3d9b2e914bb1065c6999869592a65", null ],
+    [ "DONE_OUTPUTTING_ROWS", "classAggregateIterator.html#a71d58e1dd49bc9c7bc03235cdc68669ca9a3144234f38a99e1e708ae147335146", null ],
+    [ "AggregateIterator", "classAggregateIterator.html#ae21b34d2eb15e0721900abe7e5352a52", null ],
+    [ "copy_sum_funcs", "classAggregateIterator.html#acc366c86329cd262301c50244055233f", null ],
+    [ "EndPSIBatchModeIfStarted", "classAggregateIterator.html#acc385de4b8dfbf68304a6233ee55c28d", null ],
+    [ "Init", "classAggregateIterator.html#aa999babb48af75cb683d240b0f6c3791", null ],
+    [ "Read", "classAggregateIterator.html#a3991cd698de121aaaa307577cbcac010", null ],
+    [ "SetNullRowFlag", "classAggregateIterator.html#aeb01f76484eaa11e8d2a338f89ef1f3e", null ],
+    [ "SetRollupLevel", "classAggregateIterator.html#aefd3a5e05887cb645f5b652d8638652f", null ],
+    [ "StartPSIBatchMode", "classAggregateIterator.html#a2bff435252fd1b7bc787754f4465c6ad", null ],
+    [ "UnlockRow", "classAggregateIterator.html#a1036a2a9187791fc58032cc34f142a90", null ],
+    [ "m_current_rollup_position", "classAggregateIterator.html#a178f16953dcc008eae7ae99e18c9f0c7", null ],
+    [ "m_input_slice", "classAggregateIterator.html#a0b927d8e118e2eeeabf1becdd2555c60", null ],
+    [ "m_join", "classAggregateIterator.html#a6144c182c93363814b6f1e7883aac456", null ],
+    [ "m_last_unchanged_group_item_idx", "classAggregateIterator.html#af1dc00cb506f442577d7a322c6357c72", null ],
+    [ "m_output_slice", "classAggregateIterator.html#ab5f195545b766527f6aa328c204a30f5", null ],
+    [ "m_rollup", "classAggregateIterator.html#acef69d1f598c81b5c2fe0dcb2fee646e", null ],
+    [ "m_save_nullinfo", "classAggregateIterator.html#a9e3f75b98ee9b61f9ea3ace7e3bbf3f5", null ],
+    [ "m_seen_eof", "classAggregateIterator.html#a66dd90cf323e69d184628873b5bfc5a7", null ],
+    [ "m_source", "classAggregateIterator.html#ab00624d6060ffcef6060e586649bb803", null ],
+    [ "m_state", "classAggregateIterator.html#ad18f208ea6c9c2a7f025f64697973c43", null ],
+    [ "m_temp_table_param", "classAggregateIterator.html#a240c5179eebd269c2e5b6f09faf58b62", null ]
+];

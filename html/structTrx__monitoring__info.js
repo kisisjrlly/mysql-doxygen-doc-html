@@ -1,0 +1,26 @@
+var structTrx__monitoring__info =
+[
+    [ "Trx_monitoring_info", "structTrx__monitoring__info.html#ad4f0739a673a8c5a93e8c7ecae9f4a7e", null ],
+    [ "Trx_monitoring_info", "structTrx__monitoring__info.html#a28d6af702fb70cc5c5dfdb205a5ff881", null ],
+    [ "clear", "structTrx__monitoring__info.html#a8f2632e5ada14094b27093e37aae7d77", null ],
+    [ "copy_to_ps_table", "structTrx__monitoring__info.html#a8019b701b780c0ddb493f6f85513296e", null ],
+    [ "copy_to_ps_table", "structTrx__monitoring__info.html#a10c4d2d1b6ad64a1096b3f70e50a27fb", null ],
+    [ "copy_to_ps_table", "structTrx__monitoring__info.html#acce76da6afda6473037b6600bdcddacd", null ],
+    [ "copy_to_ps_table", "structTrx__monitoring__info.html#aec58881f3595ad172b903f03e7024406", null ],
+    [ "operator=", "structTrx__monitoring__info.html#ac5b7dc38ae25ab1e9e801e6bcad8fdce", null ],
+    [ "compressed_bytes", "structTrx__monitoring__info.html#adcfc1652378ec70de72a201f5305211a", null ],
+    [ "compression_type", "structTrx__monitoring__info.html#ad03601baa91a7e9f863cebde4801b70a", null ],
+    [ "end_time", "structTrx__monitoring__info.html#a506d1c294eaa2749617313ab826a1d91", null ],
+    [ "gtid", "structTrx__monitoring__info.html#a4f53dd1724421ededabe5976a7615123", null ],
+    [ "immediate_commit_timestamp", "structTrx__monitoring__info.html#a62f419ea14e796503a90d3193dd98fcc", null ],
+    [ "is_info_set", "structTrx__monitoring__info.html#afdb9b318572c74f88f5eeb71acf6871f", null ],
+    [ "is_retrying", "structTrx__monitoring__info.html#a705ed527fb58dd795d6faced5c1ea053", null ],
+    [ "last_transient_error_message", "structTrx__monitoring__info.html#aec5353871be8511ac0d6c3ab0999a552", null ],
+    [ "last_transient_error_number", "structTrx__monitoring__info.html#a092ce4e4402944d20eda76b210facd8d", null ],
+    [ "last_transient_error_timestamp", "structTrx__monitoring__info.html#a4203b20991fc3f0f9c8a8edd949c000b", null ],
+    [ "original_commit_timestamp", "structTrx__monitoring__info.html#a9ee5619239620ff0e73fbe8a0534c997", null ],
+    [ "skipped", "structTrx__monitoring__info.html#a8b0708947746377e8b51b9a51b275521", null ],
+    [ "start_time", "structTrx__monitoring__info.html#afe33f5f64759bfaefc8bd19c3d4cf6c6", null ],
+    [ "transaction_retries", "structTrx__monitoring__info.html#ab37d05e7492d08be13cc214e85b14178", null ],
+    [ "uncompressed_bytes", "structTrx__monitoring__info.html#ada86d60163a04f1d4d1d5f1f8a804b31", null ]
+];

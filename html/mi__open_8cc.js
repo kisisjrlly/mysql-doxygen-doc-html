@@ -1,0 +1,28 @@
+var mi__open_8cc =
+[
+    [ "disk_pos_assert", "mi__open_8cc.html#a56a1995e0b8a457e79047999e45cd254", null ],
+    [ "mi_alloc_rec_buff", "mi__open_8cc.html#afc8e9bbb9066a83ed5c5869c67701a44", null ],
+    [ "mi_base_info_write", "mi__open_8cc.html#a2d28b8003c2b49dcba5f425410059f80", null ],
+    [ "mi_disable_indexes", "mi__open_8cc.html#aa50c0cc535027c673f41328ffff09fc4", null ],
+    [ "mi_enable_indexes", "mi__open_8cc.html#ab8aaa0f4292171dcbc15d34aee9456f6", null ],
+    [ "mi_indexes_are_disabled", "mi__open_8cc.html#ad229cff488f78f56c75fb886bdcfe018", null ],
+    [ "mi_keydef_read", "mi__open_8cc.html#a1ae50a94707c1b9000cca9f32521770d", null ],
+    [ "mi_keydef_write", "mi__open_8cc.html#a9ef858999ba49a50d71d335f974fd950", null ],
+    [ "mi_keyseg_read", "mi__open_8cc.html#acefbca996313fc97fefa889264d05020", null ],
+    [ "mi_keyseg_write", "mi__open_8cc.html#a64db856a5a8ec214fec468811446812e", null ],
+    [ "mi_open_datafile", "mi__open_8cc.html#ad053e8cc8888ad1d1dfcc777dd25f306", null ],
+    [ "mi_open_keyfile", "mi__open_8cc.html#a45d6b7bb0c7a2d363ea2e430dcc72805", null ],
+    [ "mi_open_share", "mi__open_8cc.html#a065f5e22c8397a37857fdbfa078c788b", null ],
+    [ "mi_recinfo_read", "mi__open_8cc.html#a1741073e71a4a4e28713b1dd37cf3530", null ],
+    [ "mi_recinfo_write", "mi__open_8cc.html#a4633990be52a19b93aa998b671c18fa1", null ],
+    [ "mi_safe_mul", "mi__open_8cc.html#a5ae85b7d0b43904838ca2300b349e8b5", null ],
+    [ "mi_setup_functions", "mi__open_8cc.html#a67dcc2ac5f8a2faf58cfe6bb687438ba", null ],
+    [ "mi_state_info_read", "mi__open_8cc.html#a9ea7196c6017102dad4096e020eb046f", null ],
+    [ "mi_state_info_read_dsk", "mi__open_8cc.html#a94a7dc3393c59482a4160d9f579f9e9c", null ],
+    [ "mi_state_info_write", "mi__open_8cc.html#a6f7a474ad772ca2171021ee7f3a99635", null ],
+    [ "mi_uniquedef_read", "mi__open_8cc.html#adafe102a708ec5205ef6cac85ddc71ec", null ],
+    [ "mi_uniquedef_write", "mi__open_8cc.html#a2f9978a4df9893b0b4b20223114863d5", null ],
+    [ "my_n_base_info_read", "mi__open_8cc.html#aad9886260bd29ce84f2d989f199a5a6c", null ],
+    [ "setup_key_functions", "mi__open_8cc.html#a216aeb52a65f73398d8573516d82c064", null ],
+    [ "test_if_reopen", "mi__open_8cc.html#a116a66011c9bab46e11a752cdf578e74", null ]
+];

@@ -1,0 +1,28 @@
+var pars0opt_8cc =
+[
+    [ "OPT_COMPARISON", "pars0opt_8cc.html#a4a7b75523ddfc7cd1562d495112d1c06", null ],
+    [ "OPT_END_COND", "pars0opt_8cc.html#af6f520ada6b588363491e7964b8ed39c", null ],
+    [ "OPT_EQUAL", "pars0opt_8cc.html#a3996c9076ef1cc1a758b270fc6b1fa6e", null ],
+    [ "OPT_NOT_COND", "pars0opt_8cc.html#a2ae734fe45c8b382762d0af349afca92", null ],
+    [ "OPT_SCROLL_COND", "pars0opt_8cc.html#a02e7347cca39f2045da0855775996dbe", null ],
+    [ "OPT_TEST_COND", "pars0opt_8cc.html#ab387578bdbbecdd51d26701d034d9de5", null ],
+    [ "opt_calc_index_goodness", "pars0opt_8cc.html#a259317add71381a06987497081d1ae9a", null ],
+    [ "opt_calc_n_fields_from_goodness", "pars0opt_8cc.html#a51ae41fef8cb1fb6034957aa67c81150", null ],
+    [ "opt_check_exp_determined_before", "pars0opt_8cc.html#a7986eaed080538e6571246f3611796de", null ],
+    [ "opt_check_order_by", "pars0opt_8cc.html#a80ce6ec0e604144cc3d37c9edf43369f", null ],
+    [ "opt_classify_cols", "pars0opt_8cc.html#aae9a90267471776b0428fd5beb4ed34c", null ],
+    [ "opt_classify_comparison", "pars0opt_8cc.html#a50d9b7b0bdbfddbd9cfb434475bf1158", null ],
+    [ "opt_clust_access", "pars0opt_8cc.html#acafdb3602b2751d230d1cb9993aa3a0b", null ],
+    [ "opt_determine_and_normalize_test_conds", "pars0opt_8cc.html#a7047e8a4c71f03274003822a4cd9d38c", null ],
+    [ "opt_find_all_cols", "pars0opt_8cc.html#a08977d53a4bd7ad45861cb41c5594e9d", null ],
+    [ "opt_find_copy_cols", "pars0opt_8cc.html#a406b5d8880d94af0f4b0ec23ca259c18", null ],
+    [ "opt_find_test_conds", "pars0opt_8cc.html#abac80c0a4e8ea8f2c8837aa377e4688f", null ],
+    [ "opt_invert_cmp_op", "pars0opt_8cc.html#a90eeeef9a3e98b97bd3848d0117b692c", null ],
+    [ "opt_is_arg", "pars0opt_8cc.html#af2fd9da7ecfd4a4ae7c6a8ade7650ee1", null ],
+    [ "opt_look_for_col_in_comparison_before", "pars0opt_8cc.html#a2b134bcceb6011be56d7caa1415dec91", null ],
+    [ "opt_look_for_col_in_cond_before", "pars0opt_8cc.html#a16dd8ef4f9af9b180047ad2de7f186fe", null ],
+    [ "opt_normalize_cmp_conds", "pars0opt_8cc.html#ac6274c0b2eab85177963c29571f57b20", null ],
+    [ "opt_op_to_search_mode", "pars0opt_8cc.html#a3706e31eeae36bbb3bb7df7b18a0d80a", null ],
+    [ "opt_search_plan", "pars0opt_8cc.html#a8bda8140d3a8bb6ca8963cffd7549d99", null ],
+    [ "opt_search_plan_for_table", "pars0opt_8cc.html#a8bafe20a3c1f7c8ba9711a67acabd72d", null ]
+];

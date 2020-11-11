@@ -1,0 +1,28 @@
+var classhistograms_1_1equi__height_1_1Bucket =
+[
+    [ "Bucket", "classhistograms_1_1equi__height_1_1Bucket.html#a9893895a6486178e8e2c4cb6dd49d54d", null ],
+    [ "add_values_json_bucket", "classhistograms_1_1equi__height_1_1Bucket.html#ac9ad230ebcb8da60ddb4c2474e1a345d", null ],
+    [ "add_values_json_bucket", "classhistograms_1_1equi__height_1_1Bucket.html#a14fe35855b6db8ad4125e2b8934cea29", null ],
+    [ "add_values_json_bucket", "classhistograms_1_1equi__height_1_1Bucket.html#a2a2db65bfab9f8eddac6fe6c84482190", null ],
+    [ "add_values_json_bucket", "classhistograms_1_1equi__height_1_1Bucket.html#a86c555ba82310ccc59188de5f740b4c0", null ],
+    [ "add_values_json_bucket", "classhistograms_1_1equi__height_1_1Bucket.html#a2c303292e1ae8fb53ed732817b2e6e59", null ],
+    [ "add_values_json_bucket", "classhistograms_1_1equi__height_1_1Bucket.html#a873e2d5ef9fa942da4df6baadd8e63c4", null ],
+    [ "add_values_json_bucket", "classhistograms_1_1equi__height_1_1Bucket.html#afbbc403a5b6497a8a334011c5a9202c2", null ],
+    [ "bucket_to_json", "classhistograms_1_1equi__height_1_1Bucket.html#ae732e4ec83016cc5819819bd2b520929", null ],
+    [ "get_cumulative_frequency", "classhistograms_1_1equi__height_1_1Bucket.html#a9492cc6a3738859ab4a8c2667e3891bc", null ],
+    [ "get_distance_from_lower", "classhistograms_1_1equi__height_1_1Bucket.html#a8808e7eeafca0121495aab6eea55df0d", null ],
+    [ "get_distance_from_lower", "classhistograms_1_1equi__height_1_1Bucket.html#a79abcf60261df53b8d6ce9c11eb7cc3f", null ],
+    [ "get_distance_from_lower", "classhistograms_1_1equi__height_1_1Bucket.html#aa0197991f4335e69af01e929f2c5378f", null ],
+    [ "get_distance_from_lower", "classhistograms_1_1equi__height_1_1Bucket.html#aabb22ddf97fe2b07d8fd9d21a148843a", null ],
+    [ "get_distance_from_lower", "classhistograms_1_1equi__height_1_1Bucket.html#a7b06d927fcb2ac7cd9b90dc110585be3", null ],
+    [ "get_lower_inclusive", "classhistograms_1_1equi__height_1_1Bucket.html#a2a2fbc1b254df9454600192b6a455f39", null ],
+    [ "get_num_distinct", "classhistograms_1_1equi__height_1_1Bucket.html#acb7f87a1fafb8294458dbdaaabb999a8", null ],
+    [ "get_upper_inclusive", "classhistograms_1_1equi__height_1_1Bucket.html#acb86b7a608efce2ca3013641185c6a4e", null ],
+    [ "value_probability", "classhistograms_1_1equi__height_1_1Bucket.html#aa3e4ab605c6d294f947af125793ee0a5", null ],
+    [ "value_probability", "classhistograms_1_1equi__height_1_1Bucket.html#a9ac35ead73d4728332aab9b0aeda535d", null ],
+    [ "value_probability", "classhistograms_1_1equi__height_1_1Bucket.html#abd98df20e78be133bc3ac0d60d8859e7", null ],
+    [ "m_cumulative_frequency", "classhistograms_1_1equi__height_1_1Bucket.html#ada64995493d25c7cfe67fecfa2056540", null ],
+    [ "m_lower_inclusive", "classhistograms_1_1equi__height_1_1Bucket.html#a9dfd39a96621f0ab05667fb758c8ac42", null ],
+    [ "m_num_distinct", "classhistograms_1_1equi__height_1_1Bucket.html#a4d94aa645151ebf19a01af61421a2e68", null ],
+    [ "m_upper_inclusive", "classhistograms_1_1equi__height_1_1Bucket.html#a348f3dd9b17365b4789a7f4580f36824", null ]
+];

@@ -1,0 +1,28 @@
+var classMaterializeIterator =
+[
+    [ "Invalidator", "structMaterializeIterator_1_1Invalidator.html", "structMaterializeIterator_1_1Invalidator" ],
+    [ "QueryBlock", "structMaterializeIterator_1_1QueryBlock.html", "structMaterializeIterator_1_1QueryBlock" ],
+    [ "MaterializeIterator", "classMaterializeIterator.html#ad14541eb4842dd215cb6f29e48268c5b", null ],
+    [ "MaterializeIterator", "classMaterializeIterator.html#a7f07e23eb7a48b1891e375ecef0ac28a", null ],
+    [ "AddInvalidator", "classMaterializeIterator.html#a60c985d0a33540c76371d17c1185bbb2", null ],
+    [ "doing_deduplication", "classMaterializeIterator.html#a512587635ac3c98ff2d949794c2277f2", null ],
+    [ "doing_hash_deduplication", "classMaterializeIterator.html#a357a9d0845635b4dd6d83c2a0fdb69bd", null ],
+    [ "EndPSIBatchModeIfStarted", "classMaterializeIterator.html#a75ac441603c6e25d03900837216d9621", null ],
+    [ "Init", "classMaterializeIterator.html#af1ce20c561a845f60ea38a36ccbc1a42", null ],
+    [ "MaterializeQueryBlock", "classMaterializeIterator.html#ab7fdb0cf5a8fd2a3f2ed1f6f5dacb8be", null ],
+    [ "MaterializeRecursive", "classMaterializeIterator.html#a91cbdcf42b0ee3013fa8a57e67792b6f", null ],
+    [ "Read", "classMaterializeIterator.html#aa62a21cd6672854dc7b9c58a6f98effe", null ],
+    [ "SetNullRowFlag", "classMaterializeIterator.html#a24308bb40abc0b62de2f98d3d1f242a0", null ],
+    [ "StartPSIBatchMode", "classMaterializeIterator.html#a127aaf0b59a22ca422f54eea8cede14c", null ],
+    [ "UnlockRow", "classMaterializeIterator.html#aa62653c7b8eb76c998382db6977f0d75", null ],
+    [ "m_cte", "classMaterializeIterator.html#a13adf26d4d8ca66d85ed249c2f3c51a0", null ],
+    [ "m_invalidators", "classMaterializeIterator.html#a985b5522e30f163362cf0853cd424f2a", null ],
+    [ "m_join", "classMaterializeIterator.html#a9783ed1655f8c5e82c239a32675daa23", null ],
+    [ "m_limit_rows", "classMaterializeIterator.html#a272a5f8c0c4273e624dab835dc766991", null ],
+    [ "m_query_blocks_to_materialize", "classMaterializeIterator.html#a5cab4027acdcfd7b5e557931e55f5734", null ],
+    [ "m_ref_slice", "classMaterializeIterator.html#ae5bf347c181919c83f339250b2534bfd", null ],
+    [ "m_reject_multiple_rows", "classMaterializeIterator.html#ab874495d31eeb2838091f60f99dcf8a4", null ],
+    [ "m_rematerialize", "classMaterializeIterator.html#ae296ae09644c2fd187633a4175cd2093", null ],
+    [ "m_table_iterator", "classMaterializeIterator.html#a722bd788467806c689b1865cbd5b07f7", null ],
+    [ "m_unit", "classMaterializeIterator.html#a1769aadcd69c1af06f7981a03fc448e7", null ]
+];

@@ -1,0 +1,26 @@
+var structdict__col__t =
+[
+    [ "assert_equal", "structdict__col__t.html#ac67d61c04257a7b7669580e2e6eec250", null ],
+    [ "copy_type", "structdict__col__t.html#a0b45f3190445998092dbec5f7fef79f2", null ],
+    [ "get_fixed_size", "structdict__col__t.html#a424c6c76450246557d68dbe019f4e836", null ],
+    [ "get_max_size", "structdict__col__t.html#ac39b2942da1235bbe6e2eb37a82dd1e8", null ],
+    [ "get_mbmaxlen", "structdict__col__t.html#af29068dc180ff4a5d8f8108133cf158a", null ],
+    [ "get_mbminlen", "structdict__col__t.html#a8ae94a450d8a5872f2bcd8e0f32409e6", null ],
+    [ "get_min_size", "structdict__col__t.html#a82ee77a94d1d35e82406a36661d730b9", null ],
+    [ "get_null_size", "structdict__col__t.html#a2013b5e3d59a1d62f2b15f26eb78284e", null ],
+    [ "get_spatial_status", "structdict__col__t.html#a1f24237c7c6a36b0e7aadec0db319cde", null ],
+    [ "is_multi_value", "structdict__col__t.html#ab9b3338d5e712a97efe5fd073f3425c2", null ],
+    [ "is_nullable", "structdict__col__t.html#a913591b160eed17d981cf00ac5357b14", null ],
+    [ "is_virtual", "structdict__col__t.html#ad52f72e19f1de3666fb5452af1859c34", null ],
+    [ "set_default", "structdict__col__t.html#a857960bbda2b093b500bbdc8350ea748", null ],
+    [ "set_mbminmaxlen", "structdict__col__t.html#aed8d835baabdca58e12f63afb081a6c1", null ],
+    [ "ind", "structdict__col__t.html#aefc55eaebe7110a7faa8745f68f3a9e9", null ],
+    [ "instant_default", "structdict__col__t.html#acc4aec9f3a8725e563002062fe4cb242", null ],
+    [ "is_visible", "structdict__col__t.html#a3c065a4ae3be22bed10126653aa28bf5", null ],
+    [ "len", "structdict__col__t.html#acbe690784f76b4e3f30faca2c944975b", null ],
+    [ "max_prefix", "structdict__col__t.html#a41c538c08428103445bf73edb8c0fe19", null ],
+    [ "mbminmaxlen", "structdict__col__t.html#adff347e99dd34d23acaa015846cd0f5c", null ],
+    [ "mtype", "structdict__col__t.html#a3fa957bcfa3e48910a1b232358862ff0", null ],
+    [ "ord_part", "structdict__col__t.html#a0f37d828e4f14311796699f27409111a", null ],
+    [ "prtype", "structdict__col__t.html#af0cb3fa8547dc4a5d5ca1e91196995dc", null ]
+];

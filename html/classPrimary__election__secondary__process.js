@@ -1,0 +1,38 @@
+var classPrimary__election__secondary__process =
+[
+    [ "enum_election_read_mode_status", "classPrimary__election__secondary__process.html#a5b7584c2a94d23ab185eb691aaa0b545", [
+      [ "SECONDARY_ELECTION_READ_MODE_NOT_SET", "classPrimary__election__secondary__process.html#a5b7584c2a94d23ab185eb691aaa0b545a7a389664bc7796631054078ae54f95d8", null ],
+      [ "SECONDARY_ELECTION_READ_MODE_BEING_SET", "classPrimary__election__secondary__process.html#a5b7584c2a94d23ab185eb691aaa0b545a2261196339c75aa23be3bf353483c132", null ],
+      [ "SECONDARY_ELECTION_READ_MODE_IS_SET", "classPrimary__election__secondary__process.html#a5b7584c2a94d23ab185eb691aaa0b545aac9f0dc3127f3a1949751eb3005fb752", null ]
+    ] ],
+    [ "Primary_election_secondary_process", "classPrimary__election__secondary__process.html#ae6bcb29aa1adb8ff85341e63fb6443fc", null ],
+    [ "~Primary_election_secondary_process", "classPrimary__election__secondary__process.html#a38d9bb15a255a043375787ed3d6483e5", null ],
+    [ "after_primary_election", "classPrimary__election__secondary__process.html#a2e005a4b2dd3360dac9f066a841cc8dc", null ],
+    [ "after_view_change", "classPrimary__election__secondary__process.html#a6aeff25962c750f499b7bf5114d9bb9d", null ],
+    [ "before_message_handling", "classPrimary__election__secondary__process.html#ab851fc6a829ee46e19c0a69819b23570", null ],
+    [ "enable_read_mode_on_server", "classPrimary__election__secondary__process.html#aadf8739198131e0b5a1c175b9a454034", null ],
+    [ "is_election_process_running", "classPrimary__election__secondary__process.html#af775621d94e94cd4c71ba8b49b5e4c81", null ],
+    [ "kill_read_mode_query", "classPrimary__election__secondary__process.html#ad3cac8f7ce02a2c942f89a7b8cd4839f", null ],
+    [ "launch_secondary_election_process", "classPrimary__election__secondary__process.html#ac12a9745d4ec858488b7fe6a25e63f02", null ],
+    [ "secondary_election_process_handler", "classPrimary__election__secondary__process.html#a042f9e293aedbbe6b3588c95b97abb9a", null ],
+    [ "set_stop_wait_timeout", "classPrimary__election__secondary__process.html#a6a7232cfb50865bb8524f3ed9b905e92", null ],
+    [ "signal_read_mode_ready", "classPrimary__election__secondary__process.html#afce5518f8f3899a638f6167403ed279a", null ],
+    [ "terminate_election_process", "classPrimary__election__secondary__process.html#a1200e06d6b8b82b599263d3cf4553005", null ],
+    [ "election_cond", "classPrimary__election__secondary__process.html#aea4aeb4222c6881cfee568d9fc987c08", null ],
+    [ "election_lock", "classPrimary__election__secondary__process.html#ab36a8fa7c1aa307fef20e57f44d1f5a0", null ],
+    [ "election_mode", "classPrimary__election__secondary__process.html#a41d7e50ebe1c90d4bd450c5072b8517e", null ],
+    [ "election_process_aborted", "classPrimary__election__secondary__process.html#a4e0d3c162c44b434579cd986d0767637", null ],
+    [ "election_process_thd_state", "classPrimary__election__secondary__process.html#a7d169ae574df68d4017eb22729e922f8", null ],
+    [ "group_in_read_mode", "classPrimary__election__secondary__process.html#acfacc0bc0c401c39882f5d6834ec12d2", null ],
+    [ "is_read_mode_set", "classPrimary__election__secondary__process.html#a0395bcd617e3d50ff2a3e78c3a5b50cf", null ],
+    [ "is_waiting_on_read_mode_group", "classPrimary__election__secondary__process.html#a6202d6398b2edaec6fa89ddc74402635", null ],
+    [ "known_members_addresses", "classPrimary__election__secondary__process.html#a47d53be95ebaec3118f2a3e23c31621f", null ],
+    [ "number_of_know_members", "classPrimary__election__secondary__process.html#a750e9017f22d68ebbf1015e6b4db2a27", null ],
+    [ "primary_election_pthd", "classPrimary__election__secondary__process.html#a1fd90187587aab4c3e21e606b6d768d4", null ],
+    [ "primary_ready", "classPrimary__election__secondary__process.html#ae428a3fa050faeec1205f8d4408ba019", null ],
+    [ "primary_uuid", "classPrimary__election__secondary__process.html#aad006b1e8998c23dd3ab811b9e2d36e8", null ],
+    [ "read_mode_session_id", "classPrimary__election__secondary__process.html#aec220de3c0f6cd84bcdbed8048961d38", null ],
+    [ "stage_handler", "classPrimary__election__secondary__process.html#aab8876497058efda5dfb0009b8854575", null ],
+    [ "stop_wait_timeout", "classPrimary__election__secondary__process.html#ab6fce2e29d2ff6ff02f675913026c847", null ],
+    [ "waiting_on_old_primary_transactions", "classPrimary__election__secondary__process.html#ad186ebe6ce14c42a0414cf1e54304051", null ]
+];

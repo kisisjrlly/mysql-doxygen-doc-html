@@ -1,0 +1,27 @@
+var classgis_1_1srs_1_1Krovak__modified__north__orientated__srs =
+[
+    [ "Krovak_modified_north_orientated_srs", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a7fb19ce204a2860b7d7ea306329771ad", null ],
+    [ "can_be_modified_to", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#ae7573fddc3f47e51272eac36c399ba65", null ],
+    [ "clone", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a84e85b82a400f8876b779f5ad13d4124", null ],
+    [ "init", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a9b443831ee4c5fb1a9d8c4531bca8b70", null ],
+    [ "projection_type", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a163a666fd32cf7fa9f523dd131fe15cf", null ],
+    [ "m_azimuth", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#ae4c433e3dbe4ad077b842c6776a86139", null ],
+    [ "m_c1", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a2b95e9c9daf0bf708b267ceb8e6b54b9", null ],
+    [ "m_c10", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a6092cbed30062a120fd651248c96c0fb", null ],
+    [ "m_c2", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#ae85e7522d3f1e299a44e36004a322722", null ],
+    [ "m_c3", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a331fa46ff2fc35060616e34348ef0f3f", null ],
+    [ "m_c4", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#aedd78ab2f0bb67365055db85909ed011", null ],
+    [ "m_c5", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#ac029372d87f9b9b2260a9bb5faa8821e", null ],
+    [ "m_c6", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a7ddc40ea44b87dcb63a0358f591290c2", null ],
+    [ "m_c7", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#af2bbae7d59cedf3a8b4e5dd82c1d3e66", null ],
+    [ "m_c8", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a67b821e410f0e16d6156530da8aa454c", null ],
+    [ "m_c9", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a6df3a221239b545dc9b253a3832d5ff9", null ],
+    [ "m_evaluation_point_ordinate_1", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a62f4d5cda43ccc4b6f3d67a867f57d7a", null ],
+    [ "m_evaluation_point_ordinate_2", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#aa6d62af55d3df83d36461f52daae0e4a", null ],
+    [ "m_false_easting", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a14c668c7b7c6fb8d91d4ba9d951d0fd9", null ],
+    [ "m_false_northing", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#aa939bf144a9487f018bcdb59e774e826", null ],
+    [ "m_latitude_of_center", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a4af696a8efbb13e6ecdc0ccf38c5c24a", null ],
+    [ "m_longitude_of_center", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a57edd2d218e3ebd975d066ca2527ab25", null ],
+    [ "m_pseudo_standard_parallel_1", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a0eb0777da242599bc8e5da4c610043a1", null ],
+    [ "m_scale_factor", "classgis_1_1srs_1_1Krovak__modified__north__orientated__srs.html#a2cdaaaf1501522d6bc8e7bdd6783455e", null ]
+];

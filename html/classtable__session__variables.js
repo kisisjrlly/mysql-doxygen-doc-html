@@ -1,0 +1,25 @@
+var classtable__session__variables =
+[
+    [ "pos_t", "classtable__session__variables.html#a02eddf2eae9685ed405bb550d5c9eae9", null ],
+    [ "table_session_variables", "classtable__session__variables.html#aaa698c03d83afb6e70d4ded0b3a6b8b1", null ],
+    [ "~table_session_variables", "classtable__session__variables.html#af6e4eb2fcdc62f90c482a3b97f2243cc", null ],
+    [ "create", "classtable__session__variables.html#ac95ad201a1269635a7448bd7e916b3a1", null ],
+    [ "get_row_count", "classtable__session__variables.html#a3f90bbd19e29bb0ff8e49a4a675da761", null ],
+    [ "index_init", "classtable__session__variables.html#a9dce069add09b12e28b65b9583505f2a", null ],
+    [ "index_next", "classtable__session__variables.html#a8c53d9e6df4a0b138773435c639336de", null ],
+    [ "make_row", "classtable__session__variables.html#a9266c9bb9c0d84f7cb133096cc466ca6", null ],
+    [ "read_row_values", "classtable__session__variables.html#acbeea8d70e06ba69991bab9bf84c9c66", null ],
+    [ "reset_position", "classtable__session__variables.html#a3e03a1dd288abce62c4f1f2e402a9e0b", null ],
+    [ "rnd_init", "classtable__session__variables.html#a58c69fe0d23843a188a0d78764ba925a", null ],
+    [ "rnd_next", "classtable__session__variables.html#aa2fbaa65ccc3fe22f10cdf2197668f65", null ],
+    [ "rnd_pos", "classtable__session__variables.html#a9b2de2b28092bef7fbd7931bc43e2054", null ],
+    [ "m_context", "classtable__session__variables.html#a6add01c7f247c306a17235a14819360d", null ],
+    [ "m_next_pos", "classtable__session__variables.html#a5fbd128ffe20e800988d31f456cd7e74", null ],
+    [ "m_opened_index", "classtable__session__variables.html#a561b437bd4b158b65fd236de57c8a890", null ],
+    [ "m_pos", "classtable__session__variables.html#a404ff5bb68020134bccc8380ec2ed0c1", null ],
+    [ "m_row", "classtable__session__variables.html#a8af73b018dcca7986edccfa8f8008234", null ],
+    [ "m_share", "classtable__session__variables.html#a13f8854619119842337c0c10a7aac6b2", null ],
+    [ "m_sysvar_cache", "classtable__session__variables.html#ab69cdaa294b99e5261de066394b910f3", null ],
+    [ "m_table_def", "classtable__session__variables.html#a8e1ad1d6635745ab8ad423bbcd33b515", null ],
+    [ "m_table_lock", "classtable__session__variables.html#ab43f6560e4dc1ca17e12f76b5ff120c4", null ]
+];

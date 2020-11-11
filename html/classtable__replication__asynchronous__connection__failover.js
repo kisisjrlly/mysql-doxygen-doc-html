@@ -1,0 +1,26 @@
+var classtable__replication__asynchronous__connection__failover =
+[
+    [ "pos_t", "classtable__replication__asynchronous__connection__failover.html#a1e8118a0dcfbf14cdfa61739b8564402", null ],
+    [ "table_replication_asynchronous_connection_failover", "classtable__replication__asynchronous__connection__failover.html#ac30c348fa389efbab337e8b5cc309170", null ],
+    [ "~table_replication_asynchronous_connection_failover", "classtable__replication__asynchronous__connection__failover.html#a0df626b84661033fe71bf36ecb682b5e", null ],
+    [ "create", "classtable__replication__asynchronous__connection__failover.html#ac08a62c938b3ab5be980f27aee93bb5c", null ],
+    [ "get_row_count", "classtable__replication__asynchronous__connection__failover.html#a8a0f7518e38ce83241051e45c6463ce0", null ],
+    [ "index_init", "classtable__replication__asynchronous__connection__failover.html#a8a4caf0ae289d8a9cce7cfd82979efc3", null ],
+    [ "index_next", "classtable__replication__asynchronous__connection__failover.html#a0741af358197ecf12ab5c631f357a2c4", null ],
+    [ "make_row", "classtable__replication__asynchronous__connection__failover.html#a164a252185c83722e0dbf3688d6e23fa", null ],
+    [ "read_row_values", "classtable__replication__asynchronous__connection__failover.html#a911952978c2af4024f0d5ec22659fdf2", null ],
+    [ "reset_position", "classtable__replication__asynchronous__connection__failover.html#a80f144d0a16a41edb6e3e0a0143e4b6e", null ],
+    [ "rnd_init", "classtable__replication__asynchronous__connection__failover.html#a494683f5a9021881c9ebc20daee2353a", null ],
+    [ "rnd_next", "classtable__replication__asynchronous__connection__failover.html#a8c1fe83ce1fec2a4046e0ab201da23b4", null ],
+    [ "rnd_pos", "classtable__replication__asynchronous__connection__failover.html#a567f766d0d4a60c885e8f170fef2894f", null ],
+    [ "m_next_pos", "classtable__replication__asynchronous__connection__failover.html#ac86affa21ba5220b83b7a70562c2cc11", null ],
+    [ "m_opened_index", "classtable__replication__asynchronous__connection__failover.html#a3a822c818015af9d919b8d2a6423b07b", null ],
+    [ "m_pos", "classtable__replication__asynchronous__connection__failover.html#a10893b4a5c7712511f1e4e33bdb682f6", null ],
+    [ "m_row", "classtable__replication__asynchronous__connection__failover.html#af716606908f915607e2f592ba5782448", null ],
+    [ "m_share", "classtable__replication__asynchronous__connection__failover.html#a51d703dd5c750fd48e8c8262a587bb3a", null ],
+    [ "m_table_def", "classtable__replication__asynchronous__connection__failover.html#a6090a8ad27b35bf5893d60bf29c09c26", null ],
+    [ "m_table_lock", "classtable__replication__asynchronous__connection__failover.html#a38b51defc629000643e0dcc1d659f8ab", null ],
+    [ "num_rows", "classtable__replication__asynchronous__connection__failover.html#a149aeb50ab55a97e74f6ea3e4cd45887", null ],
+    [ "read_error", "classtable__replication__asynchronous__connection__failover.html#a206a041fc1d92f53115d4c0f6c1a65bc", null ],
+    [ "source_conn_detail", "classtable__replication__asynchronous__connection__failover.html#a92f8d8d37fc005cf9aa957bba07cad01", null ]
+];

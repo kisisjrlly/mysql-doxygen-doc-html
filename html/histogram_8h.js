@@ -1,0 +1,45 @@
+var histogram_8h =
+[
+    [ "Value_map", "classhistograms_1_1Value__map.html", "classhistograms_1_1Value__map" ],
+    [ "Histogram_psi_key_alloc", "structhistograms_1_1Histogram__psi__key__alloc.html", "structhistograms_1_1Histogram__psi__key__alloc" ],
+    [ "Histogram", "classhistograms_1_1Histogram.html", "classhistograms_1_1Histogram" ],
+    [ "columns_set", "histogram_8h.html#a08ebfd6e84c22d9140da6e530fb24526", null ],
+    [ "Histogram_key_allocator", "histogram_8h.html#aa4f4bd8bc4d4d4d590448b313a48a5c1", null ],
+    [ "results_map", "histogram_8h.html#a34d8c44e6d11592eaeb37964521c16f2", null ],
+    [ "value_map_allocator", "histogram_8h.html#ab15da9ad31b4e514372f73726bb6adb5", null ],
+    [ "value_map_type", "histogram_8h.html#ad42d5917e7a782b6f95d421837c616c3", null ],
+    [ "enum_operator", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74", [
+      [ "EQUALS_TO", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74a6742fed00879850c47efc96c5943e604", null ],
+      [ "GREATER_THAN", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74a1625ef4fe09f68fa20d3ff6e02cd5c8e", null ],
+      [ "LESS_THAN", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74aa327176a0a845c117bdfadec134a95e9", null ],
+      [ "IS_NULL", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74adbd9c38e0339e6c34bd48cafc59be388", null ],
+      [ "IS_NOT_NULL", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74a05dd132ba23ff57c0ca5ec4100c31fdc", null ],
+      [ "LESS_THAN_OR_EQUAL", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74a8397780541b6289d2a0b991d1c28c432", null ],
+      [ "GREATER_THAN_OR_EQUAL", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74aa6eac69202c3dc2978176801a84e4d1d", null ],
+      [ "NOT_EQUALS_TO", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74a3f09b432b2ff5312702f64af634f093b", null ],
+      [ "BETWEEN", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74ac1425a07f1a62b418d3e6017a523e4c1", null ],
+      [ "NOT_BETWEEN", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74a0b791949d58c99d0ea57cb5a48437de4", null ],
+      [ "IN_LIST", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74ac1c1bad9f643c2b92220b417d15d9273", null ],
+      [ "NOT_IN_LIST", "histogram_8h.html#a740520f80157684fde92ca0ba7380d74a067ba8ca31149dcced4316c7e722f0c8", null ]
+    ] ],
+    [ "Message", "histogram_8h.html#a50d46d043a3e2056310235e37c301608", [
+      [ "FIELD_NOT_FOUND", "histogram_8h.html#a50d46d043a3e2056310235e37c301608aaa446da0a5e62bac2258cad67c9de4af", null ],
+      [ "UNSUPPORTED_DATA_TYPE", "histogram_8h.html#a50d46d043a3e2056310235e37c301608a8705a77e6faa697714797f342d2713aa", null ],
+      [ "TEMPORARY_TABLE", "histogram_8h.html#a50d46d043a3e2056310235e37c301608a3f2eb78af9a1c4fdc6c05a53de37dabe", null ],
+      [ "ENCRYPTED_TABLE", "histogram_8h.html#a50d46d043a3e2056310235e37c301608aa3383d26e49dad76006285dda3c7f8b5", null ],
+      [ "VIEW", "histogram_8h.html#a50d46d043a3e2056310235e37c301608a5824b315fdbb0f42abfe1bb03f78c270", null ],
+      [ "HISTOGRAM_CREATED", "histogram_8h.html#a50d46d043a3e2056310235e37c301608a1c5668319cb4eb62cb93f04f871e6ac9", null ],
+      [ "MULTIPLE_TABLES_SPECIFIED", "histogram_8h.html#a50d46d043a3e2056310235e37c301608aacad186b37935b635117b7a5e7cf26fe", null ],
+      [ "COVERED_BY_SINGLE_PART_UNIQUE_INDEX", "histogram_8h.html#a50d46d043a3e2056310235e37c301608a7042b2c3b8aab431208b6f645e4976c5", null ],
+      [ "NO_HISTOGRAM_FOUND", "histogram_8h.html#a50d46d043a3e2056310235e37c301608aeb0438bc944a0015994ed295ce0f4842", null ],
+      [ "HISTOGRAM_DELETED", "histogram_8h.html#a50d46d043a3e2056310235e37c301608a1ce9c82ab507793bd9b097b3c002aa2e", null ],
+      [ "SERVER_READ_ONLY", "histogram_8h.html#a50d46d043a3e2056310235e37c301608afc37a9c853a425e33983024a1ea487ed", null ]
+    ] ],
+    [ "build_histogram", "histogram_8h.html#a9bd41331dfa05d82e98bb6222fbfb148", null ],
+    [ "drop_all_histograms", "histogram_8h.html#aaa47717b483ee5457d83133097d3732d", null ],
+    [ "drop_histograms", "histogram_8h.html#aa76eae92554aa4e1d3f3bd1857061ef7", null ],
+    [ "find_histogram", "histogram_8h.html#ab126d8c3c2e5b60930a7b15d3463b49b", null ],
+    [ "rename_histograms", "histogram_8h.html#a77770f1276a154e8a585a92d8d32eb61", null ],
+    [ "update_histogram", "histogram_8h.html#ad9c05630f6a57a3a5a56d96a0803a342", null ],
+    [ "INVALID_NULL_VALUES_FRACTION", "histogram_8h.html#ace0704e9e47ac0ce4fb847bb72aa8fe6", null ]
+];

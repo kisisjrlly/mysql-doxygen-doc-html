@@ -1,0 +1,27 @@
+var task__os_8h =
+[
+    [ "CLOSESOCKET", "task__os_8h.html#a06e9988e663b5f60f8f8501b7d84b0d8", null ],
+    [ "DIR_SEP", "task__os_8h.html#a5e4e2bb4643ada1903da735d4bf975ef", null ],
+    [ "GET_OS_ERR", "task__os_8h.html#ae5ccb2293bbbceba61ff0b9abe420a17", null ],
+    [ "IPPROTO_TCP", "task__os_8h.html#a94f83c72c1e5e6ef453e47cf59885fb5", null ],
+    [ "SET_OS_ERR", "task__os_8h.html#a153132c7ff17310132e809a81cafa7a7", null ],
+    [ "SOCK_EAGAIN", "task__os_8h.html#a956158e3a94fe488699d76c48bad3ce1", null ],
+    [ "SOCK_EALREADY", "task__os_8h.html#a30cd73fe437a044653d2a67a3c974932", null ],
+    [ "SOCK_ECONNREFUSED", "task__os_8h.html#a82b861becb803ebaedee3fe653f0f2fb", null ],
+    [ "SOCK_ECONNRESET", "task__os_8h.html#a426ef537592e29ee7e440ac88ddc8d3f", null ],
+    [ "SOCK_EINPROGRESS", "task__os_8h.html#a730b392a8b529c5dcb6e8948a89efd21", null ],
+    [ "SOCK_EINTR", "task__os_8h.html#af739fc9bcc8a28282cc4f2eb33e8fc9d", null ],
+    [ "SOCK_ERRNO", "task__os_8h.html#a42270460ad79a8edccd5cbeeba25363b", null ],
+    [ "SOCK_EWOULDBLOCK", "task__os_8h.html#a8cbebc32ca982877bc11424ba9a55267", null ],
+    [ "SOCK_OPT_REUSEADDR", "task__os_8h.html#a05817cb55c195b9d88173379f5d84680", null ],
+    [ "SOCK_SHUT_RDWR", "task__os_8h.html#a32e776af021b383156f3bea98ce1cd6c", null ],
+    [ "pollfd", "task__os_8h.html#a74d2a9a5897af639f7c057ddbd30fba2", null ],
+    [ "close_socket", "task__os_8h.html#ad6713aca00af5f3bd5e397ecaffc603f", null ],
+    [ "hard_connect_err", "task__os_8h.html#ab57bd29517a18a078af99dcd96b8c42f", null ],
+    [ "hard_select_err", "task__os_8h.html#a3acca4e222d724436869cb510e59c62c", null ],
+    [ "is_socket_error", "task__os_8h.html#a2189c4bdb70fa1e255fc4adff7989d55", null ],
+    [ "remove_and_wakeup", "task__os_8h.html#a04e45d9c20788e841c91dffa29ab9fbd", null ],
+    [ "shut_close_socket", "task__os_8h.html#a6fea66e766d46f2a0e08cdb7176814c2", null ],
+    [ "shutdown_socket", "task__os_8h.html#ab6ada5d0f412d1e2f49baf7ff5bc3806", null ],
+    [ "xcom_getpeername", "task__os_8h.html#a7fca8f9458960993fceae7f9a6447c8e", null ]
+];

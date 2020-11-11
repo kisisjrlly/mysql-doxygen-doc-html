@@ -1,0 +1,28 @@
+var classopt__explain__json__namespace_1_1context =
+[
+    [ "context", "classopt__explain__json__namespace_1_1context.html#a1d6ecc764683d2aa28a77b8a413bde61", null ],
+    [ "~context", "classopt__explain__json__namespace_1_1context.html#a4815166ae9e88e9d99da1ee4ab0f54cb", null ],
+    [ "add_join_tab", "classopt__explain__json__namespace_1_1context.html#a3f7a03f0bf2a519a19b84cb5a99ee304", null ],
+    [ "add_query_spec", "classopt__explain__json__namespace_1_1context.html#a78bdde3b4bea092ee885bfb0647f08cb", null ],
+    [ "add_subquery", "classopt__explain__json__namespace_1_1context.html#ad9df2d2b16093c51e1c5557227b2fd56", null ],
+    [ "add_where_subquery", "classopt__explain__json__namespace_1_1context.html#ae6606674e90fec03200823c35994873c", null ],
+    [ "cacheable", "classopt__explain__json__namespace_1_1context.html#ad57a8f38c7ae4747bf14414f683c44f7", null ],
+    [ "dependent", "classopt__explain__json__namespace_1_1context.html#ad5e14f386bcf9d684d87bb822644807f", null ],
+    [ "entry", "classopt__explain__json__namespace_1_1context.html#adf122c034bb037db2be345e96aa61926", null ],
+    [ "find_and_set_derived", "classopt__explain__json__namespace_1_1context.html#afe66d6ec1a0f56114bc2b493b084c1a0", null ],
+    [ "format", "classopt__explain__json__namespace_1_1context.html#a73e34a665c4550ba7725839ca643119d", null ],
+    [ "format_body", "classopt__explain__json__namespace_1_1context.html#a171f59cfdf6e3f7458e72c8f3467b62e", null ],
+    [ "format_derived", "classopt__explain__json__namespace_1_1context.html#a4334f13b6c7924e3eae2808315445139", null ],
+    [ "format_nested_loop", "classopt__explain__json__namespace_1_1context.html#ab1aae5d8b971fc1fd381c68f592b0838", null ],
+    [ "format_unit", "classopt__explain__json__namespace_1_1context.html#ad46f081088a41d89cf17582a6e9b1f4c", null ],
+    [ "format_where", "classopt__explain__json__namespace_1_1context.html#a3a5e0db167837c0804a19664416ebc67", null ],
+    [ "get_mod_type", "classopt__explain__json__namespace_1_1context.html#ad540b8976731aa4798169afa9ec0fc4f", null ],
+    [ "id", "classopt__explain__json__namespace_1_1context.html#a07c46bab31a35d88c13ccdca82755aaa", null ],
+    [ "is_query_block", "classopt__explain__json__namespace_1_1context.html#a32706a6024a77d8293540564b893d4f6", null ],
+    [ "set_child", "classopt__explain__json__namespace_1_1context.html#a01b3acb1c0dfc9c673e5dd4a439c5025", null ],
+    [ "set_sort", "classopt__explain__json__namespace_1_1context.html#ad2ea8a178f9b0faacf2d76a43447048f", null ],
+    [ "set_union_result", "classopt__explain__json__namespace_1_1context.html#aad11e709ca28316f02a2db1aa934d034", null ],
+    [ "set_window", "classopt__explain__json__namespace_1_1context.html#a340a3ab0c31b5c746bd7c3a805f5ff55", null ],
+    [ "name", "classopt__explain__json__namespace_1_1context.html#ae0529ab278c63b7b8c27fc15ea0f1bfd", null ],
+    [ "parent", "classopt__explain__json__namespace_1_1context.html#ac79e3ff87bdb1ac8eec3a088a806a1c7", null ]
+];

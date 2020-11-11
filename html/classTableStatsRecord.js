@@ -1,0 +1,27 @@
+var classTableStatsRecord =
+[
+    [ "TableStatsRecord", "classTableStatsRecord.html#ab3908d9eebce7c945add8e1295153de1", null ],
+    [ "~TableStatsRecord", "classTableStatsRecord.html#ae0c4ff511f015b87500d8632c3b3e69b", null ],
+    [ "get_clustered_index_size", "classTableStatsRecord.html#af761c36084501c5332b8ec73922dfdd2", null ],
+    [ "get_db_name", "classTableStatsRecord.html#aa15421eab96d6a97b02153bde46f8009", null ],
+    [ "get_n_rows", "classTableStatsRecord.html#a0d8d326b8b55d8835635d42723e5470e", null ],
+    [ "get_sum_of_other_index_size", "classTableStatsRecord.html#aa0a091e9c3a6eba54812b290d856a792", null ],
+    [ "get_tbl_name", "classTableStatsRecord.html#af0141afe5b906e1b6017318a78045aea", null ],
+    [ "set_clustered_index_size", "classTableStatsRecord.html#a250b2f2f36f9ad4ddad53d4fe6c0249e", null ],
+    [ "set_data", "classTableStatsRecord.html#a50bb9b88912ec1162baeb5a5f05a16f1", null ],
+    [ "set_db_name", "classTableStatsRecord.html#a14d73b885281f755cf42e752c8509747", null ],
+    [ "set_n_rows", "classTableStatsRecord.html#a2fd3b1c9117ee9724cdd063cb2abf235", null ],
+    [ "set_sum_of_other_index_size", "classTableStatsRecord.html#a79d047818ab957ca8a9797c158e8c615", null ],
+    [ "set_tbl_name", "classTableStatsRecord.html#a65f049ac276333ce1b716c3b5095b0ab", null ],
+    [ "CLUST_INDEX_SIZE_COL_NO", "classTableStatsRecord.html#a5660274b3c37def34d37d5dfa6db4b9f", null ],
+    [ "DB_NAME_COL_NO", "classTableStatsRecord.html#a587a52f2aceb621b4d0175d4a7748483", null ],
+    [ "m_clustered_index_size", "classTableStatsRecord.html#a732ddbe8d72e3e0bcbffe491efba5720", null ],
+    [ "m_db_name", "classTableStatsRecord.html#aef05bf9dbdf2efe0a0d0b46af93945ef", null ],
+    [ "m_heap", "classTableStatsRecord.html#a5febdac3f4ee2f81e241f6a1c72f2ee5", null ],
+    [ "m_n_rows", "classTableStatsRecord.html#a99b3ec02e3d7fcccd588404bb3d169bf", null ],
+    [ "m_sum_of_other_index_sizes", "classTableStatsRecord.html#a13f2cafd427370c3a442ca72527463e9", null ],
+    [ "m_tbl_name", "classTableStatsRecord.html#a435b493c46685a77f823e14d1eba9019", null ],
+    [ "N_ROWS_COL_NO", "classTableStatsRecord.html#a9d6a7c1a243f8195c290a9436d0a636b", null ],
+    [ "SUM_OF_OTHER_INDEX_SIZE_COL_NO", "classTableStatsRecord.html#aea9376bbc2ac6ef10a1a2449b2b8dd15", null ],
+    [ "TABLE_NAME_COL_NO", "classTableStatsRecord.html#a74ebda8e05c0446ea97f6bbb77400c32", null ]
+];

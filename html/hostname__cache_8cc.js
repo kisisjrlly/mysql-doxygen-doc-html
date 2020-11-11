@@ -1,0 +1,26 @@
+var hostname__cache_8cc =
+[
+    [ "add_hostname", "hostname__cache_8cc.html#a00e977ba570ed53e74f1454cd2dcee9e", null ],
+    [ "add_hostname_impl", "hostname__cache_8cc.html#a7c644bf79424bdfc7d06c50ba79b932f", null ],
+    [ "hostname_cache_begin", "hostname__cache_8cc.html#a108bbfc1a4d260b9999964b8494a817a", null ],
+    [ "hostname_cache_end", "hostname__cache_8cc.html#a021711cb5339b219dae067916da48682", null ],
+    [ "hostname_cache_free", "hostname__cache_8cc.html#a9cfc789a05c82c4ab11349f7e0c7a917", null ],
+    [ "hostname_cache_init", "hostname__cache_8cc.html#aa29b2d93ecc303fccf90087fc39966e8", null ],
+    [ "hostname_cache_lock", "hostname__cache_8cc.html#af51b7a8eed0b1ab1a3882e71e6a14d84", null ],
+    [ "hostname_cache_refresh", "hostname__cache_8cc.html#ab47a0850122902b8fe9fd0a9d0997b81", null ],
+    [ "hostname_cache_resize", "hostname__cache_8cc.html#ae43181ea4f214d2eec9acad2b360ad04", null ],
+    [ "hostname_cache_search", "hostname__cache_8cc.html#a2bb26db6e1cde9418972da5132c46d4c", null ],
+    [ "hostname_cache_size", "hostname__cache_8cc.html#ad3f978fdc30337bda521beb20beb3ce1", null ],
+    [ "hostname_cache_unlock", "hostname__cache_8cc.html#ae8d669e59b3317837d8e7cc630629507", null ],
+    [ "inc_host_errors", "hostname__cache_8cc.html#a79b13232e4d6b7e6d15d16d190083b47", null ],
+    [ "ip_to_hostname", "hostname__cache_8cc.html#a17b2cae22ed158832ca6e0de92b42690", null ],
+    [ "is_hostname_valid", "hostname__cache_8cc.html#a76beae033127c2d1dc0ff20eb3e4bd76", null ],
+    [ "is_ip_loopback", "hostname__cache_8cc.html#ade58a44cbabcfd7c1d0a910e154e15dc", null ],
+    [ "reset_host_connect_errors", "hostname__cache_8cc.html#a48bbd40b33c42e95aed003496206bbaf", null ],
+    [ "hostname_cache_by_ip", "hostname__cache_8cc.html#a842a318284a033920fda425ac9f4300d", null ],
+    [ "hostname_cache_lru", "hostname__cache_8cc.html#a1554b1fb84ba9b035cb6cd772ad907ca", null ],
+    [ "hostname_cache_max_size", "hostname__cache_8cc.html#ac0d616a5422939734fb2d61b0b42e1e7", null ],
+    [ "hostname_cache_mutex", "hostname__cache_8cc.html#addcd7cb705b07bffdd66070b5402f05d", null ],
+    [ "hostname_cache_mutex_inited", "hostname__cache_8cc.html#ad1ef0b831978396235b9d76cb6117a66", null ],
+    [ "key_hash_filo_lock", "hostname__cache_8cc.html#ae84f5faf5720a0ce03ff3ff4a5bd5377", null ]
+];

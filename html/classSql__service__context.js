@@ -1,0 +1,25 @@
+var classSql__service__context =
+[
+    [ "Sql_service_context", "classSql__service__context.html#a08c6859a0b6d461c4e4acf4ec6927055", null ],
+    [ "~Sql_service_context", "classSql__service__context.html#ad06013940b5eb1bddcc93c749a7fb16b", null ],
+    [ "abort_row", "classSql__service__context.html#a1e16dfc944827199f3dc9b89c06307f1", null ],
+    [ "end_result_metadata", "classSql__service__context.html#a8cbe19c6be442f6a32205b11fb37ac11", null ],
+    [ "end_row", "classSql__service__context.html#a7131995da20dfb0703687e36b1dc61da", null ],
+    [ "field_metadata", "classSql__service__context.html#a7e1e0390bdced10e190d456f1cf86c39", null ],
+    [ "get_client_capabilities", "classSql__service__context.html#ac7185bfd967d6d8a261b579c005cb04d", null ],
+    [ "get_date", "classSql__service__context.html#a831d83cbc3ada5d909a796fa2c0ca03a", null ],
+    [ "get_datetime", "classSql__service__context.html#a12205fc9caa590778477ad9852f70115", null ],
+    [ "get_decimal", "classSql__service__context.html#aa5f56e8456db7f7f7592a797ce69f851", null ],
+    [ "get_double", "classSql__service__context.html#ade5ea691045d2181fd947ffbcfd23688", null ],
+    [ "get_integer", "classSql__service__context.html#aeff1a24a676fcc6a45967b957e6c86d3", null ],
+    [ "get_longlong", "classSql__service__context.html#a90784bf47a364880cb7df4d238f36e49", null ],
+    [ "get_null", "classSql__service__context.html#adc11178aa4b3f1f138202e8e1f6eda53", null ],
+    [ "get_string", "classSql__service__context.html#aec1a2337289b8553dd71b43161fa3dde", null ],
+    [ "get_time", "classSql__service__context.html#a586603ee4ee9df40f02da1d83ce8b09e", null ],
+    [ "handle_error", "classSql__service__context.html#a92460a0e2653573abfa6d9a43b51d3a2", null ],
+    [ "handle_ok", "classSql__service__context.html#a54ddaa4e0513e3826614427bd206712d", null ],
+    [ "shutdown", "classSql__service__context.html#a5f9673c55085b51dece73d4897f0d200", null ],
+    [ "start_result_metadata", "classSql__service__context.html#a70708345590ade510feb875aec46a45c", null ],
+    [ "start_row", "classSql__service__context.html#a1c226202e3139bd6fd9b96bd0bdb5cef", null ],
+    [ "resultset", "classSql__service__context.html#ac291a26c47d3dddda81d3070aa3a0c0c", null ]
+];

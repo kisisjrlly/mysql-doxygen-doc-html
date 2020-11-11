@@ -1,0 +1,25 @@
+var structPART__PRUNE__PARAM =
+[
+    [ "arg_stack", "structPART__PRUNE__PARAM.html#a49c391649bd72f0cd696f919a73eca01", null ],
+    [ "arg_stack_end", "structPART__PRUNE__PARAM.html#a86887ba1d0e5fafb650f63bf0c43f912", null ],
+    [ "cur_max_flag", "structPART__PRUNE__PARAM.html#ad692c85c083e7e1dff1c4c4e720ce48d", null ],
+    [ "cur_max_key", "structPART__PRUNE__PARAM.html#aff1a1b285b3d3b3b98593884566da5c4", null ],
+    [ "cur_min_flag", "structPART__PRUNE__PARAM.html#a71ba1fa7b352296a2a25b31429848aa3", null ],
+    [ "cur_min_key", "structPART__PRUNE__PARAM.html#a5c3509118977e4c5dc238b8c808a3071", null ],
+    [ "cur_part_fields", "structPART__PRUNE__PARAM.html#a2b57a1b38d6c0999cac47b8349924395", null ],
+    [ "cur_subpart_fields", "structPART__PRUNE__PARAM.html#a43908ca4b67f16405abc743b703dcc7e", null ],
+    [ "get_top_partition_id_func", "structPART__PRUNE__PARAM.html#a611bc28d97ec3983a44bac7003df1174", null ],
+    [ "ignore_part_fields", "structPART__PRUNE__PARAM.html#a17319dfa2c94a261f087dca8011412aa", null ],
+    [ "is_part_keypart", "structPART__PRUNE__PARAM.html#a04e2a681b81f3693e9aeec246127f865", null ],
+    [ "is_subpart_keypart", "structPART__PRUNE__PARAM.html#ae17264fe65d79c79e50ba0689a7ef491", null ],
+    [ "key", "structPART__PRUNE__PARAM.html#abb2fe4123fe7a030a2f8e396cb60091f", null ],
+    [ "last_part_partno", "structPART__PRUNE__PARAM.html#afbcdf48e4fbeb4d2e7c17787a8404baf", null ],
+    [ "last_subpart_partno", "structPART__PRUNE__PARAM.html#a0cbf32a08cc050f58202870dc8224fb3", null ],
+    [ "mark_full_partition_used", "structPART__PRUNE__PARAM.html#ae0d6d8173faee8ba25a0c862d68d75f3", null ],
+    [ "part_fields", "structPART__PRUNE__PARAM.html#ab87ff3a36ef9e9b75ee2fa393154721b", null ],
+    [ "part_info", "structPART__PRUNE__PARAM.html#a0ac70f3eed41e9b38901691557b87035", null ],
+    [ "part_iter", "structPART__PRUNE__PARAM.html#ada0ddd1833bba42b9a184bbfce836d4d", null ],
+    [ "range_param", "structPART__PRUNE__PARAM.html#a67b5b69843e907f77f5b3903f21c5078", null ],
+    [ "subpart_fields", "structPART__PRUNE__PARAM.html#a509654662e0c9b00a141d5cf824f0c54", null ],
+    [ "subparts_bitmap", "structPART__PRUNE__PARAM.html#a4c9b600a5b101d1aed80f9d0b9d0e8ca", null ]
+];

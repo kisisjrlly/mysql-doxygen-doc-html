@@ -1,0 +1,25 @@
+var classIO__CACHE__binlog__cache__storage =
+[
+    [ "IO_CACHE_binlog_cache_storage", "classIO__CACHE__binlog__cache__storage.html#a7907f24d6811822fbd942ebbb9e28982", null ],
+    [ "IO_CACHE_binlog_cache_storage", "classIO__CACHE__binlog__cache__storage.html#a373f48b0ab0ccbf739624658bc447804", null ],
+    [ "~IO_CACHE_binlog_cache_storage", "classIO__CACHE__binlog__cache__storage.html#ad8233d99f0989b9031d8aab876218262", null ],
+    [ "begin", "classIO__CACHE__binlog__cache__storage.html#a4227656ff8d90b9e68199dbd44818e5f", null ],
+    [ "close", "classIO__CACHE__binlog__cache__storage.html#aadf64885cc6254ddf56eb5e8d6cd9f94", null ],
+    [ "disable_encryption", "classIO__CACHE__binlog__cache__storage.html#a0cb63e07a74b522f7969124e2c44a544", null ],
+    [ "disk_writes", "classIO__CACHE__binlog__cache__storage.html#a7f0d42ac028c50be222bd9a77d348da3", null ],
+    [ "enable_encryption", "classIO__CACHE__binlog__cache__storage.html#aa3968f07f201e05b07a6802d6e4efe2a", null ],
+    [ "flush", "classIO__CACHE__binlog__cache__storage.html#a4ce923e80634c0c3458bceb77a7ec195", null ],
+    [ "length", "classIO__CACHE__binlog__cache__storage.html#a930c92fca837799140ba8dc30f9e6ad9", null ],
+    [ "next", "classIO__CACHE__binlog__cache__storage.html#ae80e1afc5546e865af5d719080848bdb", null ],
+    [ "open", "classIO__CACHE__binlog__cache__storage.html#a86c9a4b24d8fb05714dfb4c7830b765e", null ],
+    [ "operator=", "classIO__CACHE__binlog__cache__storage.html#ac4b391a46bff9097aecbd4b77b3e120c", null ],
+    [ "reset", "classIO__CACHE__binlog__cache__storage.html#a520cd3d4f6bad3ca75859ea44f33b1a3", null ],
+    [ "seek", "classIO__CACHE__binlog__cache__storage.html#a13b6193e2a46e83256c562d26582e283", null ],
+    [ "setup_ciphers_password", "classIO__CACHE__binlog__cache__storage.html#a7b9d7afc85bdd19f4da6482cd737a97b", null ],
+    [ "sync", "classIO__CACHE__binlog__cache__storage.html#a3c068a72e0b229149c019e255dd20310", null ],
+    [ "tmp_file_name", "classIO__CACHE__binlog__cache__storage.html#a1577d626546efc699dcb45f2b45e1ccb", null ],
+    [ "truncate", "classIO__CACHE__binlog__cache__storage.html#a774b5b8c0d641b212a2dafd202402c28", null ],
+    [ "write", "classIO__CACHE__binlog__cache__storage.html#ae1e62be67c1de53109a451ffe9e9e04f", null ],
+    [ "m_io_cache", "classIO__CACHE__binlog__cache__storage.html#ad33e4ffbe4aed134888e0032cc19e337", null ],
+    [ "m_max_cache_size", "classIO__CACHE__binlog__cache__storage.html#a223b735e0170a9009bda77778cd65b52", null ]
+];

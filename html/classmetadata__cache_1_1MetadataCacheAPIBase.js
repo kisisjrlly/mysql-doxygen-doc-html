@@ -1,0 +1,28 @@
+var classmetadata__cache_1_1MetadataCacheAPIBase =
+[
+    [ "RefreshStatus", "structmetadata__cache_1_1MetadataCacheAPIBase_1_1RefreshStatus.html", "structmetadata__cache_1_1MetadataCacheAPIBase_1_1RefreshStatus" ],
+    [ "MetadataCacheAPIBase", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a658249b1470c438130b4f37a5925b976", null ],
+    [ "MetadataCacheAPIBase", "classmetadata__cache_1_1MetadataCacheAPIBase.html#aae7ac2a1d285d5f1b051b63854a7e864", null ],
+    [ "~MetadataCacheAPIBase", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a8423a3405626bd1c4dcb88b6ec6e91e7", null ],
+    [ "add_listener", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a45e0aaba59b325e60dadb5b883de14ab", null ],
+    [ "cache_init", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a1fb3eb84e822aba7871bd542cc891a46", null ],
+    [ "cache_start", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a1a995b500be63c13015a3aaac2b8bd3f", null ],
+    [ "cache_stop", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a9751ee89adc5f66087826b8732c31396", null ],
+    [ "check_auth_metadata_timers", "classmetadata__cache_1_1MetadataCacheAPIBase.html#abf3b89fb8d5ba835ef88bfddc62cbd55", null ],
+    [ "cluster_name", "classmetadata__cache_1_1MetadataCacheAPIBase.html#aa71ddd5dc977bcec674faaee92325372", null ],
+    [ "cluster_type", "classmetadata__cache_1_1MetadataCacheAPIBase.html#ac332ed8c130a8f7117ecfead3ec59625", null ],
+    [ "cluster_type_specific_id", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a0aaba7bf1bacfc8757e452e945f3a834", null ],
+    [ "enable_fetch_auth_metadata", "classmetadata__cache_1_1MetadataCacheAPIBase.html#aadb2eeca3d3a70b28562471fbe9934b4", null ],
+    [ "force_cache_update", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a46254dab326576d09ffb10fc7cd2b26b", null ],
+    [ "get_refresh_status", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a93d446792462c203a1d37e9f0923510b", null ],
+    [ "get_rest_user_auth_data", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a601963eeba390d787c29fd4269ceec68", null ],
+    [ "instance_name", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a1e7fb6e53d25f54aa2e69ac4fd796c96", null ],
+    [ "instance_name", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a0dee6b03bd3d4eb8fdd64a057193172b", null ],
+    [ "is_initialized", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a4f83de603a3c036d224ca04b16727e21", null ],
+    [ "lookup_replicaset", "classmetadata__cache_1_1MetadataCacheAPIBase.html#af005253128ab8bc4721ec398a56fa7b6", null ],
+    [ "mark_instance_reachability", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a2b95846bb53e705e5763fe31e1a1b164", null ],
+    [ "operator=", "classmetadata__cache_1_1MetadataCacheAPIBase.html#ad2026a3d889f7ef7e88fdcb183b34bed", null ],
+    [ "remove_listener", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a19ac784dcbd3cdbd388e30fd35904bf2", null ],
+    [ "ttl", "classmetadata__cache_1_1MetadataCacheAPIBase.html#a10625bae87b1877a79e9f254bfde1207", null ],
+    [ "wait_primary_failover", "classmetadata__cache_1_1MetadataCacheAPIBase.html#ab7c9881c019da57d3a743a51ef0f7b6a", null ]
+];

@@ -1,0 +1,37 @@
+var classFRM__context =
+[
+    [ "utype", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9", [
+      [ "NONE", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a232beee39fbacc4765f416a26307fa77", null ],
+      [ "DATE", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a478b5c69aaf520d0e12591aac8327698", null ],
+      [ "SHIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9af784a7f2d8e80bb5b240f37274db43e0", null ],
+      [ "NOEMPTY", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a71940b0717223642c796cc47a0e3a110", null ],
+      [ "CASEUP", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a05c4ddce44f9053fe4135a52f36b6e36", null ],
+      [ "PNR", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a4cbb2df45b223c1c5692fd4225b6132c", null ],
+      [ "BGNR", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9afea6de9cbe2e4a2d16d3639c7b896b9a", null ],
+      [ "PGNR", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9acafff832a2b1373345ab7450e6c9e555", null ],
+      [ "YES", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a8105075dede6048061509b22b98d0aac", null ],
+      [ "NO", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a147789168e1a65a6bbe39ac6dbb044ca", null ],
+      [ "REL", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a3f8f312dac1edc8715e7a9531c6fbab3", null ],
+      [ "CHECK", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a76afc5df433dafdb4b75b1c060dd103b", null ],
+      [ "EMPTY_VAL", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9aed4fbcd6c0510cd2cb67298e822c08a8", null ],
+      [ "UNKNOWN_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9aa7712678b9bf12a1127bf2619c65ae8c", null ],
+      [ "CASEDN", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9ab1bcd369e74af11772c05afc1d163621", null ],
+      [ "NEXT_NUMBER", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a412d8d828e929556cc95b7fcc0b72404", null ],
+      [ "INTERVAL_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a643783814d89e3e02bc2e35918c775de", null ],
+      [ "BIT_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a4fb62bcdfe22a8297249d279f2d7637d", null ],
+      [ "TIMESTAMP_OLD_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a591d309d2cedfdf55cdd35921afc1a1b", null ],
+      [ "CAPITALIZE", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9aef60484a116b25700c24b5737468c865", null ],
+      [ "BLOB_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a9bd13f810cbc9ffe577f0637e090d194", null ],
+      [ "TIMESTAMP_DN_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9abb6fa4b055c60a3362874e55109a20d7", null ],
+      [ "TIMESTAMP_UN_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a6bf148c5eab55b0ba7608e3bb33a3359", null ],
+      [ "TIMESTAMP_DNUN_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a8766082fb7d8a5bd9680ff3d7c2ed549", null ],
+      [ "GENERATED_FIELD", "classFRM__context.html#a0d264c15721515dee799579f7ae19de9a60a5b6eecb184fd6649e30b58a8844d4", null ]
+    ] ],
+    [ "FRM_context", "classFRM__context.html#af202b38e876331e79fad34289d05706c", null ],
+    [ "default_part_db_type", "classFRM__context.html#a874c7c6c73695126e3aabc75d54794af", null ],
+    [ "fieldnames", "classFRM__context.html#aa497d2d301f82f25844618f467c3d1c5", null ],
+    [ "frm_version", "classFRM__context.html#a19770fd113072cb2c6d2d7a87d6dc071", null ],
+    [ "null_field_first", "classFRM__context.html#a0e8eb54f185a59f56dfeb45163f8d577", null ],
+    [ "stored_fields", "classFRM__context.html#abab4409a9e515a68712e6b6e5e2e087c", null ],
+    [ "view_def", "classFRM__context.html#aac2f481c5cf0c93d1bbcbd6117358ab5", null ]
+];

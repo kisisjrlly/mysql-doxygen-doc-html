@@ -1,0 +1,26 @@
+var classTransaction__consistency__info =
+[
+    [ "Transaction_consistency_info", "classTransaction__consistency__info.html#abeab3a61803186885611924b18a58191", null ],
+    [ "~Transaction_consistency_info", "classTransaction__consistency__info.html#a9944dd8d1865800178b6dccd2860e110", null ],
+    [ "after_applier_prepare", "classTransaction__consistency__info.html#a88756bff87625620f9402f658b595453", null ],
+    [ "get_consistency_level", "classTransaction__consistency__info.html#ab90217102c79016945719100db8ffbfd", null ],
+    [ "get_gno", "classTransaction__consistency__info.html#ad2896f5df57450e3cc04fe8e6dbb69fd", null ],
+    [ "get_sidno", "classTransaction__consistency__info.html#ad634d186709de7dcbfcb0b0a142db163", null ],
+    [ "get_thread_id", "classTransaction__consistency__info.html#ad62d8de3b4b3efe1176b6607093bbb01", null ],
+    [ "handle_member_leave", "classTransaction__consistency__info.html#a55d01b9b72303419e2e64e2e1422e2f1", null ],
+    [ "handle_remote_prepare", "classTransaction__consistency__info.html#a6ee4edf1abc20a0862635bc2735f6b2a", null ],
+    [ "is_a_single_member_group", "classTransaction__consistency__info.html#adbd8964a6809811b09704bd619b5510a", null ],
+    [ "is_local_transaction", "classTransaction__consistency__info.html#aee7c6e28cc4e43f18dae8f321f3231cf", null ],
+    [ "is_the_transaction_prepared_remotely", "classTransaction__consistency__info.html#ad1b75d0cfa4ee05968208aadcc5c0b38", null ],
+    [ "is_transaction_prepared_locally", "classTransaction__consistency__info.html#a467f4872f2f9465f5e18f9bee56547fa", null ],
+    [ "m_consistency_level", "classTransaction__consistency__info.html#a62af17cab8f8226876279242e4e92ccc", null ],
+    [ "m_gno", "classTransaction__consistency__info.html#a70573818a33d2ad7c353de3252d2d51d", null ],
+    [ "m_local_transaction", "classTransaction__consistency__info.html#a4971f0e4e365ee93d2688e78cbb36d1a", null ],
+    [ "m_members_that_must_prepare_the_transaction", "classTransaction__consistency__info.html#ac016b2a350dd66bb8172d1f90372e310", null ],
+    [ "m_sid", "classTransaction__consistency__info.html#a65cf6609a72b3ea986b9a01ef29dde11", null ],
+    [ "m_sid_specified", "classTransaction__consistency__info.html#a6cfdc8c6bec74e5a8d1f48076e05611f", null ],
+    [ "m_sidno", "classTransaction__consistency__info.html#a4cca1529da6e3b905902e056e9f8d1ec", null ],
+    [ "m_thread_id", "classTransaction__consistency__info.html#a2c61c330ea2ebe1ab9ae2c0e3154d5c6", null ],
+    [ "m_transaction_prepared_locally", "classTransaction__consistency__info.html#a40f42a35447df2580b24d3c5c3aed1da", null ],
+    [ "m_transaction_prepared_remotely", "classTransaction__consistency__info.html#aa834608d999de4e04ea06265e6fde598", null ]
+];

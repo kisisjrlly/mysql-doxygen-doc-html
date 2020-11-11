@@ -1,0 +1,28 @@
+var ctype_tis620_8cc =
+[
+    [ "L", "ctype-tis620_8cc.html#aa73214aa5f2f94f63d90bb4e3d99fe53", null ],
+    [ "M", "ctype-tis620_8cc.html#a52037c938e3c1b126c6277da5ca689d0", null ],
+    [ "U", "ctype-tis620_8cc.html#affc9cbf86b78292bdb405361761c47f5", null ],
+    [ "UU", "ctype-tis620_8cc.html#a94db1ec6a412a83becda73ca2a5db0bf", null ],
+    [ "X", "ctype-tis620_8cc.html#a207fd5507206d307cd63f95374fcd00d", null ],
+    [ "my_mb_wc_tis620", "ctype-tis620_8cc.html#accec6c584685478211f247f0b9805f25", null ],
+    [ "my_strnncoll_tis620", "ctype-tis620_8cc.html#a22207fd1f7d78c362a1ba930288060e9", null ],
+    [ "my_strnncollsp_tis620", "ctype-tis620_8cc.html#a073bf6da97cc25f145c181c5f5a03a15", null ],
+    [ "my_strnxfrm_tis620", "ctype-tis620_8cc.html#a981008b0bbb3c4d6cee8d1d54ecb1e63", null ],
+    [ "my_wc_mb_tis620", "ctype-tis620_8cc.html#abc4c2a2a4f92e1ba27bec9c1cf768e62", null ],
+    [ "thai2sortable", "ctype-tis620_8cc.html#a9b16b656ad5b0bf042651f33b00f3fda", null ],
+    [ "cs_to_uni", "ctype-tis620_8cc.html#a3b0b90f1874f7371b8f2b36b62cca6e1", null ],
+    [ "ctype_tis620", "ctype-tis620_8cc.html#a99da4b5d03c9ce97f56de47ca2f72e02", null ],
+    [ "my_charset_handler", "ctype-tis620_8cc.html#a2e2c4e859aaa0a92e74a8047a873e9e6", null ],
+    [ "my_charset_tis620_bin", "ctype-tis620_8cc.html#a254a75eb6f1e50e2c1102b3c82f6d9af", null ],
+    [ "my_charset_tis620_thai_ci", "ctype-tis620_8cc.html#af10a794d6e04501c256508d2b0c2f2bc", null ],
+    [ "my_collation_ci_handler", "ctype-tis620_8cc.html#a10ea2057865e412772f73cfee81cc5dc", null ],
+    [ "pl00", "ctype-tis620_8cc.html#a32c5a49ee73323056acc30b1909ef03d", null ],
+    [ "pl0E", "ctype-tis620_8cc.html#a5b0711abbf1a7d962559ffbc3b7f8d77", null ],
+    [ "plFF", "ctype-tis620_8cc.html#a3c39edeeca936edcc5d523f8401b8016", null ],
+    [ "sort_order_tis620", "ctype-tis620_8cc.html#ad6b169dbdb10fa76743b3553f95b42e9", null ],
+    [ "t_ctype", "ctype-tis620_8cc.html#ab33cb5991ac682aad5500d8c5629e1ae", null ],
+    [ "to_lower_tis620", "ctype-tis620_8cc.html#a5f36b0b10009a61e532ad1ae0271fac0", null ],
+    [ "to_upper_tis620", "ctype-tis620_8cc.html#abd9239f6bd8c37cfb7c0fe6fef5e2d6f", null ],
+    [ "uni_to_cs", "ctype-tis620_8cc.html#af6a48d5ae58f64b2a9d626383da4be38", null ]
+];

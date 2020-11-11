@@ -1,0 +1,38 @@
+var mysql__protocol__common_8h =
+[
+    [ "column_info_type", "structserver__mock_1_1column__info__type.html", "structserver__mock_1_1column__info__type" ],
+    [ "byte", "mysql__protocol__common_8h.html#a8868601207592b1ec602c72f89f7e9b6", null ],
+    [ "RowValueType", "mysql__protocol__common_8h.html#a5e98920cb1457bbb52abfe7dc10794fc", null ],
+    [ "MySQLColumnType", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3c", [
+      [ "DECIMAL", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca13d992d671957e9a2b3e936ca0cf14a4", null ],
+      [ "TINY", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca6dd4ee07e7811f17d2b1b33bf3b6f0c1", null ],
+      [ "SHORT", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3caa35c2b02966b1563e5bf7b81b8b0cf77", null ],
+      [ "LONG", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cac1fabfea54ec6011e694f211f3ffebf3", null ],
+      [ "FLOAT", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cae738c26bf4ce1037fa81b039a915cbf6", null ],
+      [ "DOUBLE", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cafd3e4ece78a7d422280d5ed379482229", null ],
+      [ "NULL_", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca6d67bdfe4ae19f38aff8f363bca42892", null ],
+      [ "TIMESTAMP", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca87fb568bfdc633ffd5dee0f22cb4606c", null ],
+      [ "LONGLONG", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cadeeed35101214b62ebabd7bf71f27ab1", null ],
+      [ "INT24", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca9003f0c99274c2b98d6804fc0e39bced", null ],
+      [ "DATE", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca633a6c7a6b9958f8174250094daf1e6a", null ],
+      [ "TIME", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca346ff32eaa3c09983fb2ec057816d352", null ],
+      [ "DATETIME", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3caa3eb957bd02f4780a599d5ec4464ca46", null ],
+      [ "YEAR", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cad18101729d290479023d5eceeb29c9cf", null ],
+      [ "NEWDATE", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca9471fbba2f8dade35471847a29c4192a", null ],
+      [ "VARCHAR", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cadd6a4850d8ccf48d79886d5281d1dbcb", null ],
+      [ "BIT", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cadb957fdc8000e1eef04a243f5199aa52", null ],
+      [ "TIMESTAMP2", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cae82c2f47df07928475942d3e5c2d4342", null ],
+      [ "JSON", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca0ecd11c1d7a287401d148a23bbd7a2f8", null ],
+      [ "NEWDECIMAL", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cafb38877a2930dce1fccbe94b3a5930b5", null ],
+      [ "ENUM", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca85a1979d26d0ef93dcc13a72fee80705", null ],
+      [ "SET", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca8c52684db8f49511e9b44471716bf164", null ],
+      [ "TINY_BLOB", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3caf937bb3bed0e9786c53e14603c030a1f", null ],
+      [ "MEDIUM_BLOB", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cad14186da3aef299d155d9f9a37d8497e", null ],
+      [ "LONG_BLOB", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca8647ba0fb3d00423b27fbb9220185def", null ],
+      [ "BLOB", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca1649cff06611a6025da3dd511a97fb43", null ],
+      [ "VAR_STRING", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cabded2e0fbe45d90210b98387164a5dfb", null ],
+      [ "STRING", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3ca63b588d5559f64f89a416e656880b949", null ],
+      [ "GEOMETRY", "mysql__protocol__common_8h.html#a9071871b74bbf3926af369ee19e81a3cab22957ad8078e8d73de61aef53d13a74", null ]
+    ] ],
+    [ "column_type_from_string", "mysql__protocol__common_8h.html#a505fe3af8567a694e0e14c08c3386f26", null ]
+];

@@ -1,0 +1,27 @@
+var structtrx__rseg__t =
+[
+    [ "decr_curr_size", "structtrx__rseg__t.html#a4c372629685635f4ee2c69fef2f8da47", null ],
+    [ "get_curr_size", "structtrx__rseg__t.html#a2f590a3c33a41d44a274bec4f4ed18cf", null ],
+    [ "incr_curr_size", "structtrx__rseg__t.html#aa217e93af95dfd2fa92f76a4df566516", null ],
+    [ "latch", "structtrx__rseg__t.html#afd6cba92aeb919b312b8cc945c6fcf8b", null ],
+    [ "print", "structtrx__rseg__t.html#ae8f015f3d0173db8ae9d8b56291cfac4", null ],
+    [ "set_curr_size", "structtrx__rseg__t.html#a2fcdbb651b1ce550acd4b3f7cb306f49", null ],
+    [ "unlatch", "structtrx__rseg__t.html#af8bcd07540fc6a1a73fb0f6377603a75", null ],
+    [ "UT_LIST_BASE_NODE_T", "structtrx__rseg__t.html#a030737bc8b31fba6e17757ca3d03a808", null ],
+    [ "UT_LIST_BASE_NODE_T", "structtrx__rseg__t.html#a007f3a78a9e7ecebcb405ea61c3b3286", null ],
+    [ "UT_LIST_BASE_NODE_T", "structtrx__rseg__t.html#a30a16082cbad9f407b9ed56f0a46a416", null ],
+    [ "UT_LIST_BASE_NODE_T", "structtrx__rseg__t.html#a2d827ce5065f32fbee691ba5b60c6151", null ],
+    [ "validate_curr_size", "structtrx__rseg__t.html#ac427f3f7f7bb3dd5eba333cd437851b7", null ],
+    [ "curr_size", "structtrx__rseg__t.html#a4d1948156ce79e4f2bed72d32cb3b373", null ],
+    [ "id", "structtrx__rseg__t.html#a16b502698fce6c48fc7c8e5a349cde81", null ],
+    [ "last_del_marks", "structtrx__rseg__t.html#a28194b2a8d4071f84d34b8561dd219ec", null ],
+    [ "last_offset", "structtrx__rseg__t.html#a1d91936e94cfadd5bdb1aef400c76503", null ],
+    [ "last_page_no", "structtrx__rseg__t.html#acb14dc2b68b95b86340dd1689617eaed", null ],
+    [ "last_trx_no", "structtrx__rseg__t.html#a06d2b6051c93d43fb30cdada1b7f7b0b", null ],
+    [ "max_size", "structtrx__rseg__t.html#a99cc3ea3ca03ca2b805ac4e47ee85791", null ],
+    [ "mutex", "structtrx__rseg__t.html#a483ab37e0bd0bd6e5641ce153d397963", null ],
+    [ "page_no", "structtrx__rseg__t.html#a6f2414dad1b532d11263e18afdfa8019", null ],
+    [ "page_size", "structtrx__rseg__t.html#a7cee5afe1fe1ea7462632d25afc0bf1d", null ],
+    [ "space_id", "structtrx__rseg__t.html#a4ab14e26e47527d0e36ef06223f51b39", null ],
+    [ "trx_ref_count", "structtrx__rseg__t.html#a962b3eb55d7b53df682a5acb53e9b09c", null ]
+];

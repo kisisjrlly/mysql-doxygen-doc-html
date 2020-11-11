@@ -1,0 +1,25 @@
+var structMBR =
+[
+    [ "MBR", "structMBR.html#a16e004661db5bf86465713fce70b152c", null ],
+    [ "MBR", "structMBR.html#a2fa23e1956ecda01a938ea6b572fbae4", null ],
+    [ "MBR", "structMBR.html#a31a54538ef665c43a559e9a9028ccf32", null ],
+    [ "add_mbr", "structMBR.html#af2e5278b6d18fb3503ac3475d0aa430f", null ],
+    [ "add_xy", "structMBR.html#a5eba1f9d08be8eb2bae67f120ddf553c", null ],
+    [ "add_xy", "structMBR.html#a5650eeecff5499b7264fc982fca17ca8", null ],
+    [ "add_xy", "structMBR.html#a61ebed1f53646eeb67e01b6d0d0d5e91", null ],
+    [ "contains", "structMBR.html#a49091fa440cb4a00d08faf5a2b40291d", null ],
+    [ "covered_by", "structMBR.html#a098223db5cc9d49df2976e28b9d45b15", null ],
+    [ "covers", "structMBR.html#a76e25947b90ab0fbf2366252f916cb91", null ],
+    [ "dimension", "structMBR.html#a26ccb0cfb2eeffbcec91b2640f234374", null ],
+    [ "disjoint", "structMBR.html#af6f7556098fd6b508d4836d3191c508a", null ],
+    [ "equals", "structMBR.html#a1702f5f8e8a2130f333f1cc2012cc50f", null ],
+    [ "inner_point", "structMBR.html#aa179d0363e1d080cbd6f11faff033a37", null ],
+    [ "intersects", "structMBR.html#af0dc28de7c9a1858c2f68a84dd66ce2c", null ],
+    [ "overlaps", "structMBR.html#a5257f36a187278b4273c2f3e568dce64", null ],
+    [ "touches", "structMBR.html#a3379d108d4306ac49761c8a602e1da22", null ],
+    [ "within", "structMBR.html#a7518ac4d8e9ec41306c8b29dd8b4b1d0", null ],
+    [ "xmax", "structMBR.html#ab586aa910440bf7205cb2115505abb80", null ],
+    [ "xmin", "structMBR.html#a037cb7619d9a975d4c0c4629a2504484", null ],
+    [ "ymax", "structMBR.html#a63888f0d7b224e7a8a71e38e8b320ef7", null ],
+    [ "ymin", "structMBR.html#aeeb7d730381e51fdd9fc85b98a8ef53f", null ]
+];

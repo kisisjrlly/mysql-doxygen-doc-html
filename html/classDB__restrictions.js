@@ -1,0 +1,27 @@
+var classDB__restrictions =
+[
+    [ "DB_restrictions", "classDB__restrictions.html#ad260a00b161f84ebe5d25a5c5f51768d", null ],
+    [ "~DB_restrictions", "classDB__restrictions.html#abafcd9f9e8f9676d2ec30ce190bb4312", null ],
+    [ "DB_restrictions", "classDB__restrictions.html#a2d6056c70604edef6fc40e1cf674db98", null ],
+    [ "DB_restrictions", "classDB__restrictions.html#a9439c2c41ed5858feda6116062f74b31", null ],
+    [ "add", "classDB__restrictions.html#a3e5c5e96edeeae49e6edd01a7488a847", null ],
+    [ "add", "classDB__restrictions.html#a8b3c1c35c98b0fe694165166adf5e523", null ],
+    [ "add", "classDB__restrictions.html#af72a7f9fafd40e5fc23f91091e8541d3", null ],
+    [ "clear", "classDB__restrictions.html#a1b9ddbeb73c8567452e01118d671a2dd", null ],
+    [ "db_restrictions", "classDB__restrictions.html#a156979da4784f8af0829ff3a36e85277", null ],
+    [ "find", "classDB__restrictions.html#a61e0e0b1470d97dffb10ae70b1127606", null ],
+    [ "get", "classDB__restrictions.html#ac3d37f77e80f72a9527de4e3369d76b5", null ],
+    [ "get_as_json", "classDB__restrictions.html#a0f35045e2aaf459ab1eb31347b1a2a24", null ],
+    [ "has_more_restrictions", "classDB__restrictions.html#a0ec11347fbbed78c3db618abce22a2f8", null ],
+    [ "is_empty", "classDB__restrictions.html#a7cd23e38215355a09e845cd18bf3c328", null ],
+    [ "is_not_empty", "classDB__restrictions.html#a7d748466bec51079f4e5c07b3fc2f042", null ],
+    [ "operator()", "classDB__restrictions.html#aa6d0460367dad93fb8ba27f953befd42", null ],
+    [ "operator=", "classDB__restrictions.html#a4c3de9ad622f0e612fe6d6fb62b290b0", null ],
+    [ "operator=", "classDB__restrictions.html#a4efc4fcca59064323027af34a680998f", null ],
+    [ "operator==", "classDB__restrictions.html#ad4765d2dfdd229b64220b0ab0d6f9364", null ],
+    [ "remove", "classDB__restrictions.html#a3007ecbe2061d4954d96cb8288ad106b", null ],
+    [ "remove", "classDB__restrictions.html#a79f4c584d2aa4494ec10b917f860462c", null ],
+    [ "remove", "classDB__restrictions.html#ae98ecac4da794348d89feccd3173c1c6", null ],
+    [ "size", "classDB__restrictions.html#a3460f2fa7ba6f8559ef0eb8893ab25a2", null ],
+    [ "m_restrictions", "classDB__restrictions.html#a372614a9e6e3116e4c8dae18a68934b9", null ]
+];

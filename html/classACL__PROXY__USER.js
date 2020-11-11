@@ -1,0 +1,36 @@
+var classACL__PROXY__USER =
+[
+    [ "old_acl_proxy_users", "classACL__PROXY__USER.html#ac016234d53bab6b8a16bca09516a5fc5", [
+      [ "MYSQL_PROXIES_PRIV_HOST", "classACL__PROXY__USER.html#ac016234d53bab6b8a16bca09516a5fc5a94b0988dd1df23f34661fbdbf6b15f06", null ],
+      [ "MYSQL_PROXIES_PRIV_USER", "classACL__PROXY__USER.html#ac016234d53bab6b8a16bca09516a5fc5affa3e7384ca2418f3846045ff7b492d5", null ],
+      [ "MYSQL_PROXIES_PRIV_PROXIED_HOST", "classACL__PROXY__USER.html#ac016234d53bab6b8a16bca09516a5fc5a4f58d7a0637c766f14332f1f6f127e54", null ],
+      [ "MYSQL_PROXIES_PRIV_PROXIED_USER", "classACL__PROXY__USER.html#ac016234d53bab6b8a16bca09516a5fc5ae34ac621a94a7658da9bd941a5cbac3b", null ],
+      [ "MYSQL_PROXIES_PRIV_WITH_GRANT", "classACL__PROXY__USER.html#ac016234d53bab6b8a16bca09516a5fc5ab7c07d05acf5ff4cb951d278911619bd", null ],
+      [ "MYSQL_PROXIES_PRIV_GRANTOR", "classACL__PROXY__USER.html#ac016234d53bab6b8a16bca09516a5fc5aca6dc07d5c333157b9466eaa7f5c28a9", null ],
+      [ "MYSQL_PROXIES_PRIV_TIMESTAMP", "classACL__PROXY__USER.html#ac016234d53bab6b8a16bca09516a5fc5af74a198dd639832377648d181562bdf1", null ]
+    ] ],
+    [ "ACL_PROXY_USER", "classACL__PROXY__USER.html#a99a5ba44f8eefde7db2775be6c96c3da", null ],
+    [ "auth_element_equals", "classACL__PROXY__USER.html#a84e2452ec714b35fd0fa862741f68a8a", null ],
+    [ "check_validity", "classACL__PROXY__USER.html#a7d5f76c471ce64534512328529d360f9", null ],
+    [ "get_proxied_host", "classACL__PROXY__USER.html#a38a94ea9baed89c2feb55e8e51407e6a", null ],
+    [ "get_proxied_user", "classACL__PROXY__USER.html#a35e25872a5766cde978654c7c97c8020", null ],
+    [ "get_user", "classACL__PROXY__USER.html#ae6400d387f07610d02f01420845e1ef4", null ],
+    [ "get_with_grant", "classACL__PROXY__USER.html#a10fa544371ae3626489964ff2deca09a", null ],
+    [ "granted_on", "classACL__PROXY__USER.html#af23cf42a688fddb34807246422c3fff4", null ],
+    [ "init", "classACL__PROXY__USER.html#a560354ad2b12fc26b3cbc76378d088d8", null ],
+    [ "init", "classACL__PROXY__USER.html#aabf9e284e77865fcd52fc1841b498108", null ],
+    [ "init", "classACL__PROXY__USER.html#a9db625a7f932955b601d6482e323624f", null ],
+    [ "matches", "classACL__PROXY__USER.html#a25ac1a30cd69e8d19abaef88999501d1", null ],
+    [ "pk_equals", "classACL__PROXY__USER.html#a7b4bc12a8695841fffe0a9507e5f48fb", null ],
+    [ "print_grant", "classACL__PROXY__USER.html#a50357749c989670db01dfa14942d6c4b", null ],
+    [ "set_data", "classACL__PROXY__USER.html#a9604d0d719907c82dd104143cb7123c9", null ],
+    [ "set_host", "classACL__PROXY__USER.html#a38a80108b2c30aa215e57e81cf054b46", null ],
+    [ "set_user", "classACL__PROXY__USER.html#a8d1354df483d061f99c4ee36abdebfb6", null ],
+    [ "store_data_record", "classACL__PROXY__USER.html#a0dd1e6b6b1b2f4d083a08e32e98b0f5e", null ],
+    [ "store_pk", "classACL__PROXY__USER.html#a76b9b92bdeaed1ccdf328c0533f1f080", null ],
+    [ "store_with_grant", "classACL__PROXY__USER.html#a93433984b4470fb521408c3069375d84", null ],
+    [ "proxied_host", "classACL__PROXY__USER.html#a03532e407fa9bc9da3085f744e978989", null ],
+    [ "proxied_user", "classACL__PROXY__USER.html#ad60e7e609a107013dd9c3ba13dd63ed0", null ],
+    [ "user", "classACL__PROXY__USER.html#aef0637a50f42c474671ce6c4e7c61211", null ],
+    [ "with_grant", "classACL__PROXY__USER.html#af4ff69eda3498ee55ea70b91b54ecf46", null ]
+];

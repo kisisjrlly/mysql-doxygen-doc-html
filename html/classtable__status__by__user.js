@@ -1,0 +1,26 @@
+var classtable__status__by__user =
+[
+    [ "pos_t", "classtable__status__by__user.html#a78a2d36903533cadb6cc9b67981ab618", null ],
+    [ "table_status_by_user", "classtable__status__by__user.html#a39aa4881add64c4d126eab63b53d65a2", null ],
+    [ "~table_status_by_user", "classtable__status__by__user.html#a819ea822411ca6ed1f7b97d59710ba6a", null ],
+    [ "create", "classtable__status__by__user.html#a3308e37552f022fe6d11cb91d3ec0092", null ],
+    [ "delete_all_rows", "classtable__status__by__user.html#aa6738445ae78007459147fbb05e9f5dd", null ],
+    [ "get_row_count", "classtable__status__by__user.html#a1f023c0ffd01a2166adde7043141462e", null ],
+    [ "index_init", "classtable__status__by__user.html#a444984576bf083ecc825551f1bf82efe", null ],
+    [ "index_next", "classtable__status__by__user.html#a1e897b3f313d22c9abc2e153005298b0", null ],
+    [ "make_row", "classtable__status__by__user.html#af9fb896ca1849fd98dec913c70fab4b0", null ],
+    [ "read_row_values", "classtable__status__by__user.html#aa857050c671845cd09ba1496369ee128", null ],
+    [ "reset_position", "classtable__status__by__user.html#a921e716235bf3d032943943d4fee6f73", null ],
+    [ "rnd_init", "classtable__status__by__user.html#ad1516da82a2f00c295315006aaacbb92", null ],
+    [ "rnd_next", "classtable__status__by__user.html#a0e45fc0493597741084b855b5c70a02c", null ],
+    [ "rnd_pos", "classtable__status__by__user.html#a45a2df453454eed9ebebab78d1627a39", null ],
+    [ "m_context", "classtable__status__by__user.html#a99099e3fcba0fba9b6221ac4c0ef2574", null ],
+    [ "m_next_pos", "classtable__status__by__user.html#ae2aad558dddae061001212f903274147", null ],
+    [ "m_opened_index", "classtable__status__by__user.html#a10de45ca75a1365a60bf04a45f6819ec", null ],
+    [ "m_pos", "classtable__status__by__user.html#adfecd29f65a471f1b8c2b9ea3119e2ca", null ],
+    [ "m_row", "classtable__status__by__user.html#aa552f1ef1a623fafda5d69d59eefe666", null ],
+    [ "m_share", "classtable__status__by__user.html#a42e2b302c3f6b24e5794889eda6ed50c", null ],
+    [ "m_status_cache", "classtable__status__by__user.html#a271f4ce70bb097f5b2b394efb9d63008", null ],
+    [ "m_table_def", "classtable__status__by__user.html#a942fc991a7f37c9d68849bc6ebd3a703", null ],
+    [ "m_table_lock", "classtable__status__by__user.html#a6294f058c92085cb647bf67e6867cdfd", null ]
+];

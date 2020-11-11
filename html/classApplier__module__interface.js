@@ -1,0 +1,27 @@
+var classApplier__module__interface =
+[
+    [ "~Applier_module_interface", "classApplier__module__interface.html#ab697972c628ee2f63d1e58a87f61c516", null ],
+    [ "add_leaving_members_action_packet", "classApplier__module__interface.html#a6a17564a36a917faf315d4491f19bf2e", null ],
+    [ "add_single_primary_action_packet", "classApplier__module__interface.html#af02417bee1b8aeb2856ce7c770487e8b", null ],
+    [ "add_suspension_packet", "classApplier__module__interface.html#aa96adf446ae416d666be741e14ff5a0c", null ],
+    [ "add_sync_before_execution_action_packet", "classApplier__module__interface.html#a5a358acdc52caa40974c3c32a10aa811", null ],
+    [ "add_transaction_prepared_action_packet", "classApplier__module__interface.html#aa8b7c2f1117cd4323d49395535148f81", null ],
+    [ "add_view_change_packet", "classApplier__module__interface.html#add3942c278ac4b1a8879f08e8cb81196", null ],
+    [ "awake_applier_module", "classApplier__module__interface.html#a6ffc1396f889ef6953da06380bb2fc01", null ],
+    [ "get_applier_status", "classApplier__module__interface.html#a9f22b573c9c050db40caee2c478b0226", null ],
+    [ "get_certification_handler", "classApplier__module__interface.html#ae427fa7bb0c60810e61bfb65564890bc", null ],
+    [ "get_flow_control_module", "classApplier__module__interface.html#afd5a64e32bdd1c7b9fcc73c2983e8996", null ],
+    [ "get_message_queue_size", "classApplier__module__interface.html#a26a67a565afd07f14bae07ffad9eff8d", null ],
+    [ "get_pipeline_stats_member_collector", "classApplier__module__interface.html#aabe3c1c3003b928af7a1509d59a0df14", null ],
+    [ "get_retrieved_gtid_set", "classApplier__module__interface.html#a07cdf4904c9985a6e98c6278e66c24a4", null ],
+    [ "handle", "classApplier__module__interface.html#afc7e5c10b72c651aebf178d8df604d9d", null ],
+    [ "handle_pipeline_action", "classApplier__module__interface.html#af63954970afbc2a6ffcfd0a3e81975c8", null ],
+    [ "interrupt_applier_suspension_wait", "classApplier__module__interface.html#affe83a07d3e0b0061ef975a252762b3f", null ],
+    [ "purge_applier_queue_and_restart_applier_module", "classApplier__module__interface.html#a79f1afc63c2fdc1552bf170341690f55", null ],
+    [ "queue_and_wait_on_queue_checkpoint", "classApplier__module__interface.html#ae7ca32f422edd0a30b7d3fa9e6b00fd2", null ],
+    [ "run_flow_control_step", "classApplier__module__interface.html#ad8f3ac9d30ed064540f0c841a797d2d3", null ],
+    [ "wait_for_applier_complete_suspension", "classApplier__module__interface.html#a13709d7d15b451c5bc4291b3e908caf1", null ],
+    [ "wait_for_applier_event_execution", "classApplier__module__interface.html#a4ff9f7cef19b6438692d306b90fa97c8", null ],
+    [ "wait_for_applier_event_execution", "classApplier__module__interface.html#a573474031980abe1facf3ca3ba3ccb41", null ],
+    [ "wait_for_current_events_execution", "classApplier__module__interface.html#ab9a57a6ee805f9b9213bd5edcfcd5eaa", null ]
+];

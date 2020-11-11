@@ -1,0 +1,27 @@
+var my__bitmap_8cc =
+[
+    [ "bitmap_bits_set", "my__bitmap_8cc.html#a5b95168e815734c33e898ed0d35e0eee", null ],
+    [ "bitmap_copy", "my__bitmap_8cc.html#af3c2d27692b76ceccdec7a488fca1b62", null ],
+    [ "bitmap_free", "my__bitmap_8cc.html#ae609821c8721ab0a983f16625af10a8b", null ],
+    [ "bitmap_get_first", "my__bitmap_8cc.html#af0a8f4a6f69c6199d68bdd2196f2d62e", null ],
+    [ "bitmap_get_first_set", "my__bitmap_8cc.html#a9eb235cebbc20ea480b6c05b0305dd44", null ],
+    [ "bitmap_get_next_set", "my__bitmap_8cc.html#a8fbd230e3afd45489e4238c93274266a", null ],
+    [ "bitmap_init", "my__bitmap_8cc.html#ab14480a57e35248ec713a19175dfb3c7", null ],
+    [ "bitmap_intersect", "my__bitmap_8cc.html#a76251af68f21b372b1bf5e5c440c62f9", null ],
+    [ "bitmap_invert", "my__bitmap_8cc.html#a3043316ebac518e98e3ae6396521e84b", null ],
+    [ "bitmap_is_clear_all", "my__bitmap_8cc.html#a280c4db6b11076549a85c205441cbbf6", null ],
+    [ "bitmap_is_overlapping", "my__bitmap_8cc.html#a0f35b43d2f066a21b9db5ede4a56b0f5", null ],
+    [ "bitmap_is_prefix", "my__bitmap_8cc.html#af581b6396256bb6a51b9e002b182865e", null ],
+    [ "bitmap_is_set_all", "my__bitmap_8cc.html#a514f25c331b1575634810e72bdc1cbe4", null ],
+    [ "bitmap_is_subset", "my__bitmap_8cc.html#ad9f781ccfb4af16f76bdfc07946bf1d5", null ],
+    [ "bitmap_set_above", "my__bitmap_8cc.html#a90b38d37bf42d1e0ba79df07d4e0e35a", null ],
+    [ "bitmap_set_next", "my__bitmap_8cc.html#ae619cba7782ea4b4b270fd7e97cebd1c", null ],
+    [ "bitmap_set_prefix", "my__bitmap_8cc.html#ace2b0cbdfa4f56db53dcfa784e570a6b", null ],
+    [ "bitmap_subtract", "my__bitmap_8cc.html#a5720bd6f08c60410867bd63f19833c48", null ],
+    [ "bitmap_test_and_set", "my__bitmap_8cc.html#ac214c1f0b02907bee0dd9751c27b1728", null ],
+    [ "bitmap_union", "my__bitmap_8cc.html#abe70a457080742bdda956eae7d1fb428", null ],
+    [ "bitmap_xor", "my__bitmap_8cc.html#a11437fb5afd16018828ee2ad1135dcd4", null ],
+    [ "create_last_word_mask", "my__bitmap_8cc.html#ad54990bfb94b1a8c14e1b5c86dec60b8", null ],
+    [ "get_first_not_set", "my__bitmap_8cc.html#a59193cc97ddad489f2b30684b891a61a", null ],
+    [ "get_first_set", "my__bitmap_8cc.html#a3d6019cc09968424a81d845c564a9d79", null ]
+];

@@ -1,0 +1,28 @@
+var classBlockReporter =
+[
+    [ "BlockReporter", "classBlockReporter.html#a24c8084ec8198d48d3611925643537a6", null ],
+    [ "~BlockReporter", "classBlockReporter.html#a67ee070b58e2e309b21cccc3c277dbd1", null ],
+    [ "BlockReporter", "classBlockReporter.html#a828d0cddfc19169c583708c70d6e6218", null ],
+    [ "calc_zip_checksum", "classBlockReporter.html#a9e7a131633b022a8245600cfe0c183f7", null ],
+    [ "calc_zip_checksum", "classBlockReporter.html#a819c206679a18c2710c26fbfda4c6454", null ],
+    [ "is_checksum_valid_crc32", "classBlockReporter.html#a6d46b2846b01153c34acf55dd2139139", null ],
+    [ "is_checksum_valid_innodb", "classBlockReporter.html#aa625a2d93ea31907cb63f54fbf2e66a1", null ],
+    [ "is_checksum_valid_none", "classBlockReporter.html#adec54d0c3c1dad51e1ff4847981eeb33", null ],
+    [ "is_corrupted", "classBlockReporter.html#a31d030d87e00f1b268788c3273e46574", null ],
+    [ "page_warn_strict_checksum", "classBlockReporter.html#af1c1c89c5dfeece6b70e8e2fcae20fbf", null ],
+    [ "print_compressed_checksum", "classBlockReporter.html#a5f7e32d3d9461482cfb51189d86206b6", null ],
+    [ "print_crc32_checksum", "classBlockReporter.html#a5b260372ce8a8e93e1a4b13b9c5fea70", null ],
+    [ "print_crc32_fail", "classBlockReporter.html#ae336d358b1ad83f2385c94b36dc22623", null ],
+    [ "print_innodb_checksum", "classBlockReporter.html#a647130f0e32118ae25fcb4f9049e3802", null ],
+    [ "print_innodb_fail", "classBlockReporter.html#af67ecfe670bdbc86397407d0e37bc1e6", null ],
+    [ "print_none_fail", "classBlockReporter.html#a70d9e83d63396f1e37eb27cc522a430d", null ],
+    [ "print_strict_crc32", "classBlockReporter.html#ac04c186a38c37652ad29ec41288ad954", null ],
+    [ "print_strict_innodb", "classBlockReporter.html#ace705f05e9d4b632c6970ac8d4caa86e", null ],
+    [ "print_strict_none", "classBlockReporter.html#a37ca250056f0c495ee143317f0d76ead", null ],
+    [ "report_empty_page", "classBlockReporter.html#a1a704cd2edb3ac2c871da93fa353c414", null ],
+    [ "verify_zip_checksum", "classBlockReporter.html#a2fddaaa11ad4967e87bb5ebecb7c962c", null ],
+    [ "m_check_lsn", "classBlockReporter.html#a39f815d86e5ec2fd7d93fd86e8bdf128", null ],
+    [ "m_page_size", "classBlockReporter.html#a9f53048c4ce0bb2c810e612600b6dc06", null ],
+    [ "m_read_buf", "classBlockReporter.html#ae72eba0a5747725fa5699c84fbbca381", null ],
+    [ "m_skip_checksum", "classBlockReporter.html#aa319f070d503832df0eba57dcbb770c2", null ]
+];

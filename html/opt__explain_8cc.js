@@ -1,0 +1,26 @@
+var opt__explain_8cc =
+[
+    [ "Explain", "classExplain.html", "classExplain" ],
+    [ "Lazy_condition", "classExplain_1_1Lazy__condition.html", "classExplain_1_1Lazy__condition" ],
+    [ "Explain_no_table", "classExplain__no__table.html", "classExplain__no__table" ],
+    [ "Explain_union_result", "classExplain__union__result.html", "classExplain__union__result" ],
+    [ "Explain_table_base", "classExplain__table__base.html", "classExplain__table__base" ],
+    [ "Explain_join", "classExplain__join.html", "classExplain__join" ],
+    [ "Explain_table", "classExplain__table.html", "classExplain__table" ],
+    [ "Query_result_null", "classQuery__result__null.html", "classQuery__result__null" ],
+    [ "Find_thd_query_lock", "classFind__thd__query__lock.html", "classFind__thd__query__lock" ],
+    [ "extra", "opt__explain_8cc.html#ac04cb3465ff77cc667a54186a8d889d9", null ],
+    [ "check_acl_for_explain", "opt__explain_8cc.html#abafe42d4971624b92472ad4879e5f1d1", null ],
+    [ "explain_no_table", "opt__explain_8cc.html#abdddcb28e9c3c067bfdc7e53090831ac", null ],
+    [ "explain_query", "opt__explain_8cc.html#a4f174bddc34917e81b5f58e8fabac193", null ],
+    [ "explain_query_specification", "opt__explain_8cc.html#a2a404d9324f232dce2482b09b4c9f79d", null ],
+    [ "explain_ref_key", "opt__explain_8cc.html#afb2885624b6fbd3f75af2d74fca9f14f", null ],
+    [ "explain_single_table_modification", "opt__explain_8cc.html#a0cd3742c0ee362969286eb50977d0527", null ],
+    [ "ExplainIterator", "opt__explain_8cc.html#a593957d975d78400446dc1d47927cf88", null ],
+    [ "FindUpdatedTables", "opt__explain_8cc.html#a83b3c63b8e165d636aeedc0d5ddec31f", null ],
+    [ "mysql_explain_unit", "opt__explain_8cc.html#a0ec420b65a327317d8836d1764f66374", null ],
+    [ "store_table_name", "opt__explain_8cc.html#a8c0e6585ad771f2dacfd3ac0f186d410", null ],
+    [ "cond_print_flags", "opt__explain_8cc.html#ae4bd8c0a3a6d1851f5ea9b3d63f3d339", null ],
+    [ "join_type_str", "opt__explain_8cc.html#a31d35caaa9f47502f4d99bdd1f48f0ef", null ],
+    [ "plan_not_ready", "opt__explain_8cc.html#afb1a433fd8cb4736d21e84d0365b1a73", null ]
+];

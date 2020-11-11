@@ -1,0 +1,27 @@
+var structPFS__statement__stat =
+[
+    [ "aggregate", "structPFS__statement__stat.html#ade9034905e459f9e7004ffdfd90a3648", null ],
+    [ "aggregate_counted", "structPFS__statement__stat.html#a85cb5dcbc2468107376aac8c813f079f", null ],
+    [ "aggregate_value", "structPFS__statement__stat.html#a1cb8758c74543ec900b6f53c89fd31e2", null ],
+    [ "reset", "structPFS__statement__stat.html#a8ef28c77cb26b1f70abebfc0828116cb", null ],
+    [ "m_created_tmp_disk_tables", "structPFS__statement__stat.html#a3ed30bdd58ba87b8ed55448f68690e31", null ],
+    [ "m_created_tmp_tables", "structPFS__statement__stat.html#aeed4bb3bf1bd8eee9eb82341b13f0e41", null ],
+    [ "m_error_count", "structPFS__statement__stat.html#aeeed4cbe01d69809f41bb6aab6e25c23", null ],
+    [ "m_lock_time", "structPFS__statement__stat.html#a3b56aa65d3852b25972ffd657d3a0ff7", null ],
+    [ "m_no_good_index_used", "structPFS__statement__stat.html#a34da0b2e9995a5e6b2499a514b360703", null ],
+    [ "m_no_index_used", "structPFS__statement__stat.html#af610ca34d78086364d609e3e3db9de70", null ],
+    [ "m_rows_affected", "structPFS__statement__stat.html#acbc417381bc393513b92f88e4270b984", null ],
+    [ "m_rows_examined", "structPFS__statement__stat.html#ab9786c3c4ad2a079dbed2ad4872d11d9", null ],
+    [ "m_rows_sent", "structPFS__statement__stat.html#affe446c0c503cef6638c346a9aadbc99", null ],
+    [ "m_select_full_join", "structPFS__statement__stat.html#ab8b7711f0daabf57a1cd3e097bc92c2b", null ],
+    [ "m_select_full_range_join", "structPFS__statement__stat.html#ab1174a3ca68d2ea60d42ffb264242199", null ],
+    [ "m_select_range", "structPFS__statement__stat.html#a70f23cdc73b259c29359528583a65e2c", null ],
+    [ "m_select_range_check", "structPFS__statement__stat.html#a27d4836dd338dbd9a4f9fabb5cd8ccc4", null ],
+    [ "m_select_scan", "structPFS__statement__stat.html#a28e7d2ae8d38f316b61eb8b360d37c00", null ],
+    [ "m_sort_merge_passes", "structPFS__statement__stat.html#afb3fcba4227272eeca7a2d5741bc9f0c", null ],
+    [ "m_sort_range", "structPFS__statement__stat.html#a1b1b53e40c168437b75aa2fd5a1ec89b", null ],
+    [ "m_sort_rows", "structPFS__statement__stat.html#a39d05e30244c2284f380b4aa63e4042b", null ],
+    [ "m_sort_scan", "structPFS__statement__stat.html#ab052d49d2d751e1c2a804376e2fb4190", null ],
+    [ "m_timer1_stat", "structPFS__statement__stat.html#ad4e9650364cec76b910a8d0f1001ed13", null ],
+    [ "m_warning_count", "structPFS__statement__stat.html#ac0d90d061345f838beec14ea959dbb85", null ]
+];

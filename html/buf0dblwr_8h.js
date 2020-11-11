@@ -1,0 +1,26 @@
+var buf0dblwr_8h =
+[
+    [ "Buffer", "structdblwr_1_1Buffer.html", "structdblwr_1_1Buffer" ],
+    [ "DBLWR", "classdblwr_1_1recv_1_1DBLWR.html", "classdblwr_1_1recv_1_1DBLWR" ],
+    [ "DBLWR_V1_EXTENT_SIZE", "buf0dblwr_8h.html#afdc58f4e56ab67c66281d1ebe740bc96", null ],
+    [ "TRX_SYS_DBLWR_V1", "buf0dblwr_8h.html#a17d8ed554d2d7b68a9d419de7f0c4f90", null ],
+    [ "check_missing_tablespaces", "buf0dblwr_8h.html#aec40b5f4054325c5bfbe41b4b13ee023", null ],
+    [ "close", "buf0dblwr_8h.html#a2ad2ad73a3c25b73377d3b816996cf97", null ],
+    [ "create", "buf0dblwr_8h.html#a2213362152a12bb25be6185d420285b6", null ],
+    [ "create", "buf0dblwr_8h.html#af9f4ef59596ebd0a60f5603a435783df", null ],
+    [ "destroy", "buf0dblwr_8h.html#a74872d34c46ca3c68e1662540933817b", null ],
+    [ "find", "buf0dblwr_8h.html#a4d87e29e585a1f0ddb67f6f0b3b2d0ea", null ],
+    [ "force_flush", "buf0dblwr_8h.html#a399524d063c1fcbe7caaface8308ec34", null ],
+    [ "init", "buf0dblwr_8h.html#aa60500d6312bc90ab54bd078352af4b6", null ],
+    [ "is_inside", "buf0dblwr_8h.html#a666c164ba978962ad26eac6faf53e807", null ],
+    [ "load", "buf0dblwr_8h.html#a5ec8162281adc7c34383e4aac820ea29", null ],
+    [ "open", "buf0dblwr_8h.html#ae39ee92b77d1928f4b6665c6c8580b78", null ],
+    [ "recover", "buf0dblwr_8h.html#a3b36efa1a438e5e3462fe9559d18312e", null ],
+    [ "reset_files", "buf0dblwr_8h.html#a85cf74a3374cc50ee23e771c326b0079", null ],
+    [ "set", "buf0dblwr_8h.html#a24dbc78a0b1c776a569f53bdc3596b43", null ],
+    [ "write", "buf0dblwr_8h.html#aa400692ab95d81d15457c6f843e8ce79", null ],
+    [ "write_complete", "buf0dblwr_8h.html#aea356358ac8376dfbdd0ff5f51efe60c", null ],
+    [ "DBLWR_V1_BLOCK1", "buf0dblwr_8h.html#a412710f3b416e794133484a6a47cd4ec", null ],
+    [ "DBLWR_V1_BLOCK2", "buf0dblwr_8h.html#a822bf2053a40ee7585a518e1102e332a", null ],
+    [ "DBLWR_VER", "buf0dblwr_8h.html#a1bd0ffe3b3588505d9bc49d14cf4f3d5", null ]
+];

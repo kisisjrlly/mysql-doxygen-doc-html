@@ -1,0 +1,38 @@
+var classQuery__arena =
+[
+    [ "enum_state", "classQuery__arena.html#a38d6042ee2ec4fd9e5b45d46571bf6e1", [
+      [ "STMT_INITIALIZED", "classQuery__arena.html#a38d6042ee2ec4fd9e5b45d46571bf6e1a1d6bee88e60dccfcc5360fca442c2e46", null ],
+      [ "STMT_INITIALIZED_FOR_SP", "classQuery__arena.html#a38d6042ee2ec4fd9e5b45d46571bf6e1ab085ab91ded7dc4e4a4e4639b2f6b495", null ],
+      [ "STMT_PREPARED", "classQuery__arena.html#a38d6042ee2ec4fd9e5b45d46571bf6e1a951f08ab2d630176472b3dd8b47f0918", null ],
+      [ "STMT_REGULAR_EXECUTION", "classQuery__arena.html#a38d6042ee2ec4fd9e5b45d46571bf6e1a402ebc6bacdf990a440c43ecfb6eeb61", null ],
+      [ "STMT_EXECUTED", "classQuery__arena.html#a38d6042ee2ec4fd9e5b45d46571bf6e1ab560fa4fe95f54865efd144518651fc9", null ],
+      [ "STMT_ERROR", "classQuery__arena.html#a38d6042ee2ec4fd9e5b45d46571bf6e1a22866b8101b54b1546f23188f0749460", null ]
+    ] ],
+    [ "Query_arena", "classQuery__arena.html#a79593347c4c7cabb2b94ae6370c18bab", null ],
+    [ "Query_arena", "classQuery__arena.html#ac04e25b87dac73f6e2683d67ba271a01", null ],
+    [ "~Query_arena", "classQuery__arena.html#af9fe4bc5ea818e82cafa0b66a2b32d94", null ],
+    [ "add_item", "classQuery__arena.html#a8afe46b4b0243104075a57551398019f", null ],
+    [ "alloc", "classQuery__arena.html#ac346ad1bfff92bfacb74f312f57d744a", null ],
+    [ "alloc_typed", "classQuery__arena.html#a1b32bd738ceabcfecbac6d4aa8433a0d", null ],
+    [ "free_items", "classQuery__arena.html#a6db45caf10ddb5bc343a7ff0d7903935", null ],
+    [ "get_state", "classQuery__arena.html#a06a57f3132f744a6e85b6408e12f9d32", null ],
+    [ "is_regular", "classQuery__arena.html#a7a5e86f5a1af6e9b6c59069a1bedb037", null ],
+    [ "is_stmt_prepare", "classQuery__arena.html#a54aac863df5e185baa158e9e72c52b5b", null ],
+    [ "is_stmt_prepare_or_first_sp_execute", "classQuery__arena.html#ad3d9dcdae4be8fe97434af23ec52cecc", null ],
+    [ "is_stmt_prepare_or_first_stmt_execute", "classQuery__arena.html#a132c87657a795ccc9d2e9db8abaa8ac3", null ],
+    [ "item_list", "classQuery__arena.html#a469f3d1f39bd9a5dba08de062112852e", null ],
+    [ "mem_calloc", "classQuery__arena.html#a11e9af1383e888193664168276bcef5c", null ],
+    [ "mem_strdup", "classQuery__arena.html#ab1c88786a7adf53e61fa30f32a1ed409", null ],
+    [ "memdup", "classQuery__arena.html#aef63eda408fe634c472acb7a268a0869", null ],
+    [ "memdup_typed", "classQuery__arena.html#aa669d228545b9648c156efeed3ba02d6", null ],
+    [ "reset_item_list", "classQuery__arena.html#a65dc9833a47539c56429de4835a958f7", null ],
+    [ "set_item_list", "classQuery__arena.html#a8ae60662f431cb7ad3beef1716458e2f", null ],
+    [ "set_query_arena", "classQuery__arena.html#a8271107b9f4a19f0b1bf28cd796344ec", null ],
+    [ "set_state", "classQuery__arena.html#abdf099c0fd4c83bcf7edcc8520c34a12", null ],
+    [ "strmake", "classQuery__arena.html#a6c35aaf846a0de86b5f8e0960f5648d2", null ],
+    [ "swap_query_arena", "classQuery__arena.html#aa294a9f3573eab380a2c26395b82f4c1", null ],
+    [ "is_repreparing", "classQuery__arena.html#a4ffeb989016e51b18c4259d1545a5985", null ],
+    [ "m_item_list", "classQuery__arena.html#a7395e69c19fc73f34f92e3707c0a86db", null ],
+    [ "mem_root", "classQuery__arena.html#aedfc1e8a96654eb8bccb81c0e311f7bd", null ],
+    [ "state", "classQuery__arena.html#a8572a9bd5bdb18d54ffba079d0fdea2d", null ]
+];

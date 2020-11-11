@@ -1,0 +1,28 @@
+var classParallel__reader__adapter =
+[
+    [ "MySQL_row", "structParallel__reader__adapter_1_1MySQL__row.html", "structParallel__reader__adapter_1_1MySQL__row" ],
+    [ "Thread_ctx", "structParallel__reader__adapter_1_1Thread__ctx.html", "structParallel__reader__adapter_1_1Thread__ctx" ],
+    [ "End_fn", "classParallel__reader__adapter.html#aa757b9e4ec4605e11f70f332c23775e8", null ],
+    [ "Init_fn", "classParallel__reader__adapter.html#a71c565baaa1b962867200f2897c410f6", null ],
+    [ "Load_fn", "classParallel__reader__adapter.html#aad6fcaac320623ea3f682b08178df9e2", null ],
+    [ "Parallel_reader_adapter", "classParallel__reader__adapter.html#a3e53cebc59f4449673c4810b078c5cfc", null ],
+    [ "~Parallel_reader_adapter", "classParallel__reader__adapter.html#a701c92aeb46745e547f35ee49c27e404", null ],
+    [ "add_scan", "classParallel__reader__adapter.html#aff138cfc91bbe2b50b7291f03ed96515", null ],
+    [ "end", "classParallel__reader__adapter.html#a5a06ff82664e9cf94ea333db2cbc7201", null ],
+    [ "init", "classParallel__reader__adapter.html#ac977338cbd5f745f92ce8e537b18c19c", null ],
+    [ "is_buffer_full", "classParallel__reader__adapter.html#a6ff099e4c9ee4850f1726b97577f4b88", null ],
+    [ "pending", "classParallel__reader__adapter.html#a4e9883b3fef38057254ca86ca841fdf6", null ],
+    [ "process_rows", "classParallel__reader__adapter.html#a43e31861f8a9ffd4e0240a2aedad3dbd", null ],
+    [ "run", "classParallel__reader__adapter.html#aeac8122fc90cfb61ef9bdda538d380d8", null ],
+    [ "send_batch", "classParallel__reader__adapter.html#abaa7796944f445c2c74add42a913b65d", null ],
+    [ "set", "classParallel__reader__adapter.html#a69fe8213720845da80fea091a92ae469", null ],
+    [ "ADAPTER_SEND_BUFFER_SIZE", "classParallel__reader__adapter.html#acf52b41d48666b315acf73892924a141", null ],
+    [ "m_batch_size", "classParallel__reader__adapter.html#a3a8eaa687560de6b923ab15699468daf", null ],
+    [ "m_end_fn", "classParallel__reader__adapter.html#afb3e35be4cbbbaec5c5b7999c7c465ff", null ],
+    [ "m_init_fn", "classParallel__reader__adapter.html#a5cb1a06e64161316c4cd8605a1a1013e", null ],
+    [ "m_load_fn", "classParallel__reader__adapter.html#a9c49a6ba83cc5600b60a079565f3a412", null ],
+    [ "m_mysql_row", "classParallel__reader__adapter.html#ad6c51a4c427fc7d96b4c4c65bbe6678d", null ],
+    [ "m_parallel_reader", "classParallel__reader__adapter.html#ac8e985db2d826c9b87ed9121cc895dd8", null ],
+    [ "m_prebuilt", "classParallel__reader__adapter.html#a994366571853eb55b0be6bc24b981877", null ],
+    [ "m_thread_ctxs", "classParallel__reader__adapter.html#aee25a5e3046bd5be9043d1fad0a2b364", null ]
+];

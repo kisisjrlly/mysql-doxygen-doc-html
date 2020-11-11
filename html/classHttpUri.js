@@ -1,0 +1,26 @@
+var classHttpUri =
+[
+    [ "impl", "structHttpUri_1_1impl.html", "structHttpUri_1_1impl" ],
+    [ "HttpUri", "classHttpUri.html#abc461e502bafdbb12121af751d0d30ff", null ],
+    [ "HttpUri", "classHttpUri.html#a29ee008a69c2e64a5b35efd09ea71155", null ],
+    [ "HttpUri", "classHttpUri.html#a3ca30a5b75ef93f11d53e52d098192b0", null ],
+    [ "~HttpUri", "classHttpUri.html#a9441ba716d584b7e5f877f467f8137a6", null ],
+    [ "get_fragment", "classHttpUri.html#abd956c1bbecd0467c65754418d7cc55b", null ],
+    [ "get_host", "classHttpUri.html#a3d524491714109676c2a3e2063d5e4d6", null ],
+    [ "get_path", "classHttpUri.html#a002e371e295d3b1bb8de749cd6899c84", null ],
+    [ "get_port", "classHttpUri.html#a8655fec3595399a50e3b41f59c0cd526", null ],
+    [ "get_query", "classHttpUri.html#ab15e2bd540302534191e32687910bba7", null ],
+    [ "get_scheme", "classHttpUri.html#a4275c1c6e0ba611d7264c9311d2f5463", null ],
+    [ "get_userinfo", "classHttpUri.html#ab7ea40fa0e9115175da3756d4fb77c58", null ],
+    [ "join", "classHttpUri.html#afadeadf59435329a4b751bcc52a6af49", null ],
+    [ "operator bool", "classHttpUri.html#ac0992d5818e9efcacfdb29af038406d9", null ],
+    [ "parse", "classHttpUri.html#aa4e8bdcae0e26fdcca6b4b87ff770b69", null ],
+    [ "set_fragment", "classHttpUri.html#a21caff433a4a8672687e5959b3a6884f", null ],
+    [ "set_host", "classHttpUri.html#a612ab14bf05ac678ce30a7f91e9aa172", null ],
+    [ "set_path", "classHttpUri.html#a0035f3bc09770e4b8618124d8e8c9c1e", null ],
+    [ "set_port", "classHttpUri.html#a0cac7526e6c1362d21674460633a0289", null ],
+    [ "set_query", "classHttpUri.html#a3aba8257cda0d6b9148a396f874cd996", null ],
+    [ "set_scheme", "classHttpUri.html#a7343a194fa881b2ce88ad31c0246f503", null ],
+    [ "set_userinfo", "classHttpUri.html#a9358ee97765b88c7b6d1c05e06f2c634", null ],
+    [ "pImpl_", "classHttpUri.html#a7f732b46dc46a9575bdb15aa9c778a30", null ]
+];

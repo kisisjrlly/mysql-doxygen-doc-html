@@ -1,0 +1,28 @@
+var structi__s__trx__row__t =
+[
+    [ "requested_lock_row", "structi__s__trx__row__t.html#accf0e9d7111c889f2040a0d270feb4f4", null ],
+    [ "trx_concurrency_tickets", "structi__s__trx__row__t.html#a5e797ab97a29dfab33b3481f74a7a6b6", null ],
+    [ "trx_foreign_key_checks", "structi__s__trx__row__t.html#a77aa798647dbff0b4ee720dd0e389cb7", null ],
+    [ "trx_foreign_key_error", "structi__s__trx__row__t.html#a640a59cd7b4a661f05bf6c4efab308d2", null ],
+    [ "trx_has_search_latch", "structi__s__trx__row__t.html#ac7996e20d0be43f164cfd9445310cf4a", null ],
+    [ "trx_id", "structi__s__trx__row__t.html#a71187efd0aca105c4b0506b72e27e0b2", null ],
+    [ "trx_is_autocommit_non_locking", "structi__s__trx__row__t.html#abd2979bee6f9a670b684d9f14e501702", null ],
+    [ "trx_is_read_only", "structi__s__trx__row__t.html#aad5c635ec5d1ac27abc22ecf1c2481dc", null ],
+    [ "trx_isolation_level", "structi__s__trx__row__t.html#a4265c3c4da8abf6f2b0d1d6edc4d138c", null ],
+    [ "trx_lock_memory_bytes", "structi__s__trx__row__t.html#a05c6258b548ee4baf83524528e2cfea9", null ],
+    [ "trx_lock_structs", "structi__s__trx__row__t.html#ab9096f8b8c45e8e0d876fde77a020354", null ],
+    [ "trx_mysql_thread_id", "structi__s__trx__row__t.html#aaa76e915d5c20471b11f50e11cdaedd1", null ],
+    [ "trx_operation_state", "structi__s__trx__row__t.html#a83d489927d6a7896a6ec4c34154b4a98", null ],
+    [ "trx_query", "structi__s__trx__row__t.html#ac43f2a9a4b002c8747b9d590ad4e585c", null ],
+    [ "trx_query_cs", "structi__s__trx__row__t.html#a67a78f8f836e92f6d3aef257feab1c31", null ],
+    [ "trx_rows_locked", "structi__s__trx__row__t.html#a134068b6e4160a15c6185407b75dc3d4", null ],
+    [ "trx_rows_modified", "structi__s__trx__row__t.html#af2f47151d49d002b9bb24fa05fcbd36a", null ],
+    [ "trx_schedule_weight", "structi__s__trx__row__t.html#a4a3db093d6ca824aebe3e01d476d638c", null ],
+    [ "trx_started", "structi__s__trx__row__t.html#aac7f0251502103c2b039bbbfc179a63d", null ],
+    [ "trx_state", "structi__s__trx__row__t.html#a56b68ba3242f0dc652b70215d12dac02", null ],
+    [ "trx_tables_in_use", "structi__s__trx__row__t.html#ab9fc4d21bd98c2affd08afbb9e8a2a94", null ],
+    [ "trx_tables_locked", "structi__s__trx__row__t.html#a4a68b52c014d989c42e025da22ea6c33", null ],
+    [ "trx_unique_checks", "structi__s__trx__row__t.html#ab7c62c8cee22d2df973a2f1644d9c4d8", null ],
+    [ "trx_wait_started", "structi__s__trx__row__t.html#a1e09866826ab8540464e663192af1d7a", null ],
+    [ "trx_weight", "structi__s__trx__row__t.html#acf6fa2cb59bcacecc93c59837e4329bf", null ]
+];

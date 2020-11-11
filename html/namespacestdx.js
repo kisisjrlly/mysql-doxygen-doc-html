@@ -1,0 +1,25 @@
+var namespacestdx =
+[
+    [ "base", "namespacestdx_1_1base.html", "namespacestdx_1_1base" ],
+    [ "filesystem", "namespacestdx_1_1filesystem.html", "namespacestdx_1_1filesystem" ],
+    [ "impl", "namespacestdx_1_1impl.html", "namespacestdx_1_1impl" ],
+    [ "io", "namespacestdx_1_1io.html", "namespacestdx_1_1io" ],
+    [ "literals", "namespacestdx_1_1literals.html", null ],
+    [ "basic_string_view", "classstdx_1_1basic__string__view.html", "classstdx_1_1basic__string__view" ],
+    [ "conjunction", "structstdx_1_1conjunction.html", null ],
+    [ "conjunction< P1, Pn... >", "structstdx_1_1conjunction_3_01P1_00_01Pn_8_8_8_01_4.html", null ],
+    [ "conjunction<>", "structstdx_1_1conjunction_3_4.html", null ],
+    [ "disjunction", "structstdx_1_1disjunction.html", null ],
+    [ "disjunction< P1 >", "structstdx_1_1disjunction_3_01P1_01_4.html", null ],
+    [ "disjunction< P1, Pn... >", "structstdx_1_1disjunction_3_01P1_00_01Pn_8_8_8_01_4.html", null ],
+    [ "expected", "classstdx_1_1expected.html", null ],
+    [ "ExpectedImpl", "classstdx_1_1ExpectedImpl.html", "classstdx_1_1ExpectedImpl" ],
+    [ "ExpectedImpl< T, void >", "classstdx_1_1ExpectedImpl_3_01T_00_01void_01_4.html", "classstdx_1_1ExpectedImpl_3_01T_00_01void_01_4" ],
+    [ "ExpectedImpl< void, E >", "classstdx_1_1ExpectedImpl_3_01void_00_01E_01_4.html", "classstdx_1_1ExpectedImpl_3_01void_00_01E_01_4" ],
+    [ "ExpectedImpl< void, void >", "classstdx_1_1ExpectedImpl_3_01void_00_01void_01_4.html", "classstdx_1_1ExpectedImpl_3_01void_00_01void_01_4" ],
+    [ "ExpectedImplBase", "classstdx_1_1ExpectedImplBase.html", "classstdx_1_1ExpectedImplBase" ],
+    [ "in_place_t", "structstdx_1_1in__place__t.html", "structstdx_1_1in__place__t" ],
+    [ "negation", "structstdx_1_1negation.html", null ],
+    [ "unexpected", "classstdx_1_1unexpected.html", "classstdx_1_1unexpected" ],
+    [ "unexpected< void >", "classstdx_1_1unexpected_3_01void_01_4.html", null ]
+];

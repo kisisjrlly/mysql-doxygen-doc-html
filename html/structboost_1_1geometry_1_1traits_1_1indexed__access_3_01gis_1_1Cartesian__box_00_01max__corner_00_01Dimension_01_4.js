@@ -1,0 +1,5 @@
+var structboost_1_1geometry_1_1traits_1_1indexed__access_3_01gis_1_1Cartesian__box_00_01max__corner_00_01Dimension_01_4 =
+[
+    [ "get", "structboost_1_1geometry_1_1traits_1_1indexed__access_3_01gis_1_1Cartesian__box_00_01max__corner_00_01Dimension_01_4.html#a84775193be479d5343471153f58f4040", null ],
+    [ "set", "structboost_1_1geometry_1_1traits_1_1indexed__access_3_01gis_1_1Cartesian__box_00_01max__corner_00_01Dimension_01_4.html#ae1e8399e8b1d594d549e2705c461982c", null ]
+];

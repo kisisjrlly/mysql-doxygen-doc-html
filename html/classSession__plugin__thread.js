@@ -1,0 +1,28 @@
+var classSession__plugin__thread =
+[
+    [ "Session_plugin_thread", "classSession__plugin__thread.html#ad12e3af8187077f1878e8ab07f4473d9", null ],
+    [ "~Session_plugin_thread", "classSession__plugin__thread.html#a8fcfe695ec2b43b2e557939251f898cc", null ],
+    [ "get_service_interface", "classSession__plugin__thread.html#aa6b13a9abea32a64e9394ee5687ac96f", null ],
+    [ "launch_session_thread", "classSession__plugin__thread.html#adfb686b47bdd712268c991d62d81844c", null ],
+    [ "queue_new_method_for_application", "classSession__plugin__thread.html#a7c97b7ffe25b9c296d883acfc382070b", null ],
+    [ "session_thread_handler", "classSession__plugin__thread.html#a936c847880db48b41173c4b3373e9aa7", null ],
+    [ "set_return_pointer", "classSession__plugin__thread.html#ad2d7d7b50220efd6577bbbb4c699dc6f", null ],
+    [ "terminate_session_thread", "classSession__plugin__thread.html#a8857f37fa27761338af44423dc3b4a5d", null ],
+    [ "wait_for_method_execution", "classSession__plugin__thread.html#a8b06839c5ed6cc1a77235a121ee8b335", null ],
+    [ "command_interface", "classSession__plugin__thread.html#ac32ba343770db462ce086f8244da16ff", null ],
+    [ "incoming_methods", "classSession__plugin__thread.html#a403c6080eb3c02bb39354a780bf1d7b5", null ],
+    [ "m_method_cond", "classSession__plugin__thread.html#a1c13334643ea0f7aa8685ec5824c7e51", null ],
+    [ "m_method_execution_completed", "classSession__plugin__thread.html#a467c78ac122aa54931f2440d7cc533c2", null ],
+    [ "m_method_execution_return_value", "classSession__plugin__thread.html#aa28a38219fdff6c0fa16ac9890a1ad4f", null ],
+    [ "m_method_lock", "classSession__plugin__thread.html#ab13a169ab66964affd09661949803114", null ],
+    [ "m_plugin_pointer", "classSession__plugin__thread.html#a102a67ffb831fa28e77265da809d5a81", null ],
+    [ "m_plugin_session_pthd", "classSession__plugin__thread.html#acf28f9fb1d7bad5999f4e1df26e38c0f", null ],
+    [ "m_run_cond", "classSession__plugin__thread.html#a6ac106e8ce435ecdc594c7af24623b07", null ],
+    [ "m_run_lock", "classSession__plugin__thread.html#ae4bd78f45d78130724a6304759303e7f", null ],
+    [ "m_server_interface", "classSession__plugin__thread.html#aacf3cd828f743bb08a22f85b7d65a45d", null ],
+    [ "m_session_thread_error", "classSession__plugin__thread.html#af9b18aa115b504239e04d1303fdcfd39", null ],
+    [ "m_session_thread_state", "classSession__plugin__thread.html#ad9619a14b3147d5bfeec6f2d5095a1c0", null ],
+    [ "m_session_thread_terminate", "classSession__plugin__thread.html#a3f25cba9cefac6f8b09889117b16b172", null ],
+    [ "return_object", "classSession__plugin__thread.html#afd2375e64231ac720159f6bde89a5847", null ],
+    [ "session_user", "classSession__plugin__thread.html#aab85a32c46c88dfd87180a9f70d8890d", null ]
+];

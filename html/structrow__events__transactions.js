@@ -1,0 +1,28 @@
+var structrow__events__transactions =
+[
+    [ "m_autocommit", "structrow__events__transactions.html#a7df3b3cf779dc4c05e5d4e2f0400684f", null ],
+    [ "m_end_event_id", "structrow__events__transactions.html#aadb181d434a3f11addc0d07699356ff6", null ],
+    [ "m_event_id", "structrow__events__transactions.html#a678bbccaac77a62c1fbd228619ddd18d", null ],
+    [ "m_gtid", "structrow__events__transactions.html#a0c5c5a895d08d09731c17e3c6ae48aa4", null ],
+    [ "m_gtid_length", "structrow__events__transactions.html#a28dfe9ff59802f5464ef7c56c801fb64", null ],
+    [ "m_isolation_level", "structrow__events__transactions.html#a69425c0edebcee3ad32541f1197a581f", null ],
+    [ "m_name", "structrow__events__transactions.html#a70fe95458e216a61da79023a73d9aa0f", null ],
+    [ "m_name_length", "structrow__events__transactions.html#ab32e3355d51532147c40364e44bb1f75", null ],
+    [ "m_nesting_event_id", "structrow__events__transactions.html#a3b8a1d484d13c8284792b9e7fee919bf", null ],
+    [ "m_nesting_event_type", "structrow__events__transactions.html#a250138ec803595c7cd6bf2fbb9e5609e", null ],
+    [ "m_read_only", "structrow__events__transactions.html#a187d32970825b08ce6e5f78e9b7b626f", null ],
+    [ "m_release_savepoint_count", "structrow__events__transactions.html#af86e2bc564d0c35d9ba2a12fd4e4ba95", null ],
+    [ "m_rollback_to_savepoint_count", "structrow__events__transactions.html#a172fa29eaa69c287e9a0b9c7da9594e8", null ],
+    [ "m_savepoint_count", "structrow__events__transactions.html#ae52cf427240c9441bf265d8409c9e39e", null ],
+    [ "m_source", "structrow__events__transactions.html#a991b2e0dca07280e1b02f1bf7a051357", null ],
+    [ "m_source_length", "structrow__events__transactions.html#a8a2c25deb1c66c6cda9622302b0aea81", null ],
+    [ "m_state", "structrow__events__transactions.html#a8301b115ff0528ccc1ecc4b604c4704f", null ],
+    [ "m_thread_internal_id", "structrow__events__transactions.html#a9f93cc0156389228758606f79fbbcd80", null ],
+    [ "m_timer_end", "structrow__events__transactions.html#ae184929e29e8b1c0761320f3f58188ac", null ],
+    [ "m_timer_start", "structrow__events__transactions.html#a8ec2f2324c2911a360bb19cf6eecee5c", null ],
+    [ "m_timer_wait", "structrow__events__transactions.html#a4f1e95b886a3f21a08a4da9f480ebb63", null ],
+    [ "m_trxid", "structrow__events__transactions.html#af66a347073b5ef0c243b5b322ae8aedf", null ],
+    [ "m_xa", "structrow__events__transactions.html#adbed258d0e4f1cc8562c7226ccdf7204", null ],
+    [ "m_xa_state", "structrow__events__transactions.html#aca73d21bc880ec3d209396bde802254e", null ],
+    [ "m_xid", "structrow__events__transactions.html#a292d62a9d699a218f0eaf281412122df", null ]
+];

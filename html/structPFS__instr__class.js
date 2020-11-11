@@ -1,0 +1,26 @@
+var structPFS__instr__class =
+[
+    [ "can_be_timed", "structPFS__instr__class.html#a4fea119b027ec49ec43ee0b1f52d1c7d", null ],
+    [ "enforce_valid_flags", "structPFS__instr__class.html#af0e94bb275df68afe12a0045d657f491", null ],
+    [ "is_deferred", "structPFS__instr__class.html#a03cc2f7625b2b0ff6a0f4f6e237ae03a", null ],
+    [ "is_global", "structPFS__instr__class.html#ab1893bbe15487acc083fac1e3d82ac01", null ],
+    [ "is_mutable", "structPFS__instr__class.html#adb4dcedfcd12a53ad10c92f627a95ab1", null ],
+    [ "is_priority", "structPFS__instr__class.html#a318e2d16b89c15d62ca2f2994f81b4fa", null ],
+    [ "is_progress", "structPFS__instr__class.html#a4bc4c9a32aa08f255144a60bf1275431", null ],
+    [ "is_shared_exclusive", "structPFS__instr__class.html#ae577dca1a6b14fe3efdebe71cc5001bf", null ],
+    [ "is_singleton", "structPFS__instr__class.html#a2f00ff7709b7b13729c20e2040b332c6", null ],
+    [ "is_system_thread", "structPFS__instr__class.html#afcd908a080601e34ed495727d7bf1cce", null ],
+    [ "is_transferable", "structPFS__instr__class.html#a626462f7fe2b6838447f12210f301364", null ],
+    [ "is_user", "structPFS__instr__class.html#ad0e5d075c967e5e61c3d0f3c9f43e09a", null ],
+    [ "set_enabled", "structPFS__instr__class.html#a0a0ff410d49296ebb4e0ed125761fcc3", null ],
+    [ "set_timed", "structPFS__instr__class.html#a33a12d0b54b6e3045e1b356d3b9f2859", null ],
+    [ "m_documentation", "structPFS__instr__class.html#ab3dbd360b550d85f478e1fc1df8975a4", null ],
+    [ "m_enabled", "structPFS__instr__class.html#a08892462602fa841ec8e4882579a9cfe", null ],
+    [ "m_event_name_index", "structPFS__instr__class.html#a7f7769ecc3d19d79edcec9d5f2513444", null ],
+    [ "m_flags", "structPFS__instr__class.html#a10232cf4b28d52c6e464a4cdd2c5bfc0", null ],
+    [ "m_name", "structPFS__instr__class.html#af96b5b1c94a7e7951e74682e6e7514b2", null ],
+    [ "m_name_length", "structPFS__instr__class.html#a56b0d1b38fa77e774fcd11d55d723e29", null ],
+    [ "m_timed", "structPFS__instr__class.html#aa1615a0ad1cb49d2fd0870e72aa7f7c0", null ],
+    [ "m_type", "structPFS__instr__class.html#a30ac05cf34b0638a5f5252c74cec8056", null ],
+    [ "m_volatility", "structPFS__instr__class.html#ae7c3ace23199e997c4b570755a4ee0a3", null ]
+];

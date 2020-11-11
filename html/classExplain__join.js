@@ -1,0 +1,25 @@
+var classExplain__join =
+[
+    [ "Explain_join", "classExplain__join.html#a8303f613ae742c6dfb1a7a4742a265d3", null ],
+    [ "begin_simple_sort_context", "classExplain__join.html#a21902e1ca10a05ac40e42505204d6997", null ],
+    [ "begin_sort_context", "classExplain__join.html#a81f5f763a6eb34946916f23f38d39031", null ],
+    [ "can_walk_clauses", "classExplain__join.html#aa54eeade79ee4db5518e4717823bb58a", null ],
+    [ "end_simple_sort_context", "classExplain__join.html#a9bb168b9728ddbe1481da0b6b28b30df", null ],
+    [ "end_sort_context", "classExplain__join.html#a35fcbf1a1dc3f4928bb99f8ef1527747", null ],
+    [ "explain_extra", "classExplain__join.html#a8288744e80bbfc490183fa33a65bdb9d", null ],
+    [ "explain_id", "classExplain__join.html#a0aa4bc5185b0dcbc1472b537b9264342", null ],
+    [ "explain_join_type", "classExplain__join.html#a71ca7fb0332f35bd6919e2f35412807f", null ],
+    [ "explain_key_and_len", "classExplain__join.html#adabbbcafcea12e8c1ab04cc6eba8422e", null ],
+    [ "explain_modify_flags", "classExplain__join.html#a11aa3a3dc7dc7a11c40955ca6f8fbea4", null ],
+    [ "explain_qep_tab", "classExplain__join.html#a31c37e5478712db92d1be8ca348a6efb", null ],
+    [ "explain_ref", "classExplain__join.html#ad5e679a732e76bf78032f2f5a58a88fe", null ],
+    [ "explain_rows_and_filtered", "classExplain__join.html#a3ee88d42dd4463a172ab21fd00466614", null ],
+    [ "explain_select_type", "classExplain__join.html#a6c65a2a398b96870b5bf0d09c386b113", null ],
+    [ "explain_table_name", "classExplain__join.html#ac0008f64ad1c79b8faa85869760028a2", null ],
+    [ "shallow_explain", "classExplain__join.html#aa50ca8bc587736a03ed685290bbfff40", null ],
+    [ "distinct", "classExplain__join.html#ab5d68f8c25337c92e838c16deae167ce", null ],
+    [ "join", "classExplain__join.html#a209bcae981882776eedc7ad2d349d25d", null ],
+    [ "need_order", "classExplain__join.html#a2ff71d8361376631e24f493876eba2e2", null ],
+    [ "need_tmp_table", "classExplain__join.html#ae68d8e6b94c5d1fd64ac7b96b909702f", null ],
+    [ "quick_type", "classExplain__join.html#afd4567cd57d953574b9a0f422e34edb7", null ]
+];

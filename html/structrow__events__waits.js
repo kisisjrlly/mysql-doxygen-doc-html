@@ -1,0 +1,27 @@
+var structrow__events__waits =
+[
+    [ "m_end_event_id", "structrow__events__waits.html#a303a89ce501c991b44fed1f4712c792c", null ],
+    [ "m_event_id", "structrow__events__waits.html#a403f1129f80c44783f92626a83321d1a", null ],
+    [ "m_flags", "structrow__events__waits.html#a1131ef4df43ae4de568929deaaa559f4", null ],
+    [ "m_index_name", "structrow__events__waits.html#ae1b196b91917e25c0a8d1108e67178c2", null ],
+    [ "m_index_name_length", "structrow__events__waits.html#af45ca215597b8bbb25f5bb2a36c41fd6", null ],
+    [ "m_name", "structrow__events__waits.html#a29fe20fc5306ad034bbb89251b9defef", null ],
+    [ "m_name_length", "structrow__events__waits.html#aefbb38bc450bbbd6a417a135070ad5c4", null ],
+    [ "m_nesting_event_id", "structrow__events__waits.html#a5cb4b27cc1e49c469ef789a59a7e3ca6", null ],
+    [ "m_nesting_event_type", "structrow__events__waits.html#ac11634003bf536b4ea1e3b230b69cf41", null ],
+    [ "m_number_of_bytes", "structrow__events__waits.html#a41099b5a88606b1af861a1800f8ad831", null ],
+    [ "m_object_instance_addr", "structrow__events__waits.html#ae652f3fe1e5354b416a963490a2edb77", null ],
+    [ "m_object_name", "structrow__events__waits.html#aba0fffc4b1962965018dd11730bf7198", null ],
+    [ "m_object_name_length", "structrow__events__waits.html#ab8d30f0933952b04166b79168e7d4e90", null ],
+    [ "m_object_schema", "structrow__events__waits.html#a9a2aae338008ae6beeaa0d859d4aaefa", null ],
+    [ "m_object_schema_length", "structrow__events__waits.html#a7b6677a5d4ebd1870d5c6f29e1fa5d14", null ],
+    [ "m_object_type", "structrow__events__waits.html#a381e58654ac75a1fbfe31cf2e4301694", null ],
+    [ "m_object_type_length", "structrow__events__waits.html#a9affb09fea0055f39548af68f912abc4", null ],
+    [ "m_operation", "structrow__events__waits.html#a42438b020a7f0b99bec80cb3ac52324b", null ],
+    [ "m_source", "structrow__events__waits.html#a4175cfe8e64ebca0d331608b76bd95a3", null ],
+    [ "m_source_length", "structrow__events__waits.html#a9db5ed6d735db60da1496656e5c5d6f7", null ],
+    [ "m_thread_internal_id", "structrow__events__waits.html#a52a46a8db378721e4f40ee812ff04713", null ],
+    [ "m_timer_end", "structrow__events__waits.html#a42015b822929a2eaa0d9f954156a3863", null ],
+    [ "m_timer_start", "structrow__events__waits.html#ab6516711b6582910e4949c191aec904b", null ],
+    [ "m_timer_wait", "structrow__events__waits.html#afdeb7cdcabda2d1a51bf0fd00cb2b9c3", null ]
+];

@@ -1,0 +1,27 @@
+var structplan__t =
+[
+    [ "asc", "structplan__t.html#aa41afd7219acc06483d64435a9719096", null ],
+    [ "clust_map", "structplan__t.html#af6267c221c34f780f515dfa2bbf214fb", null ],
+    [ "clust_pcur", "structplan__t.html#a91070a88c3293544dd4f01db61e98b94", null ],
+    [ "clust_ref", "structplan__t.html#a22c2a3ca6227b2982ba13509671ca81f", null ],
+    [ "columns", "structplan__t.html#a37d5e2454afe3212e1338bd7ebbe3325", null ],
+    [ "cursor_at_end", "structplan__t.html#a48f0cd6e50e2ade5d0e6b152f54a9d8d", null ],
+    [ "end_conds", "structplan__t.html#a49c57c1e2c272194061e323cae6b1176", null ],
+    [ "first_prefetched", "structplan__t.html#a04e7f0ffced34772464e5b0c7401af25", null ],
+    [ "index", "structplan__t.html#ab4c95a6812fec5d35c4d8092b2904181", null ],
+    [ "mode", "structplan__t.html#a06d17897fec5dabd047f73ffd69c1e48", null ],
+    [ "must_get_clust", "structplan__t.html#a343f24924e021fa09bcafc1827db414d", null ],
+    [ "n_exact_match", "structplan__t.html#ad85e9970a040ff611443680e92336bbf", null ],
+    [ "n_rows_fetched", "structplan__t.html#ae3b00907eab611104c07c77d73c4c1e3", null ],
+    [ "n_rows_prefetched", "structplan__t.html#a0f53794d7ae9d1d6a06b0f9d618ce0af", null ],
+    [ "no_prefetch", "structplan__t.html#ab4766ae64004e6645c565e9f81b24395", null ],
+    [ "old_vers_heap", "structplan__t.html#a590c61212b4eab81c911a076d1908482", null ],
+    [ "other_conds", "structplan__t.html#ab40a6ffa204f6b9a13efb9e77a07b12e", null ],
+    [ "pcur", "structplan__t.html#aee63fe06bc0f507cdbf8143ab94601ce", null ],
+    [ "pcur_is_open", "structplan__t.html#abb8c471cbea2006bd2aea5f2f3c8ba09", null ],
+    [ "stored_cursor_rec_processed", "structplan__t.html#aae1adf920c1d7202e1e9e8523b8a4bc1", null ],
+    [ "table", "structplan__t.html#a561f71c95abc7c96c5dcd4b8cec0450c", null ],
+    [ "tuple", "structplan__t.html#a69facc01740f38a264788dba62393b5d", null ],
+    [ "tuple_exps", "structplan__t.html#a6fe1ed6702c754e93e53e68f185029d6", null ],
+    [ "unique_search", "structplan__t.html#ace71f0e9aa509ca2fea44d346caac3dc", null ]
+];

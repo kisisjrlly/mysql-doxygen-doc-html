@@ -1,0 +1,25 @@
+var classGis__line__string =
+[
+    [ "base_type", "classGis__line__string.html#a20273dfad53555e74a92cc438e4d358e", null ],
+    [ "self", "classGis__line__string.html#afd806f6a0da3874ee10377eac403fa9b", null ],
+    [ "Gis_line_string", "classGis__line__string.html#a9f30185d99f4281062e199f3f2eed826", null ],
+    [ "Gis_line_string", "classGis__line__string.html#a0cf555ac9a65ffbc3e55758ab5e40260", null ],
+    [ "Gis_line_string", "classGis__line__string.html#a28e0a979a3736a2e67296e97ae786b00", null ],
+    [ "end_point", "classGis__line__string.html#acbec4648fde60f8ba01fcaefb4542459", null ],
+    [ "feature_dimension", "classGis__line__string.html#a61e8284ea80627c5e2464e6cb4b7cd62", null ],
+    [ "geom_length", "classGis__line__string.html#af3698ab8956afa733d19dbe018f0bc0a", null ],
+    [ "get_class_info", "classGis__line__string.html#af5f980f4c13aa6038f9cce8e557fb92c", null ],
+    [ "get_data_as_wkt", "classGis__line__string.html#a690820e3d6a6713e29a85247e181006b", null ],
+    [ "get_data_size", "classGis__line__string.html#aadd03fd21a80d48c0f578d9f8c0a2632", null ],
+    [ "get_mbr", "classGis__line__string.html#a2d36bb805d0e199f7db4efa3db348681", null ],
+    [ "init_from_wkb", "classGis__line__string.html#a45250fccd8ed9c45d7ed754233d03ea3", null ],
+    [ "init_from_wkt", "classGis__line__string.html#a4ffaf3f0480a95306e03aaec2114e4ce", null ],
+    [ "is_closed", "classGis__line__string.html#a29adca9358d02484e44e05f6ea7b25e3", null ],
+    [ "num_points", "classGis__line__string.html#a98197eb3aaede3fcf86b5a988bc4183a", null ],
+    [ "operator=", "classGis__line__string.html#add375a6c1342c03bca2079aa5fdaf20b", null ],
+    [ "point_n", "classGis__line__string.html#a1d815a0890b2fd6dd540b98f64493b1b", null ],
+    [ "reverse_coordinates", "classGis__line__string.html#ab5c020d4b6a114244f98c0545ff08f49", null ],
+    [ "start_point", "classGis__line__string.html#af8500e5e517049c2c7ee86a813d32350", null ],
+    [ "validate_coordinate_range", "classGis__line__string.html#a862d0a856c1fd7740d467e4fb36a34b0", null ],
+    [ "max_n_points", "classGis__line__string.html#a5c99e20a7159de156256d575887b7f2d", null ]
+];

@@ -1,0 +1,28 @@
+var classdd_1_1Collation__impl =
+[
+    [ "Collation_impl", "classdd_1_1Collation__impl.html#a9eac308e01567b8cb25165137838ab2a", null ],
+    [ "charset_id", "classdd_1_1Collation__impl.html#ac7666287459e6ebd12f84cf617c635a2", null ],
+    [ "clone", "classdd_1_1Collation__impl.html#a4fb43e4e6f73bfe3235c633998ee6f56", null ],
+    [ "debug_print", "classdd_1_1Collation__impl.html#ac9a9ba45faa4eba7f3b4281b1cb4e1b2", null ],
+    [ "id", "classdd_1_1Collation__impl.html#a5a5010062e45a8df86ad21c4c0a08f54", null ],
+    [ "impl", "classdd_1_1Collation__impl.html#af606ca6f2a3a6cc8eec1d39f500cf886", null ],
+    [ "impl", "classdd_1_1Collation__impl.html#a0ed20119544776eedb526845e95b3f90", null ],
+    [ "is_compiled", "classdd_1_1Collation__impl.html#a929b68246717eaaff10b55a62822b5d8", null ],
+    [ "is_persistent", "classdd_1_1Collation__impl.html#af72a87ae415eb6e4e9a81bf59fbc3f47", null ],
+    [ "name", "classdd_1_1Collation__impl.html#a1a674ad9975644d4f0eed6f937fe1059", null ],
+    [ "object_table", "classdd_1_1Collation__impl.html#ae566bb81e79478b70cafc50a61c3c3ba", null ],
+    [ "register_tables", "classdd_1_1Collation__impl.html#a8dbd875a2d63e92f47a58f8a4062ed47", null ],
+    [ "restore_attributes", "classdd_1_1Collation__impl.html#a5e1cb7e669bde168a5395e0a5793edaa", null ],
+    [ "set_charset_id", "classdd_1_1Collation__impl.html#a18be32129c81c3ba2c05a9e977b9ab91", null ],
+    [ "set_is_compiled", "classdd_1_1Collation__impl.html#a6156610bc71d5e422863228ea5a97875", null ],
+    [ "set_name", "classdd_1_1Collation__impl.html#aee385c088beff405dd3504e28ec353de", null ],
+    [ "set_pad_attribute", "classdd_1_1Collation__impl.html#a66c44347c053234f83065651226c5cd5", null ],
+    [ "set_sort_length", "classdd_1_1Collation__impl.html#a7c8a10e337d746f723c1de97a7683363", null ],
+    [ "sort_length", "classdd_1_1Collation__impl.html#a1c71e422787666f56b3efab7bd6132fc", null ],
+    [ "store_attributes", "classdd_1_1Collation__impl.html#a585ffe48a8c00d7b5be569a273ce168a", null ],
+    [ "validate", "classdd_1_1Collation__impl.html#a906e8b5a2f619a87bfd9f4010b05b376", null ],
+    [ "m_charset_id", "classdd_1_1Collation__impl.html#aaff1b2d5b912e62bd81bab1bf308098f", null ],
+    [ "m_is_compiled", "classdd_1_1Collation__impl.html#af1f28b4b590f307cf1f89024f6ab505b", null ],
+    [ "m_pad_attribute", "classdd_1_1Collation__impl.html#ab7ef74e53f4e1cbc546f44ced87c4877", null ],
+    [ "m_sort_length", "classdd_1_1Collation__impl.html#a9350505050da4ed0096fad84e36799cf", null ]
+];

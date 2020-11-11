@@ -1,0 +1,25 @@
+var classtable__def =
+[
+    [ "table_def", "classtable__def.html#a6b41715588970b4fb4d921cab44a83a7", null ],
+    [ "table_def", "classtable__def.html#a659c3d889db3ab3c2cc3f3cb591587e5", null ],
+    [ "~table_def", "classtable__def.html#ae04b19aadd64f7a033f2625b25a14dd2", null ],
+    [ "binlog_type", "classtable__def.html#aa9c2710f4c4bc50ef6307226eb276cb4", null ],
+    [ "calc_field_size", "classtable__def.html#a3101b1c0c67140b3513d464214654d05", null ],
+    [ "compatible_with", "classtable__def.html#aedd263d15199083d64b5ba5beaf1eb5a", null ],
+    [ "create_conversion_table", "classtable__def.html#a07dbe69aabbf2c897317a2c96648a4a8", null ],
+    [ "field_metadata", "classtable__def.html#af82e11d4e5a374237e76b928d9daa015", null ],
+    [ "is_array", "classtable__def.html#abfbcfea1021e8cbfc6aa1708a3a36cc5", null ],
+    [ "json_column_count", "classtable__def.html#a750e8808acc3de1332fe5139cbaf1a24", null ],
+    [ "maybe_null", "classtable__def.html#aeb9473f51b13e84200c9b16bb22754dd", null ],
+    [ "size", "classtable__def.html#a793dcd937355e094a90d55e2e1bca1c4", null ],
+    [ "type", "classtable__def.html#a3ea2417ae94fbad9428f7fe96a385953", null ],
+    [ "m_field_metadata", "classtable__def.html#a9bf6096730455eaed383c91805598eef", null ],
+    [ "m_field_metadata_size", "classtable__def.html#a81ce072a027cc5dd0996023230045dfd", null ],
+    [ "m_flags", "classtable__def.html#aac24bd985337c33048748d794709c092", null ],
+    [ "m_is_array", "classtable__def.html#a5a347d1ed7dc7ebbfa44324b647e173f", null ],
+    [ "m_json_column_count", "classtable__def.html#a1141b0736a8c3102e6bfa9588744e9e3", null ],
+    [ "m_memory", "classtable__def.html#a60684fb65fc75e37bf788075c0e77d4d", null ],
+    [ "m_null_bits", "classtable__def.html#af15d119b17614e2c56cd142b258a0bd2", null ],
+    [ "m_size", "classtable__def.html#a1a23d5be5e853c29c849cd9580aa3f7e", null ],
+    [ "m_type", "classtable__def.html#a79acc038cbea32233f3c9d43f3e16c29", null ]
+];

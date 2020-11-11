@@ -1,0 +1,25 @@
+var classtable__global__variables =
+[
+    [ "pos_t", "classtable__global__variables.html#a45a47df500aab11586513e87712752d5", null ],
+    [ "table_global_variables", "classtable__global__variables.html#acc48e1f8845defdda6ad59776bd8b8c8", null ],
+    [ "~table_global_variables", "classtable__global__variables.html#a247e86e066a06de89a6647e3495c4b33", null ],
+    [ "create", "classtable__global__variables.html#ae5ae1d456d20b73aa2991614dd8db75f", null ],
+    [ "get_row_count", "classtable__global__variables.html#ae908759588baf78c73afbed369d88fca", null ],
+    [ "index_init", "classtable__global__variables.html#a23a26bd3c926dec0af3e94bdc074a973", null ],
+    [ "index_next", "classtable__global__variables.html#a95a010ea104423cb89e310b1654efbee", null ],
+    [ "make_row", "classtable__global__variables.html#a5d2b025d50850bda74a5c1467cf57a2c", null ],
+    [ "read_row_values", "classtable__global__variables.html#a7fbfad52edc817a64a6cd12bf6efef47", null ],
+    [ "reset_position", "classtable__global__variables.html#ae5867b51a471380937e23ad1acd09e26", null ],
+    [ "rnd_init", "classtable__global__variables.html#a0914ed91ba27e19c696cdd8cd2284b80", null ],
+    [ "rnd_next", "classtable__global__variables.html#a17f1985c45025dd4f2ef94b2ef67e5a5", null ],
+    [ "rnd_pos", "classtable__global__variables.html#a0b53c59d8b85a9cf2b7db774e5a79f15", null ],
+    [ "m_context", "classtable__global__variables.html#ad0fa1f478092a8f00f4cc4e0f0d3ad80", null ],
+    [ "m_next_pos", "classtable__global__variables.html#ae6ae53b3a6151353ac428a51f208d241", null ],
+    [ "m_opened_index", "classtable__global__variables.html#a52984b76f4c738045277bdb37a5555dd", null ],
+    [ "m_pos", "classtable__global__variables.html#a3f415f0a76a3bebe40a36af36e256e6c", null ],
+    [ "m_row", "classtable__global__variables.html#ad5bc11144e928abc14edd92f9f5b6417", null ],
+    [ "m_share", "classtable__global__variables.html#af8ec560c932ca56bb55488497b0c9fd0", null ],
+    [ "m_sysvar_cache", "classtable__global__variables.html#ac6a195938b9589b9e92a418a530ab5a0", null ],
+    [ "m_table_def", "classtable__global__variables.html#a2a047e3571458effe6dfee0217dc3d46", null ],
+    [ "m_table_lock", "classtable__global__variables.html#a5bb8f9976d8b19426cf8a0f96079ef80", null ]
+];

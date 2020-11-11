@@ -1,0 +1,27 @@
+var structFEDERATED__SHARE =
+[
+    [ "connect_string", "structFEDERATED__SHARE.html#a14b6a5c33374be63b8bbc1cf9beb3d63", null ],
+    [ "connect_string_length", "structFEDERATED__SHARE.html#aba0d058eeaac5adc6e563cb95c4e374f", null ],
+    [ "connection_string", "structFEDERATED__SHARE.html#abbc938d3778e40c21bbee46df0d13f04", null ],
+    [ "database", "structFEDERATED__SHARE.html#a2d33263bcf132702019f8d36809ca8d4", null ],
+    [ "hostname", "structFEDERATED__SHARE.html#a2768dc495548d39a6aade24359148d98", null ],
+    [ "lock", "structFEDERATED__SHARE.html#ab32209f10b3103347824d7a9f5fe68dc", null ],
+    [ "mem_root", "structFEDERATED__SHARE.html#adaeb7dde6055d9c9eba124cb4a62d9ae", null ],
+    [ "mutex", "structFEDERATED__SHARE.html#aece8876beb15658deeda1cc629bb0667", null ],
+    [ "parsed", "structFEDERATED__SHARE.html#a31b89e7b86146a9032213706e74a536f", null ],
+    [ "password", "structFEDERATED__SHARE.html#a9435e8104bf291fe77a84e6b85a89d64", null ],
+    [ "port", "structFEDERATED__SHARE.html#a9fb46583d58cae99e04d972f7e13f36d", null ],
+    [ "scheme", "structFEDERATED__SHARE.html#af2547af85d223693d273690d6d6e72e2", null ],
+    [ "select_query", "structFEDERATED__SHARE.html#a2cb7755ccfc18d03e80f47843c11fb8c", null ],
+    [ "server_name", "structFEDERATED__SHARE.html#a38fc394f4650003dad66a781a24b7c3e", null ],
+    [ "server_name_length", "structFEDERATED__SHARE.html#ade79e614bc66ce069efd967574c1784b", null ],
+    [ "share_key", "structFEDERATED__SHARE.html#a95ba5d2f4defac276999f14d18bca2f8", null ],
+    [ "share_key_length", "structFEDERATED__SHARE.html#a2573531887886886b7b430cbedbc4b22", null ],
+    [ "socket", "structFEDERATED__SHARE.html#ad980ff6779cc0981d5ed2564a6371fb5", null ],
+    [ "sport", "structFEDERATED__SHARE.html#aceced68909c6c00f0bdd571b8c7cd51e", null ],
+    [ "table", "structFEDERATED__SHARE.html#a1159359525fe6c2deefe0039616a9081", null ],
+    [ "table_name", "structFEDERATED__SHARE.html#abcf3200d9c93e5d2d489884fb3d1381b", null ],
+    [ "table_name_length", "structFEDERATED__SHARE.html#a918f42c1fa9c1683dc88a2c0e3e8453e", null ],
+    [ "use_count", "structFEDERATED__SHARE.html#a91210ce8bc73d2a6b27bbc75f17c2b73", null ],
+    [ "username", "structFEDERATED__SHARE.html#a766823c976cff3dca58cfae64c345412", null ]
+];

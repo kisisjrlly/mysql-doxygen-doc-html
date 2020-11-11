@@ -1,0 +1,25 @@
+var classPT__field__def__base =
+[
+    [ "super", "classPT__field__def__base.html#a80d5793832dfaeb874a065df647bc8c7", null ],
+    [ "PT_field_def_base", "classPT__field__def__base.html#adf398c3b6a615445c24715fde51fcbbc", null ],
+    [ "contextualize", "classPT__field__def__base.html#aadb3b3b0aece32820840ea51cadaeb48", null ],
+    [ "contextualize_attrs", "classPT__field__def__base.html#a179adf239c92f28f9bcef2f2a77255a2", null ],
+    [ "alter_info_flags", "classPT__field__def__base.html#a954675b187abbd028659992d9dd36531", null ],
+    [ "alter_info_flags_t", "classPT__field__def__base.html#ad540b4c8e9e8d6fe27d7a0023945f9b9", null ],
+    [ "charset", "classPT__field__def__base.html#a2a2cf9aba8dea07b723e6276e686e74c", null ],
+    [ "check_const_spec_list", "classPT__field__def__base.html#abd6c41c9b2db13d24a474477091c6c41", null ],
+    [ "comment", "classPT__field__def__base.html#a0c6f9bfb22ba4ce54a1a32a068878bbe", null ],
+    [ "dec", "classPT__field__def__base.html#a55cd0ad8c1e55ae3d569c8586087a381", null ],
+    [ "default_val_info", "classPT__field__def__base.html#aab15b56a9517f51030a851e0ad7451fa", null ],
+    [ "default_value", "classPT__field__def__base.html#a9a7746903507fa6d7b0997b3a714f34b", null ],
+    [ "gcol_info", "classPT__field__def__base.html#a1a7edf42942d0e49b97210bc06659ef4", null ],
+    [ "has_explicit_collation", "classPT__field__def__base.html#a5a1c2e3fa626c76848cb42c195824e3d", null ],
+    [ "interval_list", "classPT__field__def__base.html#a551f601ada153bf13a96f54a181d77d9", null ],
+    [ "length", "classPT__field__def__base.html#a7755933b0a8f0f26790733771a5e3eaa", null ],
+    [ "m_srid", "classPT__field__def__base.html#a13f1e35ba42195405b32e234a3075d2d", null ],
+    [ "on_update_value", "classPT__field__def__base.html#a5eb8c6d2a674b829f60c5019528faf65", null ],
+    [ "type", "classPT__field__def__base.html#a121084882fa9508bf6eb6425bcdc711a", null ],
+    [ "type_flags", "classPT__field__def__base.html#ade3145d66a6ee5a358d50734e4ae96fc", null ],
+    [ "type_node", "classPT__field__def__base.html#a90878507bfbd80c2947853eee1035965", null ],
+    [ "uint_geom_type", "classPT__field__def__base.html#afd8a94e365df4163ed086e18826ae33c", null ]
+];

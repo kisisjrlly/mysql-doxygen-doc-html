@@ -1,0 +1,38 @@
+var classinjector_1_1transaction =
+[
+    [ "binlog_pos", "classinjector_1_1transaction_1_1binlog__pos.html", "classinjector_1_1transaction_1_1binlog__pos" ],
+    [ "table", "classinjector_1_1transaction_1_1table.html", "classinjector_1_1transaction_1_1table" ],
+    [ "record_type", "classinjector_1_1transaction.html#a1282448fc04b46473713bcecab54663a", null ],
+    [ "server_id_type", "classinjector_1_1transaction.html#a9c6e24e277125d6b6e91206fbd2a917b", null ],
+    [ "enum_state", "classinjector_1_1transaction.html#a6206f31646c3238f41edf8ad873b671e", [
+      [ "START_STATE", "classinjector_1_1transaction.html#a6206f31646c3238f41edf8ad873b671ea7b48e93561f61eec0b4f903e86f0d359", null ],
+      [ "TABLE_STATE", "classinjector_1_1transaction.html#a6206f31646c3238f41edf8ad873b671eadac4a9cc75b4e6551e816cca1b094325", null ],
+      [ "ROW_STATE", "classinjector_1_1transaction.html#a6206f31646c3238f41edf8ad873b671ea14add9356c537e59e4a8bf4b34ee5d77", null ],
+      [ "STATE_COUNT", "classinjector_1_1transaction.html#a6206f31646c3238f41edf8ad873b671ea9f6299eb3141d7c4ca32d93fc74b2d5b", null ]
+    ] ],
+    [ "transaction", "classinjector_1_1transaction.html#ad437e15d064ec882393e15f6b67605d3", null ],
+    [ "transaction", "classinjector_1_1transaction.html#ab6024a52e12025f4b18b31f269fcb5a8", null ],
+    [ "~transaction", "classinjector_1_1transaction.html#a741f82cd23a679396ef348ebad2eebf0", null ],
+    [ "transaction", "classinjector_1_1transaction.html#a0c03a9b86ca0cd2478040787ebd397ec", null ],
+    [ "check_state", "classinjector_1_1transaction.html#aacc02940c38c032a3e17f2e44df8946a", null ],
+    [ "clear", "classinjector_1_1transaction.html#a5dba8e0d51c5b2dab290a9ccdae07281", null ],
+    [ "commit", "classinjector_1_1transaction.html#a83b7faf4da3c9450ea2feed25565a308", null ],
+    [ "delete_row", "classinjector_1_1transaction.html#a81f5da67859d17109b65302bfdb20b7d", null ],
+    [ "delete_row", "classinjector_1_1transaction.html#a65e3011638d6a58ca2784dfcb7eb82b6", null ],
+    [ "good", "classinjector_1_1transaction.html#a508254b94efa2d27082e7ae67ca915f5", null ],
+    [ "next_pos", "classinjector_1_1transaction.html#a71fbf91b3e192c093e8b15b68b7fe0f3", null ],
+    [ "operator=", "classinjector_1_1transaction.html#a70efe1a48a2b478a516a4076879fac1d", null ],
+    [ "rollback", "classinjector_1_1transaction.html#ae028734fb53a794ec7e1155fdcb3a285", null ],
+    [ "start_pos", "classinjector_1_1transaction.html#abb05c6c7969efd192d27bf6b9e324c39", null ],
+    [ "swap", "classinjector_1_1transaction.html#abd42acd7132609cc9db84f49d5af3908", null ],
+    [ "update_row", "classinjector_1_1transaction.html#abef5998000637a8032fb94cb1b199b82", null ],
+    [ "update_row", "classinjector_1_1transaction.html#ad826c36ddd479b629e9bb813b749d726", null ],
+    [ "use_table", "classinjector_1_1transaction.html#a88488a9507748be1b908d89266a0dcb6", null ],
+    [ "write_row", "classinjector_1_1transaction.html#a5111db2f5463fe665f0bb40908dd98e5", null ],
+    [ "write_row", "classinjector_1_1transaction.html#a9b959b85ab35e79d1c0886afd81eb1c8", null ],
+    [ "injector", "classinjector_1_1transaction.html#ad27499ba8668ef66ebec662c7b552419", null ],
+    [ "m_next_pos", "classinjector_1_1transaction.html#a758dbe5c90f4f45ce902ecc07ed8b681", null ],
+    [ "m_start_pos", "classinjector_1_1transaction.html#a66de4d568e8f2580eb675b44043c5882", null ],
+    [ "m_state", "classinjector_1_1transaction.html#aafd2b1ca110ed4b6e730fabe8c1c9c72", null ],
+    [ "m_thd", "classinjector_1_1transaction.html#a808ccd83bc661f22b94525758998892c", null ]
+];

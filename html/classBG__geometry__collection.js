@@ -1,0 +1,25 @@
+var classBG__geometry__collection =
+[
+    [ "Geometry_list", "classBG__geometry__collection.html#a38170b1445cbeac05c141e37b5d68651", null ],
+    [ "BG_geometry_collection", "classBG__geometry__collection.html#aa9ff3f546863f5be5a23f0d96461b8a1", null ],
+    [ "all_isolated", "classBG__geometry__collection.html#afe549db09e534fa5b4cd0326f4a65a99", null ],
+    [ "as_geometry_collection", "classBG__geometry__collection.html#aef572d61cb0bd24a4680c7450ac9723a", null ],
+    [ "fill", "classBG__geometry__collection.html#a7a266dfad527e800335b0b0be56e7823", null ],
+    [ "get_geometries", "classBG__geometry__collection.html#a30c3aa79adddd0a6f4384c461afb608f", null ],
+    [ "get_geometries", "classBG__geometry__collection.html#ae40e361bd16c6d74bfcdcc2d41f5d4fe", null ],
+    [ "get_srid", "classBG__geometry__collection.html#a386fd524592a49d311e3cbac6788b899", null ],
+    [ "is_comp_no_overlapped", "classBG__geometry__collection.html#ab8dca5aefde780d0410bdcca93f70b82", null ],
+    [ "merge_components", "classBG__geometry__collection.html#a0a048ba3675088cc7aa46a08f24d0c29", null ],
+    [ "merge_one_run", "classBG__geometry__collection.html#a8e347e707271320bb831ed0e8d3eb841", null ],
+    [ "num_isolated", "classBG__geometry__collection.html#aa30d8c730c494f691ad54ae18002bf57", null ],
+    [ "set_comp_no_overlapped", "classBG__geometry__collection.html#a1082cce97bb8411af16940999885ad6d", null ],
+    [ "set_srid", "classBG__geometry__collection.html#afe5dfb125362d7ce95380e7f8316c448", null ],
+    [ "store", "classBG__geometry__collection.html#a6c179021b14b57b4ff347d51f1dbea75", null ],
+    [ "store_geometry", "classBG__geometry__collection.html#a7c32051e9a50c0d690724c2115dbb393", null ],
+    [ "comp_no_overlapped", "classBG__geometry__collection.html#aa31039aaf150e3d3630d0197fa0fccfd", null ],
+    [ "m_geobufs", "classBG__geometry__collection.html#add8330bcff21350d06c67d084856285a", null ],
+    [ "m_geos", "classBG__geometry__collection.html#acccfa252111cddbda982cc7feb2efa09", null ],
+    [ "m_geosdata", "classBG__geometry__collection.html#a75791c52195f48e7b49e581e599b6023", null ],
+    [ "m_num_isolated", "classBG__geometry__collection.html#a196e0f5e82fe06e5749d0b07096b54aa", null ],
+    [ "m_srid", "classBG__geometry__collection.html#a5a96d19956c20ce90d60f8a4c55c7b5d", null ]
+];

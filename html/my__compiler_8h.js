@@ -1,0 +1,26 @@
+var my__compiler_8h =
+[
+    [ "__has_attribute", "my__compiler_8h.html#a54d2d7742701f3f112afbcd8d4f9ccdb", null ],
+    [ "ALWAYS_INLINE", "my__compiler_8h.html#aa1dec568e79152c892dcf63f445cbd7a", null ],
+    [ "MY_ASSERT_UNREACHABLE", "my__compiler_8h.html#a6abc90219fdf9e52d59fd524075a50cf", null ],
+    [ "MY_COMPILER_CLANG_DIAGNOSTIC_ERROR", "my__compiler_8h.html#ac045dcd366345da5cb5de3e022ee5a39", null ],
+    [ "MY_COMPILER_CLANG_DIAGNOSTIC_IGNORE", "my__compiler_8h.html#aa4a9ed19384fe5b21e17ac6cd6dc02b5", null ],
+    [ "MY_COMPILER_CLANG_WORKAROUND_FALSE_POSITIVE_UNUSED_VARIABLE_WARNING", "my__compiler_8h.html#a6a7daf8935ee0757a2a0726dafe66e1b", null ],
+    [ "MY_COMPILER_CLANG_WORKAROUND_REF_DOCBUG", "my__compiler_8h.html#a7f9882d278e429b81c85a66c1b885de3", null ],
+    [ "MY_COMPILER_CLANG_WORKAROUND_TPARAM_DOCBUG", "my__compiler_8h.html#a83ddd810c97825d1a682fd2259bcce4c", null ],
+    [ "MY_COMPILER_CPP11_PRAGMA", "my__compiler_8h.html#af0df90ef349c2bb63aa21b7a91ddb457", null ],
+    [ "MY_COMPILER_DIAGNOSTIC_POP", "my__compiler_8h.html#a69a85e9247f5e77948fca7520ef01f76", null ],
+    [ "MY_COMPILER_DIAGNOSTIC_PUSH", "my__compiler_8h.html#a496f91d1141fedfee97bfdecfbf8d66b", null ],
+    [ "MY_COMPILER_GCC_DIAGNOSTIC_ERROR", "my__compiler_8h.html#acdc3068ed30613f8a0a1139449309240", null ],
+    [ "MY_COMPILER_GCC_DIAGNOSTIC_IGNORE", "my__compiler_8h.html#a00e107c74c90035a211d44973c8b136b", null ],
+    [ "MY_COMPILER_MSVC_DIAGNOSTIC_ERROR", "my__compiler_8h.html#af65bd9015c40722a6aed913855b52f0f", null ],
+    [ "MY_COMPILER_MSVC_DIAGNOSTIC_IGNORE", "my__compiler_8h.html#a312d6e8999356a242566392f0a39c166", null ],
+    [ "MY_COMPILER_MSVC_PRAGMA", "my__compiler_8h.html#aeac14dc0a6547f96cf9838f7941f94bb", null ],
+    [ "NO_INLINE", "my__compiler_8h.html#ab5ce7bd7fe4169a9f709815f03f9870b", null ],
+    [ "STDCALL", "my__compiler_8h.html#a446cf449a6234c9b177309d5ba0852c0", null ],
+    [ "SUPPRESS_TSAN", "my__compiler_8h.html#a939e6ad65d8ab9567f0718ca5810b3f0", null ],
+    [ "SUPPRESS_UBSAN", "my__compiler_8h.html#a6f726ee82a466c51f2b85e8725e92dc1", null ],
+    [ "SUPPRESS_UBSAN_CLANG10", "my__compiler_8h.html#afee3bd053b6683211b4bb61cd713d1b9", null ],
+    [ "likely", "my__compiler_8h.html#adf1dd445831000a6c98016e77f1c054a", null ],
+    [ "unlikely", "my__compiler_8h.html#a725021e02f11d4a06284d89701ba5cbb", null ]
+];

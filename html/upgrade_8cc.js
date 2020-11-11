@@ -1,0 +1,27 @@
+var upgrade_8cc =
+[
+    [ "add_sdi_info", "upgrade_8cc.html#a97c595541eb075abd362c75b3ed8eff9", null ],
+    [ "allow_sdi_creation", "upgrade_8cc.html#a5fd70b5f3684376c9351ad63e08bd5b0", null ],
+    [ "check_file_extension", "upgrade_8cc.html#a469268a2eb2cfe7ee833ef46e987624f", null ],
+    [ "check_for_dd_tables", "upgrade_8cc.html#a61ea1415e4837b13f2f06c9b558f0c00", null ],
+    [ "do_pre_checks_and_initialize_dd", "upgrade_8cc.html#a891fd8b07e4e61239bbd9243695acaab", null ],
+    [ "drop_sdi_files", "upgrade_8cc.html#ab3dc2c3013596a5147bd66d03f8402f3", null ],
+    [ "fill_dd_and_finalize", "upgrade_8cc.html#a285d02ddfe1086deb0df7579e277a17f", null ],
+    [ "finalize_upgrade", "upgrade_8cc.html#a514f63875b6afa309371ed5bddf2dfc2", null ],
+    [ "ha_finish_upgrade", "upgrade_8cc.html#a6b4d15307c3fda5e9bb0b9d5d62991c3", null ],
+    [ "ha_finish_upgrade", "upgrade_8cc.html#ae29248792a47d7d3d4cc9f14f3748d94", null ],
+    [ "ha_migrate_tablespaces", "upgrade_8cc.html#a3222f29523acf2b57081bacd0434cafd", null ],
+    [ "ha_migrate_tablespaces", "upgrade_8cc.html#ac2b38d9ac2dbacb681b3351cc9e629f3", null ],
+    [ "ha_upgrade_engine_logs", "upgrade_8cc.html#a43f81986086b0e32f818502b4f6f5b05", null ],
+    [ "in_progress", "upgrade_8cc.html#a444214dcf2297c27674622c9d3f8c909", null ],
+    [ "migrate_stats", "upgrade_8cc.html#a8e07d622b9a63121e1e6b2134ccc111b", null ],
+    [ "rename_back_stats_tables", "upgrade_8cc.html#a0fdaf58f66387f6eb2cbfb90e09c6add", null ],
+    [ "rename_stats_tables", "upgrade_8cc.html#a6ddee7abfcb53c26fa9b9d1680455a44", null ],
+    [ "restart_dictionary", "upgrade_8cc.html#abf822d07fda03131c0afd5189ed6d45e", null ],
+    [ "set_allow_sdi_creation", "upgrade_8cc.html#a5af6f5c0c462ddb43d7bda61f528eebd", null ],
+    [ "set_in_progress", "upgrade_8cc.html#a9aa73ffd3b53adaf7bf98e1f9e9db147", null ],
+    [ "terminate", "upgrade_8cc.html#ab8be7a302dff769c1d7006285385baa4", null ],
+    [ "upgrade_logs", "upgrade_8cc.html#a91fed33946951ac2f386abdbf1013ac1", null ],
+    [ "create_sdi_flag", "upgrade_8cc.html#af54b041b58966c32a395050626551a2b", null ],
+    [ "dd_upgrade_flag", "upgrade_8cc.html#ae858d9607c34dcaa6cb68e5fa3ace79a", null ]
+];

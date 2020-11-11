@@ -1,0 +1,25 @@
+var structMY__UCA__INFO =
+[
+    [ "contraction_flags", "structMY__UCA__INFO.html#a5f74d1ca3327909752746e7e98259723", null ],
+    [ "contraction_nodes", "structMY__UCA__INFO.html#af8bbe59e8e788b474a5d571a662c7929", null ],
+    [ "extra_ce_pri_base", "structMY__UCA__INFO.html#a1d02b776b6584aee3f6fb4b7a3441e92", null ],
+    [ "extra_ce_sec_base", "structMY__UCA__INFO.html#afe17e67ffd311e7d872cf3b3415f9fd7", null ],
+    [ "extra_ce_ter_base", "structMY__UCA__INFO.html#a0589f18bf8a91b4e492bd3cc4465724d", null ],
+    [ "first_non_ignorable", "structMY__UCA__INFO.html#a0940f46f6ac0a58390ba5204b26dd025", null ],
+    [ "first_primary_ignorable", "structMY__UCA__INFO.html#adbf78c85364bc2f84622b0a4ef28a09d", null ],
+    [ "first_secondary_ignorable", "structMY__UCA__INFO.html#ac80df2af97e63cff1d62916efbf0074c", null ],
+    [ "first_tertiary_ignorable", "structMY__UCA__INFO.html#aa611b3a46e5ccb10744e1e63a21ecacb", null ],
+    [ "first_trailing", "structMY__UCA__INFO.html#af673611bf09c5eeb6ba1556a83e204d8", null ],
+    [ "first_variable", "structMY__UCA__INFO.html#a8b6f4c06e5342523c1710966a288f00c", null ],
+    [ "have_contractions", "structMY__UCA__INFO.html#a7457a6ffd7a3bb4d02fd613d05e6c5dd", null ],
+    [ "last_non_ignorable", "structMY__UCA__INFO.html#ad474837d62cf459b2e1fa4d9861258d5", null ],
+    [ "last_primary_ignorable", "structMY__UCA__INFO.html#a5fba2bbad932e33b88bcfc8a61d35fe7", null ],
+    [ "last_secondary_ignorable", "structMY__UCA__INFO.html#a5721c13895628d3f78f30d0326fcb4a2", null ],
+    [ "last_tertiary_ignorable", "structMY__UCA__INFO.html#a3a13b6d8d7c279f1afc38c9c48ed9bfc", null ],
+    [ "last_trailing", "structMY__UCA__INFO.html#ac14b86528be228c8ce5d9ef97f90c5c5", null ],
+    [ "last_variable", "structMY__UCA__INFO.html#ad9ffa18786b2b234e9b0588f99566a68", null ],
+    [ "lengths", "structMY__UCA__INFO.html#ad7542928a46953330fb21dc39e0afee9", null ],
+    [ "maxchar", "structMY__UCA__INFO.html#a5f03d3833ff59afc0c302a2ee5655746", null ],
+    [ "version", "structMY__UCA__INFO.html#ad13f6f9ba447a8ddc6131338075e8c1a", null ],
+    [ "weights", "structMY__UCA__INFO.html#a312b6dfb9688bf1e8ebb1502b9da62a8", null ]
+];

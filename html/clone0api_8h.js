@@ -1,0 +1,25 @@
+var clone0api_8h =
+[
+    [ "clone_add_to_list_file", "clone0api_8h.html#a20b04cadf5698d9876661581df263768", null ],
+    [ "clone_check_active", "clone0api_8h.html#a5c8b460fb597ea2c2b04876b22904d29", null ],
+    [ "clone_check_recovery_crashpoint", "clone0api_8h.html#a60ca9411cb4cf433597bb8556ff9daba", null ],
+    [ "clone_files_error", "clone0api_8h.html#ac0544af5f448abc74e6c82a083dd2d17", null ],
+    [ "clone_files_recovery", "clone0api_8h.html#a818f4bafce537f95930c61e278235141", null ],
+    [ "clone_free", "clone0api_8h.html#aabd7d38acefe268ce6a9dbc0f7e90cc1", null ],
+    [ "clone_init", "clone0api_8h.html#add094a303a7dcc9d43ec45b7814f442f", null ],
+    [ "clone_init_list_files", "clone0api_8h.html#a78cf424f21a9178dd8cad9bf7fd60c81", null ],
+    [ "clone_mark_abort", "clone0api_8h.html#a6f1f54f20ced54a7f16f67df4a5e97f5", null ],
+    [ "clone_mark_active", "clone0api_8h.html#a66c5b1ebc839a0f499c9b53c6a2fa8a2", null ],
+    [ "clone_mark_free", "clone0api_8h.html#ab3c233bde160b81ec4cf2dcf3f17b6c1", null ],
+    [ "clone_mark_wait", "clone0api_8h.html#a8755b564af880267bf814220032784c0", null ],
+    [ "clone_update_gtid_status", "clone0api_8h.html#a843f2eeb0fe6b920c75ef659f839997e", null ],
+    [ "fix_cloned_tables", "clone0api_8h.html#ac4e8467447311cd6161ce25bf7a1d847", null ],
+    [ "innodb_clone_ack", "clone0api_8h.html#af618d357af5c6541934fd659a809231d", null ],
+    [ "innodb_clone_apply", "clone0api_8h.html#ab1c631f66a54f7c0dfa2e9bb3919a87b", null ],
+    [ "innodb_clone_apply_begin", "clone0api_8h.html#a8b55caa94c3acd780378e5bb314a973f", null ],
+    [ "innodb_clone_apply_end", "clone0api_8h.html#a2f163e63309f04f8f986735d3f9dfcd2", null ],
+    [ "innodb_clone_begin", "clone0api_8h.html#ab079de77bb90aa459ed2741b591467fe", null ],
+    [ "innodb_clone_copy", "clone0api_8h.html#aa87642066522a37422fe5dcbef813e77", null ],
+    [ "innodb_clone_end", "clone0api_8h.html#a9280d10df541d506d4982e14a324a6c7", null ],
+    [ "innodb_clone_get_capability", "clone0api_8h.html#aba287272d1519040d2426c3c7545c8f1", null ]
+];

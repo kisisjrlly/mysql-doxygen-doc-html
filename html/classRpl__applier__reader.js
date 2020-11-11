@@ -1,0 +1,27 @@
+var classRpl__applier__reader =
+[
+    [ "Stage_controller", "classRpl__applier__reader_1_1Stage__controller.html", "classRpl__applier__reader_1_1Stage__controller" ],
+    [ "Rpl_applier_reader", "classRpl__applier__reader.html#a8bf07cd8ec14259b41fef2e9f5f1e657", null ],
+    [ "Rpl_applier_reader", "classRpl__applier__reader.html#a7d275844edfe8078e576b79acf92854e", null ],
+    [ "~Rpl_applier_reader", "classRpl__applier__reader.html#af91aa7909bf698bbb60e2b41fb3acafa", null ],
+    [ "close", "classRpl__applier__reader.html#a9fc58d183cfc0eeaa5d0d15668ca5a4f", null ],
+    [ "debug_print_next_event_positions", "classRpl__applier__reader.html#ac2ace8ea6dd4da53bc50fe0d8c14c2a3", null ],
+    [ "disable_relay_log_space_limit_if_needed", "classRpl__applier__reader.html#abf652bb31237f522bc9ca3f2e16effbe", null ],
+    [ "generate_rotate_event", "classRpl__applier__reader.html#a5ff7e8e603906f49c0f6e1eb8fdaedac", null ],
+    [ "move_to_next_log", "classRpl__applier__reader.html#a71a1907cdeaa9a8ab4c82b36beae8ea8", null ],
+    [ "open", "classRpl__applier__reader.html#ac36508db2141ad3ed049e70eda7bccef", null ],
+    [ "operator=", "classRpl__applier__reader.html#ac8223c4652eac8d33ae43a9888096bd8", null ],
+    [ "purge_applied_logs", "classRpl__applier__reader.html#af6102693a83b3f45f9cbdc0037760b28", null ],
+    [ "read_active_log_end_pos", "classRpl__applier__reader.html#a7212a20215d1417d5caa8cf08e0f7b9b", null ],
+    [ "read_next_event", "classRpl__applier__reader.html#aef9e304aad99268337adaed0bcda7f27", null ],
+    [ "reopen_log_reader_if_needed", "classRpl__applier__reader.html#a74ab6b08de846a04bbfbc6de2e6f39ed", null ],
+    [ "reset_seconds_behind_master", "classRpl__applier__reader.html#aee728eb253262f96817a73631da9d20b", null ],
+    [ "wait_for_new_event", "classRpl__applier__reader.html#a4e98379769a3fdbdd4dee65dfacac2b8", null ],
+    [ "m_errmsg", "classRpl__applier__reader.html#a6ba942f3ac1866569b32500d98498532", null ],
+    [ "m_linfo", "classRpl__applier__reader.html#a40d23b1a9034b416d9b058daf4ffde7b", null ],
+    [ "m_log_end_pos", "classRpl__applier__reader.html#ad079c205324e7435dc1b2dd9a4145048", null ],
+    [ "m_reading_active_log", "classRpl__applier__reader.html#a71ee6663ee63812df8a4dea7518b8093", null ],
+    [ "m_relay_log_purge", "classRpl__applier__reader.html#a25f6f605cc876725e758e99e276ab6cb", null ],
+    [ "m_relaylog_file_reader", "classRpl__applier__reader.html#a70c6679669ceb317364364121f02b512", null ],
+    [ "m_rli", "classRpl__applier__reader.html#a39e76af1e72583e21492dd9a082276dd", null ]
+];

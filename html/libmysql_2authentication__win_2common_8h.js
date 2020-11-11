@@ -1,0 +1,27 @@
+var libmysql_2authentication__win_2common_8h =
+[
+    [ "error_log_level", "structerror__log__level.html", "structerror__log__level" ],
+    [ "Blob", "classBlob.html", "classBlob" ],
+    [ "Connection", "classConnection.html", "classConnection" ],
+    [ "Sid", "classSid.html", "classSid" ],
+    [ "UPN", "classUPN.html", "classUPN" ],
+    [ "DBUG_ASSERT", "libmysql_2authentication__win_2common_8h.html#ab60fd4a1486d0d160ce42a8356e1df0c", null ],
+    [ "DBUG_DUMP", "libmysql_2authentication__win_2common_8h.html#a063270b7c1f5fc909bc63c86fc603efd", null ],
+    [ "DBUG_ENTER", "libmysql_2authentication__win_2common_8h.html#aa15c2ee5851987f79e1cba2e96dc3d03", null ],
+    [ "DBUG_PRINT", "libmysql_2authentication__win_2common_8h.html#a5c0131aecc3d57985203900e936262bb", null ],
+    [ "DBUG_PRINT_DO", "libmysql_2authentication__win_2common_8h.html#afb21859805e87e67022942d1eb40b64b", null ],
+    [ "DBUG_RETURN", "libmysql_2authentication__win_2common_8h.html#a70fc2a0065b2892fa6417f9c7c33dfc4", null ],
+    [ "ERROR_LOG", "libmysql_2authentication__win_2common_8h.html#abf6bc12cbf00476496a35dc45f66c47d", null ],
+    [ "MAX_SERVICE_NAME_LENGTH", "libmysql_2authentication__win_2common_8h.html#ad93c7400565a2907e993ef1628646b41", null ],
+    [ "byte", "libmysql_2authentication__win_2common_8h.html#a0c8186d9b9b7880309c27230bbb5e69d", null ],
+    [ "Error_message_buf", "libmysql_2authentication__win_2common_8h.html#a9b47014ca75745b731301611729098af", null ],
+    [ "debug_msg", "libmysql_2authentication__win_2common_8h.html#a2aa38705cc75a1c4119e673ea6bc4a71", null ],
+    [ "error_log_print", "libmysql_2authentication__win_2common_8h.html#a9f77225ab614cc471298f419142f1259", null ],
+    [ "error_log_vprint", "libmysql_2authentication__win_2common_8h.html#ae12e56335d9271bfceb5b8604e773150", null ],
+    [ "get_last_error_message", "libmysql_2authentication__win_2common_8h.html#a14ac90e76fe678af58f149739322e0df", null ],
+    [ "get_log_level", "libmysql_2authentication__win_2common_8h.html#aa8ff4c25f4fef71eee9a79026bf32ca6", null ],
+    [ "set_log_level", "libmysql_2authentication__win_2common_8h.html#a02aeb467202202b165b40fb4d379d3b4", null ],
+    [ "utf8_to_wchar", "libmysql_2authentication__win_2common_8h.html#a8b35386f5caaf81b35941749f16d8d4b", null ],
+    [ "wchar_to_utf8", "libmysql_2authentication__win_2common_8h.html#a870dfc859a5f46770d58b7c7fa841af3", null ],
+    [ "opt_auth_win_log_level", "libmysql_2authentication__win_2common_8h.html#ad6b1f06e33bd737a7ad348cbd4f350a5", null ]
+];

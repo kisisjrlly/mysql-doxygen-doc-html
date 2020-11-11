@@ -1,0 +1,25 @@
+var classPage__Arch__Client__Ctx =
+[
+    [ "Page_Arch_Client_Ctx", "classPage__Arch__Client__Ctx.html#a1d642e4146696a6db299ac62aec9c190", null ],
+    [ "~Page_Arch_Client_Ctx", "classPage__Arch__Client__Ctx.html#a238335e3879685ea0a2f85fa16439b5d", null ],
+    [ "Page_Arch_Client_Ctx", "classPage__Arch__Client__Ctx.html#a43ff0e4a4d9a39cef18c8a8bcfa03e82", null ],
+    [ "arch_client_mutex_enter", "classPage__Arch__Client__Ctx.html#aa1e5d2438395085518594fb994c9e919", null ],
+    [ "arch_client_mutex_exit", "classPage__Arch__Client__Ctx.html#a3d395c9f115090261db3d7fca0387fb1", null ],
+    [ "get_pages", "classPage__Arch__Client__Ctx.html#a53f8a077b327109c53c26740b5ce0c17", null ],
+    [ "init_during_recovery", "classPage__Arch__Client__Ctx.html#ac2f5c64e6c6766de8c22ed4a4112f280", null ],
+    [ "is_active", "classPage__Arch__Client__Ctx.html#a254bf5933232614afb2fabb8d3d3f344", null ],
+    [ "operator=", "classPage__Arch__Client__Ctx.html#a0e639a81c2a9f6513b02af97c7e3e167", null ],
+    [ "print", "classPage__Arch__Client__Ctx.html#a496d8fb7474d0f22c4dd44825f04aaaa", null ],
+    [ "release", "classPage__Arch__Client__Ctx.html#aab159d9033eb311681991a0f981baff5", null ],
+    [ "start", "classPage__Arch__Client__Ctx.html#af3516f0d91768a2b91db1fda3541b030", null ],
+    [ "stop", "classPage__Arch__Client__Ctx.html#af950a1dcbcd385797f594d2f6eb60807", null ],
+    [ "m_group", "classPage__Arch__Client__Ctx.html#aba66241fef9b56f982f5e4db4951440f", null ],
+    [ "m_is_durable", "classPage__Arch__Client__Ctx.html#a7ca203e7a989d3d7eeb6bf5bc04aa4e3", null ],
+    [ "m_last_reset_lsn", "classPage__Arch__Client__Ctx.html#ae0fa1bf742292e743d144cc4234f66dc", null ],
+    [ "m_mutex", "classPage__Arch__Client__Ctx.html#abdc11da029c6666219d0e3b2f01201cf", null ],
+    [ "m_start_lsn", "classPage__Arch__Client__Ctx.html#a0955382e43e5d85934d8a4a228810f13", null ],
+    [ "m_start_pos", "classPage__Arch__Client__Ctx.html#ada90456cdcddf91e446044d03c39b2e0", null ],
+    [ "m_state", "classPage__Arch__Client__Ctx.html#af2f9709927f9057eb1cfee517881babd", null ],
+    [ "m_stop_lsn", "classPage__Arch__Client__Ctx.html#a47aaa5147ab16c972bc60b5b2f13b1d7", null ],
+    [ "m_stop_pos", "classPage__Arch__Client__Ctx.html#a8f671d7a9b1fdb4ed74af0d27e87b731", null ]
+];

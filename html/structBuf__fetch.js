@@ -1,0 +1,28 @@
+var structBuf__fetch =
+[
+    [ "Buf_fetch", "structBuf__fetch.html#adfbc91e3aca1c2fc0e231884defbf9c0", null ],
+    [ "check_state", "structBuf__fetch.html#a3914afae97152f1a2fbfe5b7490eb542", null ],
+    [ "debug_check", "structBuf__fetch.html#a5b17b2d208fd705e770a442399d384f0", null ],
+    [ "is_on_watch", "structBuf__fetch.html#af60752831146d75e5b8b6f965c91b11c", null ],
+    [ "is_optimistic", "structBuf__fetch.html#a7e4c7a1a10e4146391fdaa5cf17618a2", null ],
+    [ "lookup", "structBuf__fetch.html#acc70c981f39fdc0b38fcb93afb592943", null ],
+    [ "mtr_add_page", "structBuf__fetch.html#a57e76b49593c637cee052c6a89d7478f", null ],
+    [ "read_page", "structBuf__fetch.html#ad417b6db0def0a3054277d35aef94e73", null ],
+    [ "single_page", "structBuf__fetch.html#a1d69a5a27369ec0e507b35594686cb62", null ],
+    [ "temp_space_page_handler", "structBuf__fetch.html#a80f6a43a1c3b6d24c498179736190987", null ],
+    [ "zip_page_handler", "structBuf__fetch.html#adeb18f2751b6c68ad0a94940f3c1a7fc", null ],
+    [ "m_buf_pool", "structBuf__fetch.html#a09fbceaae031de1ab1c5d12efa738297", null ],
+    [ "m_dirty_with_no_latch", "structBuf__fetch.html#ab67f7c4279d64058bb7181f821899f49", null ],
+    [ "m_file", "structBuf__fetch.html#ad33345605d9a2b4e5a675e321a4a81d9", null ],
+    [ "m_guess", "structBuf__fetch.html#a76009d9f41ea76a910d93daa235d9498", null ],
+    [ "m_hash_lock", "structBuf__fetch.html#aa5d0dc2a1781f5f3129bb58e45e131bc", null ],
+    [ "m_is_temp_space", "structBuf__fetch.html#ac4333498670d751cd80c7e82dc4ee140", null ],
+    [ "m_line", "structBuf__fetch.html#abc85415872249d169e96ca8e4a8ad0f5", null ],
+    [ "m_mode", "structBuf__fetch.html#af2b546c7397117e4185ccc7ed52caf0a", null ],
+    [ "m_mtr", "structBuf__fetch.html#af9c9622448b9a10fc681cca94a7fbf36", null ],
+    [ "m_page_id", "structBuf__fetch.html#ae55fc921de1cbaab1a78496f4624848d", null ],
+    [ "m_page_size", "structBuf__fetch.html#a216d67e96b072f1c1e89c26575cf3e5e", null ],
+    [ "m_retries", "structBuf__fetch.html#a5b4b05b3d0ffad1814faaa22091875e6", null ],
+    [ "m_rw_latch", "structBuf__fetch.html#a5665f215f74a1fd5dc25d1d5018dd3b2", null ],
+    [ "T", "structBuf__fetch.html#a810d7cb836de7d34e5776cf8060bb0ef", null ]
+];

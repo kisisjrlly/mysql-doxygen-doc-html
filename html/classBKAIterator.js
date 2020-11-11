@@ -1,0 +1,35 @@
+var classBKAIterator =
+[
+    [ "State", "classBKAIterator.html#a8f02df57e8c1ee3f284b1ae7cbb1672c", [
+      [ "NEED_OUTER_ROWS", "classBKAIterator.html#a8f02df57e8c1ee3f284b1ae7cbb1672ca7bebc54bee6036791e8c1be1369770b6", null ],
+      [ "RETURNING_JOINED_ROWS", "classBKAIterator.html#a8f02df57e8c1ee3f284b1ae7cbb1672ca5666d6660a12e48e7172bcda9fbfd522", null ],
+      [ "RETURNING_NULL_COMPLEMENTED_ROWS", "classBKAIterator.html#a8f02df57e8c1ee3f284b1ae7cbb1672cabf876a288997414bc766654638c2c7a8", null ],
+      [ "END_OF_ROWS", "classBKAIterator.html#a8f02df57e8c1ee3f284b1ae7cbb1672cac51fdf14ade8bb36f7dc3e02aed6c1d7", null ]
+    ] ],
+    [ "BKAIterator", "classBKAIterator.html#a535f5f39aee2e186e0095c0bc366b41d", null ],
+    [ "BatchFinished", "classBKAIterator.html#a4fa5116f15b9404d5dd53ce94999dcbb", null ],
+    [ "BeginNewBatch", "classBKAIterator.html#ad9d5ea6e997f65c7703d3c46c809289b", null ],
+    [ "EndPSIBatchModeIfStarted", "classBKAIterator.html#a653eac2cbf6d5999aeb84a9e4a975767", null ],
+    [ "Init", "classBKAIterator.html#ae53bde3f57efec86729af104870fc50b", null ],
+    [ "MakeNullComplementedRow", "classBKAIterator.html#a02c394c633f2e2562fb55706d251e807", null ],
+    [ "Read", "classBKAIterator.html#ab9c0109f0a572765452415d102758b2c", null ],
+    [ "ReadOuterRows", "classBKAIterator.html#a3d968d9a4d5f120dc74d832da041e9b3", null ],
+    [ "SetNullRowFlag", "classBKAIterator.html#ae2ae212bcbc26a5af0149e783b80a5a1", null ],
+    [ "UnlockRow", "classBKAIterator.html#ae2cb029dd7e15858d1971a99323315d8", null ],
+    [ "m_bytes_used", "classBKAIterator.html#ab513e64d82b458fca495bfeacf59f575", null ],
+    [ "m_current_pos", "classBKAIterator.html#ab83c2f9599921025fbbbb0c96749e7e7", null ],
+    [ "m_end_of_outer_rows", "classBKAIterator.html#abfc868263c9c53b4584ff5a138907597", null ],
+    [ "m_has_row_from_previous_batch", "classBKAIterator.html#a15d3390b2ad3c519f65ee29e204dd4c6", null ],
+    [ "m_inner_input", "classBKAIterator.html#a64ef03b0c08a4c059df5b56894fc5c9f", null ],
+    [ "m_join_type", "classBKAIterator.html#aab79d1e659487c84b978525979b4ad1c", null ],
+    [ "m_max_memory_available", "classBKAIterator.html#a7fa05704ee6086bdc4495ece7eca7844", null ],
+    [ "m_mem_root", "classBKAIterator.html#a182be8780960c885a6630951aa607a74", null ],
+    [ "m_mrr_bytes_needed_for_single_inner_row", "classBKAIterator.html#a019114481026c0e0784fe5a786beea96", null ],
+    [ "m_mrr_bytes_needed_per_row", "classBKAIterator.html#a9df24842f5048742c30c042a37d108a6", null ],
+    [ "m_mrr_iterator", "classBKAIterator.html#a81d5b2ed19fb2cab3af0c13b50834c44", null ],
+    [ "m_outer_input", "classBKAIterator.html#af85a22cf917093a19a0c9bc094016bae", null ],
+    [ "m_outer_input_tables", "classBKAIterator.html#a0699619d7f7246f5fc63ceb5ed894cb0", null ],
+    [ "m_outer_row_buffer", "classBKAIterator.html#a984ac2bfe32548395ebe94a90d92f383", null ],
+    [ "m_rows", "classBKAIterator.html#ac86a9bcc7522487090cdd4af2b335030", null ],
+    [ "m_state", "classBKAIterator.html#ad9c2ae1d8b1f8dbed672d158aef00eec", null ]
+];

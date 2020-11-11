@@ -1,0 +1,26 @@
+var parse__tree__helpers_8h =
+[
+    [ "Mem_root_array", "classMem__root__array.html", "classMem__root__array" ],
+    [ "Parse_tree_item", "classParse__tree__item.html", "classParse__tree__item" ],
+    [ "PT_item_list", "classPT__item__list.html", "classPT__item__list" ],
+    [ "apply_privileges", "parse__tree__helpers_8h.html#a0da2f672f12ee7d80146041d3967af69", null ],
+    [ "check_resource_group_name_len", "parse__tree__helpers_8h.html#a74fc47f2c98f0da3b083c12f6d8fd351", null ],
+    [ "check_resource_group_support", "parse__tree__helpers_8h.html#af29218d246da05b0a47fba218b3a48c3", null ],
+    [ "contextualize_array", "parse__tree__helpers_8h.html#aa703f48b672c8479029cb435b4f4061f", null ],
+    [ "create_item_for_sp_var", "parse__tree__helpers_8h.html#a4c3fe36400843fd50616e6411c05cf25", null ],
+    [ "find_sys_var_null_base", "parse__tree__helpers_8h.html#a184f45b95539c97b300c5b0fe5bb25c1", null ],
+    [ "flatten_associative_operator", "parse__tree__helpers_8h.html#aa53de2d0655a30d72c2ffc25cee48430", null ],
+    [ "is_identifier", "parse__tree__helpers_8h.html#af337f753c5c8a4ffc7917c97a02d9c88", null ],
+    [ "is_identifier", "parse__tree__helpers_8h.html#a64942e76ef5041e99f8914a40fb0031a", null ],
+    [ "is_key_cache_variable_suffix", "parse__tree__helpers_8h.html#a3dbf22a9d408553382dfa0aeed704336", null ],
+    [ "item_cond_cast", "parse__tree__helpers_8h.html#adbf38aa0b3d7b479e473d6fe504021bb", null ],
+    [ "make_string", "parse__tree__helpers_8h.html#a0de331bf636f28bd8686faa749f69418", null ],
+    [ "move_cf_appliers", "parse__tree__helpers_8h.html#af6bf4c713ff90956b07e444d2610b35b", null ],
+    [ "resolve_engine", "parse__tree__helpers_8h.html#a8e23d2f64a5b80d567f80677119516d7", null ],
+    [ "set_system_variable", "parse__tree__helpers_8h.html#aa41c1b724a935c3b4809fe00d703fd0d", null ],
+    [ "set_trigger_new_row", "parse__tree__helpers_8h.html#a6823e08096c4f6f4f173fc0502cd199a", null ],
+    [ "sp_create_assignment_instr", "parse__tree__helpers_8h.html#a297f38156cbd0f45da60873f40081928", null ],
+    [ "sp_create_assignment_lex", "parse__tree__helpers_8h.html#a39dd82293fa2f16c7166e61ed615dfb1", null ],
+    [ "validate_resource_group_priority", "parse__tree__helpers_8h.html#adbc70b7adff7264b4b06ba3752402749", null ],
+    [ "validate_vcpu_range", "parse__tree__helpers_8h.html#a718da397d0fdd17e4e0dc3df5605284f", null ]
+];

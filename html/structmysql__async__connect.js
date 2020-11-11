@@ -1,0 +1,26 @@
+var structmysql__async__connect =
+[
+    [ "auth_context", "structmysql__async__connect.html#a8e8108e8a4a5e6f335956c12aeee1f7a", null ],
+    [ "buff", "structmysql__async__connect.html#a2c153b017afc21c2e841e010e11bee8f", null ],
+    [ "client_flag", "structmysql__async__connect.html#a8a36a3a06bc0f8ea1472735fa89a9d3f", null ],
+    [ "current_init_command", "structmysql__async__connect.html#a6475ee02abf0ff130203388c87d87007", null ],
+    [ "db", "structmysql__async__connect.html#ad5707642c8bf0d49fb2156906628fe8a", null ],
+    [ "host", "structmysql__async__connect.html#af88bb911d40d6e7ea82f878e9231604c", null ],
+    [ "host_info", "structmysql__async__connect.html#a773776ba5358ac4a4c70cfcfac11c57f", null ],
+    [ "mysql", "structmysql__async__connect.html#a70954b9357d90d957bd5067e67b6881f", null ],
+    [ "non_blocking", "structmysql__async__connect.html#a9b4b11cceb1611ceb8d6226c31a7943e", null ],
+    [ "passwd", "structmysql__async__connect.html#adc12969ba50372bc66fe5efe42b2070f", null ],
+    [ "pkt_length", "structmysql__async__connect.html#abe90afd98dbf3dc3b42ed8c4aee6439d", null ],
+    [ "port", "structmysql__async__connect.html#a8aefdb7969d33a64935f6e266027bc81", null ],
+    [ "saved_reconnect", "structmysql__async__connect.html#acc2002e6eb4d2dd0a7bf9bb16ffd6eeb", null ],
+    [ "scramble_buffer", "structmysql__async__connect.html#af6dad405295bdebef3db337a22475c7a", null ],
+    [ "scramble_buffer_allocated", "structmysql__async__connect.html#a94c5462670f305eebf04c94533c0fd8b", null ],
+    [ "scramble_data", "structmysql__async__connect.html#a1626f070efbb48e3cd3a6a73f3609857", null ],
+    [ "scramble_data_len", "structmysql__async__connect.html#a3e323eeaa5f1f124d293500379874c19", null ],
+    [ "scramble_plugin", "structmysql__async__connect.html#a0c67323baea4f30a4292da73eefa663c", null ],
+    [ "ssl", "structmysql__async__connect.html#a32c1feea04d4e19493c131e4a4859434", null ],
+    [ "ssl_state", "structmysql__async__connect.html#a628d0d55232832e62cbb806cf90ad25b", null ],
+    [ "state_function", "structmysql__async__connect.html#a3f2fbf5227101c9ae7408a5c58a96adb", null ],
+    [ "unix_socket", "structmysql__async__connect.html#addb45ef99daf29c602d6b29c2ee58eba", null ],
+    [ "user", "structmysql__async__connect.html#ac7117acee47425724873dc17074dd964", null ]
+];

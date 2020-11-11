@@ -1,0 +1,5 @@
+var structboost_1_1geometry_1_1traits_1_1indexed__access_3_01gis_1_1Geographic__box_00_01min__corner_00_01Dimension_01_4 =
+[
+    [ "get", "structboost_1_1geometry_1_1traits_1_1indexed__access_3_01gis_1_1Geographic__box_00_01min__corner_00_01Dimension_01_4.html#ae41cf212b4cc77d7dc0e319a28e71340", null ],
+    [ "set", "structboost_1_1geometry_1_1traits_1_1indexed__access_3_01gis_1_1Geographic__box_00_01min__corner_00_01Dimension_01_4.html#abc1ec4e32f740d68dbf64364dd0f1453", null ]
+];

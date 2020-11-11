@@ -1,0 +1,38 @@
+var classRsegs =
+[
+    [ "undo_space_states", "classRsegs.html#acf8f9f396786a64a0940b5a7628f0664", [
+      [ "INIT", "classRsegs.html#acf8f9f396786a64a0940b5a7628f0664a5b839400750bb9e598cda41e00f9a068", null ],
+      [ "ACTIVE", "classRsegs.html#acf8f9f396786a64a0940b5a7628f0664a5eb1046a790fa7f880744056aaa13361", null ],
+      [ "INACTIVE_IMPLICIT", "classRsegs.html#acf8f9f396786a64a0940b5a7628f0664a484c059d2e6d144910f942cce181446e", null ],
+      [ "INACTIVE_EXPLICIT", "classRsegs.html#acf8f9f396786a64a0940b5a7628f0664a62bc93048b531ad86e8e6f93f90dbd10", null ],
+      [ "EMPTY", "classRsegs.html#acf8f9f396786a64a0940b5a7628f0664a230a43ea3ccdd1d6e72bb2e81db286f0", null ]
+    ] ],
+    [ "Rsegs", "classRsegs.html#a7f6df25c4a226945570568c0e6b553f0", null ],
+    [ "~Rsegs", "classRsegs.html#a0c9105944ca2d723d739421865c8d7fb", null ],
+    [ "at", "classRsegs.html#a1b44020f2e610c8876e3cd489fe1e99b", null ],
+    [ "begin", "classRsegs.html#ac8a03ce8af5ce516d76a6bb1a634048a", null ],
+    [ "clear", "classRsegs.html#a49cd8d2862c71e7d74d9ad37d91737f2", null ],
+    [ "deinit", "classRsegs.html#ad3f0d576f4ace1f938e7cc773434e04e", null ],
+    [ "end", "classRsegs.html#a76b15ae855073e0f61a1e111cd4694c5", null ],
+    [ "find", "classRsegs.html#a36ae0af7697c7e85c8fd5ba966dac509", null ],
+    [ "init", "classRsegs.html#ae2c14b0b8943b7a0f6c8a0f3a8678c2c", null ],
+    [ "is_active", "classRsegs.html#ac6d7a95d67a14ba6b4d2f752a38e9769", null ],
+    [ "is_empty", "classRsegs.html#a691b9e6706efcb3b321463bf60422b87", null ],
+    [ "is_inactive_explicit", "classRsegs.html#a9e963cef44c61377a934951d45025c93", null ],
+    [ "is_inactive_implicit", "classRsegs.html#a99b7ea890e3c548d06f954cfc5f72154", null ],
+    [ "is_init", "classRsegs.html#a9148fddcebec3bd9a06d4652a38cd4e1", null ],
+    [ "push_back", "classRsegs.html#a501ecb0dbb0de6a40ab8e8bb9831b848", null ],
+    [ "s_lock", "classRsegs.html#a690df18cd10df60177fdba151d0bd4e5", null ],
+    [ "s_unlock", "classRsegs.html#ab8e96edd782181617432706e19f86aec", null ],
+    [ "set_active", "classRsegs.html#a5529a2ae92a688c7abd0628405fc0ca2", null ],
+    [ "set_empty", "classRsegs.html#a0f8972cfc3ede67ec0d622563bda0b6a", null ],
+    [ "set_inactive_explicit", "classRsegs.html#abc522be32806944f94be4d7d0031ffa0", null ],
+    [ "set_inactive_implicit", "classRsegs.html#a1f075b436e4a0f0415571f081eada5c3", null ],
+    [ "size", "classRsegs.html#aa90ec8fa81e8a82279bb9d7202469018", null ],
+    [ "sort", "classRsegs.html#a90a25ba57051634cea142ec80fa29153", null ],
+    [ "x_lock", "classRsegs.html#ad5fa6277f8c1cd94bd76f51b9f45ffcb", null ],
+    [ "x_unlock", "classRsegs.html#acdefd94c291e46672ce9e5d8bcd3fafd", null ],
+    [ "m_latch", "classRsegs.html#a20bbdf4d548bc5ccc4c3ea6364419ad6", null ],
+    [ "m_rsegs", "classRsegs.html#a4e3b533869b9a874d2d689352ffaf343", null ],
+    [ "m_state", "classRsegs.html#a6e6159a28e4182c5ba114eaa6dada745", null ]
+];

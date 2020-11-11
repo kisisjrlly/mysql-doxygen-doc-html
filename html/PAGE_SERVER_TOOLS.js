@@ -1,0 +1,4 @@
+var PAGE_SERVER_TOOLS =
+[
+    [ "MySQL Router", "PAGE_MYSQL_ROUTER.html", "PAGE_MYSQL_ROUTER" ]
+];

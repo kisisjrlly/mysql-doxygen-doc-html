@@ -1,0 +1,37 @@
+var classCommit__stage__manager =
+[
+    [ "Mutex_queue", "classCommit__stage__manager_1_1Mutex__queue.html", "classCommit__stage__manager_1_1Mutex__queue" ],
+    [ "StageID", "classCommit__stage__manager.html#a87820f6cd4c5552fbbe187b02bb60be0", [
+      [ "BINLOG_FLUSH_STAGE", "classCommit__stage__manager.html#a87820f6cd4c5552fbbe187b02bb60be0aa2eaeedb90de8c3ad012b8f82a212c8c", null ],
+      [ "SYNC_STAGE", "classCommit__stage__manager.html#a87820f6cd4c5552fbbe187b02bb60be0ac2e91b8eca7331d0414c78d86fd826e4", null ],
+      [ "COMMIT_STAGE", "classCommit__stage__manager.html#a87820f6cd4c5552fbbe187b02bb60be0a88211ab4996f7881d1a75fb9978ef4ea", null ],
+      [ "COMMIT_ORDER_FLUSH_STAGE", "classCommit__stage__manager.html#a87820f6cd4c5552fbbe187b02bb60be0a52703d9abfdf18bab97cf2728b2c1fa8", null ],
+      [ "STAGE_COUNTER", "classCommit__stage__manager.html#a87820f6cd4c5552fbbe187b02bb60be0aea53d9e5e491e1a6b92f1840f2951610", null ]
+    ] ],
+    [ "Commit_stage_manager", "classCommit__stage__manager.html#ac4c8efd5672af7b1528c4fc76590d8d7", null ],
+    [ "Commit_stage_manager", "classCommit__stage__manager.html#a5934f310f4e3e3186a8e4db80798513c", null ],
+    [ "clear_preempt_status", "classCommit__stage__manager.html#a511279db5ce68b57cd3ebdd5bb7222f6", null ],
+    [ "deinit", "classCommit__stage__manager.html#a401fe1633d679c1508630c655fd61a51", null ],
+    [ "enroll_for", "classCommit__stage__manager.html#af83c9ddf0203b496402594639a4c4dd8", null ],
+    [ "fetch_queue_acquire_lock", "classCommit__stage__manager.html#ab4fd2e494824d46a9b2f127ecbee9628", null ],
+    [ "fetch_queue_skip_acquire_lock", "classCommit__stage__manager.html#af3769ebf82d16a457793123cc447b6a8", null ],
+    [ "get_instance", "classCommit__stage__manager.html#a89437cb17aa18ca4752507e7efa8e029", null ],
+    [ "init", "classCommit__stage__manager.html#a8b1b7cdbf9b87fad1b1029666f473fdd", null ],
+    [ "lock_queue", "classCommit__stage__manager.html#ae4da6e6019e99b2b1abbbe5dee15436d", null ],
+    [ "operator=", "classCommit__stage__manager.html#a0efd2bbe057c70e541632259447f3eec", null ],
+    [ "pop_front", "classCommit__stage__manager.html#af2529356ee87307fecc60a91bb851e24", null ],
+    [ "process_final_stage_for_ordered_commit_group", "classCommit__stage__manager.html#aed2bdab931c64f9888bd741e5c39c5a7", null ],
+    [ "signal_done", "classCommit__stage__manager.html#af49396c154288e76ab57cea748822eac", null ],
+    [ "unlock_queue", "classCommit__stage__manager.html#af6afe5ed0954a0f4c6f127552be31bcb", null ],
+    [ "wait_count_or_timeout", "classCommit__stage__manager.html#ac7c13bfa09a66901a2387042d5037bc5", null ],
+    [ "leader_await_preempt_status", "classCommit__stage__manager.html#a49d0c38b97ba5d08be843b845b147eb6", null ],
+    [ "leader_thd", "classCommit__stage__manager.html#aeae3d1b2d12e0e9b6409d0fe90005366", null ],
+    [ "m_cond_preempt", "classCommit__stage__manager.html#af46820c0a78a27cdf73e20d5822ad974", null ],
+    [ "m_is_initialized", "classCommit__stage__manager.html#abb39a5f2ef1e37a69fec66cabcb1fd2b", null ],
+    [ "m_lock_done", "classCommit__stage__manager.html#a206252c710872103ab216cb896a53338", null ],
+    [ "m_queue", "classCommit__stage__manager.html#a51629c8694e4853b7d08cd4825d0b474", null ],
+    [ "m_queue_lock", "classCommit__stage__manager.html#a7dd6d2dde28077154e4ad4bed6d2c502", null ],
+    [ "m_stage_cond_binlog", "classCommit__stage__manager.html#a4d9e2d7191f1a9452a92bb312674d016", null ],
+    [ "m_stage_cond_commit_order", "classCommit__stage__manager.html#a5ff063073786be9052b6f507b03ee55f", null ],
+    [ "m_stage_cond_leader", "classCommit__stage__manager.html#a2cfb2044120f03ff5a70c9e7637a00fd", null ]
+];

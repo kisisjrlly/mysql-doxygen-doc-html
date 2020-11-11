@@ -1,0 +1,28 @@
+var sql__plugin__var_8cc =
+[
+    [ "check_func_bool", "sql__plugin__var_8cc.html#a41ded57014764e37ea925b4dc5658714", null ],
+    [ "check_func_double", "sql__plugin__var_8cc.html#ad21d591ab6e60b823980607dec4b5af6", null ],
+    [ "check_func_enum", "sql__plugin__var_8cc.html#a5f70acf5de20a0f829da6241d197e872", null ],
+    [ "check_func_int", "sql__plugin__var_8cc.html#ab9c57e9fa9f785a34b55be3cfd9ea17c", null ],
+    [ "check_func_long", "sql__plugin__var_8cc.html#a6f05450211c4be8eed0e163ef754f41c", null ],
+    [ "check_func_longlong", "sql__plugin__var_8cc.html#a99d9b55f1425473d155c7fee87628d90", null ],
+    [ "check_func_set", "sql__plugin__var_8cc.html#a8f36611951decbe84a855d303aa9aee6", null ],
+    [ "check_func_str", "sql__plugin__var_8cc.html#a036cfc1df01520b3be33fa8af8c2f032", null ],
+    [ "find_bookmark", "sql__plugin__var_8cc.html#aadaefc11eaa93081eebdaabc5ec913e0", null ],
+    [ "intern_sys_var_ptr", "sql__plugin__var_8cc.html#ae2bb1552550b9721ac43c514ed26c463", null ],
+    [ "item_is_unsigned", "sql__plugin__var_8cc.html#ac3778556cf0e6cf9ac1fdb9d9232b956", null ],
+    [ "item_val_int", "sql__plugin__var_8cc.html#aa71f81ac25ffafa16844a03fea8080d5", null ],
+    [ "item_val_real", "sql__plugin__var_8cc.html#ad6df99bfce3336d1e0086895fa4a193c", null ],
+    [ "item_val_str", "sql__plugin__var_8cc.html#af1a612441c60d0ecd1fa656cf201f257", null ],
+    [ "item_value_type", "sql__plugin__var_8cc.html#add6c3483682061459a8dffed3d261ba9", null ],
+    [ "plugin_opt_set_limits", "sql__plugin__var_8cc.html#a389313334e12c494e08ff9099a6467e2", null ],
+    [ "plugin_var_memalloc_global_update", "sql__plugin__var_8cc.html#afa9a95a0ecc9256fa7fa2d280b593901", null ],
+    [ "plugin_var_memalloc_session_update", "sql__plugin__var_8cc.html#a3b1bc8f10c059f5ad3ce01bb611b9808", null ],
+    [ "pluginvar_show_type", "sql__plugin__var_8cc.html#a7b162c5a3e8998d5c4c2fac364ca91a2", null ],
+    [ "update_func_bool", "sql__plugin__var_8cc.html#a5772b9fff408d916040fd8f108083519", null ],
+    [ "update_func_double", "sql__plugin__var_8cc.html#a6e8d7dcfdd3627c50e591c3583a500df", null ],
+    [ "update_func_int", "sql__plugin__var_8cc.html#a956bce6bc4dea270f32c5124e1af4b57", null ],
+    [ "update_func_long", "sql__plugin__var_8cc.html#a4283d77f9f6a68a5d9ebee38639f3706", null ],
+    [ "update_func_longlong", "sql__plugin__var_8cc.html#a7c39f778702b9dc7f69ee091dee40a10", null ],
+    [ "update_func_str", "sql__plugin__var_8cc.html#a96213e5340039583ef6d3e48efde304f", null ]
+];

@@ -1,0 +1,26 @@
+var classSql__cmd__dml =
+[
+    [ "Sql_cmd_dml", "classSql__cmd__dml.html#a647295a42ed1e8cd893031b707b0387f", null ],
+    [ "check_all_table_privileges", "group__Query__Optimizer.html#ga23f004e1cb6ce6b40bd18635e8504015", null ],
+    [ "check_privileges", "classSql__cmd__dml.html#acefc10286d08e6d3c6269097b5079ec8", null ],
+    [ "execute", "group__Query__Optimizer.html#ga3dd34eb4762fa59c46d42cb74b915a86", null ],
+    [ "execute_inner", "group__Query__Optimizer.html#gaefe316b62ad85228d8931a8474dee8b3", null ],
+    [ "is_data_change_stmt", "classSql__cmd__dml.html#a8e2910344888e234c3f8cc5e7992fda2", null ],
+    [ "is_dml", "classSql__cmd__dml.html#a10445295b4dce8766620ee35e5c46b63", null ],
+    [ "is_empty_query", "classSql__cmd__dml.html#a0ce79b2c20d46e2142ac47324779d80d", null ],
+    [ "is_single_table_plan", "classSql__cmd__dml.html#ae87067b076e990c752ab44ac761d3935", null ],
+    [ "may_use_cursor", "classSql__cmd__dml.html#a694c1e596b07f3a95ed1b43e4a9fc157", null ],
+    [ "precheck", "classSql__cmd__dml.html#a1d36019e4748a8f8acb05238e6c28fc3", null ],
+    [ "prepare", "group__Query__Optimizer.html#ga1fca8dbb532f59224d9ca897f3311e91", null ],
+    [ "prepare_inner", "classSql__cmd__dml.html#a50525b0a191564b816efb072c60c983d", null ],
+    [ "query_result", "group__Query__Optimizer.html#ga7b85110a470360e40530494669448f44", null ],
+    [ "restore_cmd_properties", "group__Query__Optimizer.html#gaa17a75373e1849b6c001db7c0022bb54", null ],
+    [ "save_cmd_properties", "group__Query__Optimizer.html#ga85d6643eaddcec99ec847250bbc2e01a", null ],
+    [ "set_empty_query", "classSql__cmd__dml.html#abb873e8b8409eb9aaabd35b3d056f874", null ],
+    [ "set_lazy_result", "classSql__cmd__dml.html#ac16f924df64c748489dc247789f42ff4", null ],
+    [ "set_query_result", "group__Query__Optimizer.html#ga7ef0fb59d04cf7283ec4cf618aa578db", null ],
+    [ "lex", "classSql__cmd__dml.html#a5d0e257a74ccce39225b5cd4412cacd9", null ],
+    [ "m_empty_query", "classSql__cmd__dml.html#ad0f469c6908157a9f79a858f8e5aee04", null ],
+    [ "m_lazy_result", "classSql__cmd__dml.html#ac6ad15d1190d12c8ee9e63ec4cdccb6e", null ],
+    [ "result", "classSql__cmd__dml.html#ae5cbea566c18682a4b77d6237e16c136", null ]
+];

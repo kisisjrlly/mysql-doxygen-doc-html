@@ -1,0 +1,26 @@
+var router_2src_2cluster__metadata_8cc =
+[
+    [ "check_group_has_quorum", "router_2src_2cluster__metadata_8cc.html#a079b2549e21755f9fec9e62d2c9071ad", null ],
+    [ "check_group_replication_online", "router_2src_2cluster__metadata_8cc.html#a27697d7b691d9c8ce0b93979871b3548", null ],
+    [ "create_metadata", "router_2src_2cluster__metadata_8cc.html#a3421e09fb7a244a67f967486f6181d40", null ],
+    [ "do_get_routing_mode_queries", "router_2src_2cluster__metadata_8cc.html#ac5d043505badedac9fb3bb9e4457a474", null ],
+    [ "get_cluster_type", "router_2src_2cluster__metadata_8cc.html#a523b77caf075b644788074350844daec", null ],
+    [ "get_cluster_type", "router_2src_2cluster__metadata_8cc.html#aacedafe040a5f1dfc727e4d1cf2c379a", null ],
+    [ "get_grant_statements_v1", "router_2src_2cluster__metadata_8cc.html#acba700b8affc3e6abe871b8d49a14bd1", null ],
+    [ "get_grant_statements_v2", "router_2src_2cluster__metadata_8cc.html#ab89b461b854d76e68bafa08ac31f02f2", null ],
+    [ "get_metadata_schema_version", "router_2src_2cluster__metadata_8cc.html#a6d057aa205abc63148bee8d6ee80abc7", null ],
+    [ "get_string", "router_2src_2cluster__metadata_8cc.html#a359296b8e13513980683d6532981e615", null ],
+    [ "metadata_schema_version_is_compatible", "router_2src_2cluster__metadata_8cc.html#adc06387ad1974b552d59d6e82e5ff64d", null ],
+    [ "query_gr_cluster_count", "router_2src_2cluster__metadata_8cc.html#ac3504fbbde54eec7ca52769ad6ce0551", null ],
+    [ "query_metadata_servers", "router_2src_2cluster__metadata_8cc.html#ae9224ff49e438b84ca5839214e224ad8", null ],
+    [ "register_router_v1", "router_2src_2cluster__metadata_8cc.html#aa63a59b949596025153f206daf690a61", null ],
+    [ "register_router_v2", "router_2src_2cluster__metadata_8cc.html#a9c36eba4cd28b443794e44eaf3c497f1", null ],
+    [ "setup_metadata_session", "router_2src_2cluster__metadata_8cc.html#a70e281d645fcebd4b108d4a63b24cffb", null ],
+    [ "to_string", "router_2src_2cluster__metadata_8cc.html#af92974a8ba091df339583a379baeb201", null ],
+    [ "to_string", "router_2src_2cluster__metadata_8cc.html#aa07b5307791eb5dbcf03c095db7d4d37", null ],
+    [ "update_router_info_v1", "router_2src_2cluster__metadata_8cc.html#aa6d164256645fcf032ebcec58b21ea27", null ],
+    [ "update_router_info_v2", "router_2src_2cluster__metadata_8cc.html#ac00ba33d29ade836a631162ae84cd17a", null ],
+    [ "verify_router_id_is_ours_v1", "router_2src_2cluster__metadata_8cc.html#a722e30c197a3ba2e3634c2ee706f9088", null ],
+    [ "verify_router_id_is_ours_v2", "router_2src_2cluster__metadata_8cc.html#a44bc7033d5afe075ac5bf6a9bf952aa4", null ],
+    [ "kDefaultSqlMode", "router_2src_2cluster__metadata_8cc.html#abfe84c89afc72178ce37d6ed9309b849", null ]
+];

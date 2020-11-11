@@ -1,0 +1,37 @@
+var ft__global_8h =
+[
+    [ "_ft_vft", "struct__ft__vft.html", "struct__ft__vft" ],
+    [ "_ft_vft_ext", "struct__ft__vft__ext.html", "struct__ft__vft__ext" ],
+    [ "FT_INFO", "structFT__INFO.html", "structFT__INFO" ],
+    [ "FT_INFO_EXT", "structFT__INFO__EXT.html", "structFT__INFO__EXT" ],
+    [ "ft_hints", "structft__hints.html", "structft__hints" ],
+    [ "DEFAULT_FTB_SYNTAX", "ft__global_8h.html#a6027280833d3e63c4a84fadd7cac7f36", null ],
+    [ "FT_BOOL", "ft__global_8h.html#af08487bba29d907ac51290eba3ae448b", null ],
+    [ "FT_EXPAND", "ft__global_8h.html#a827688ecd23382a3076e2e9b1b5e8b05", null ],
+    [ "FT_NL", "ft__global_8h.html#ab9f93aeea0be6e58d60a1c3197b156fe", null ],
+    [ "FT_NO_RANKING", "ft__global_8h.html#a4a36c7158a5691d38560bab35bc1076a", null ],
+    [ "FT_SORTED", "ft__global_8h.html#a8b458aa9f62e52d2471bc0df27d8e984", null ],
+    [ "FTS_DOC_ID_COL_NAME", "ft__global_8h.html#af7ca71b793201492e95da03003e7b640", null ],
+    [ "FTS_DOCID_IN_RESULT", "ft__global_8h.html#a502129641e6e81dda93dd371ea261845", null ],
+    [ "FTS_NGRAM_PARSER_NAME", "ft__global_8h.html#a0d617addc894ed049e2854c7f5b8e734", null ],
+    [ "FTS_ORDERED_RESULT", "ft__global_8h.html#aadbc8dac2172f489e2cfb15574c55021", null ],
+    [ "HA_FT_MAXBYTELEN", "ft__global_8h.html#a768a308dfd62124b9386fe43c109265e", null ],
+    [ "HA_FT_MAXCHARLEN", "ft__global_8h.html#adfa73abd3bf0c8475e8355171f5dc0f4", null ],
+    [ "ft_operation", "ft__global_8h.html#a4ab517d0ae9b1bda69b5fb819a2c47ba", [
+      [ "FT_OP_UNDEFINED", "ft__global_8h.html#a4ab517d0ae9b1bda69b5fb819a2c47baa2a1071a883c12e4baf34f91f33a41a3f", null ],
+      [ "FT_OP_NO", "ft__global_8h.html#a4ab517d0ae9b1bda69b5fb819a2c47baa898ea8ad3a1e46cba318f97f54007ca8", null ],
+      [ "FT_OP_GT", "ft__global_8h.html#a4ab517d0ae9b1bda69b5fb819a2c47baacef732d50f8651799ec8b9d4c511f76b", null ],
+      [ "FT_OP_GE", "ft__global_8h.html#a4ab517d0ae9b1bda69b5fb819a2c47baadcb29b8fd78c8e43d99749822b405c4e", null ]
+    ] ],
+    [ "ft_boolean_check_syntax_string", "ft__global_8h.html#ae5b6752b5caae66a5c5d6d24af196533", null ],
+    [ "ft_free_stopwords", "ft__global_8h.html#a77ff15d9e2eac4b0db30ee8a148d09c4", null ],
+    [ "ft_init_search", "ft__global_8h.html#a0aab4792d4c0449c1fa1addf918ddb03", null ],
+    [ "ft_init_stopwords", "ft__global_8h.html#ab2629876503752fee450ec8cf1cdf885", null ],
+    [ "ft_boolean_syntax", "ft__global_8h.html#a9970dd156a98ac028a54cf8dae58508e", null ],
+    [ "ft_default_parser", "ft__global_8h.html#a47b727b29fc7d81e630f605a10de00a5", null ],
+    [ "ft_max_word_len", "ft__global_8h.html#a8f4a53ec4602c958c3903abc24990e32", null ],
+    [ "ft_min_word_len", "ft__global_8h.html#a9064b45a9dca3966b55885050be74f04", null ],
+    [ "ft_precompiled_stopwords", "ft__global_8h.html#a84488eec29dbed8b8d6f09c80265ae31", null ],
+    [ "ft_query_expansion_limit", "ft__global_8h.html#acb0635f3490cfcfbbd0fc962241a80de", null ],
+    [ "ft_stopword_file", "ft__global_8h.html#a4277e1313e26a1dcc8c2c3d5da4b0f21", null ]
+];
